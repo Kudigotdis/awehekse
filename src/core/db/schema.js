@@ -40,4 +40,8 @@ db.version(4).stores({
   recoveryDiary: '++id, profileId, date, [profileId+date]'
 })
 
+db.version(5).stores({
+  content: 'id, pillar, category, ageGroup, title, type'
+})
+
 export default db

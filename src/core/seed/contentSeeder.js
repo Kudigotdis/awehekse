@@ -10,7 +10,7 @@ import { libraryEntries } from '../../data/library'
 import dictionary from '../../data/dictionary.json'
 import professionals from '../../data/professionals.json'
 
-const SEED_VERSION = 'tov-native-seed-v2'
+const SEED_VERSION = 'tov-native-seed-v3'
 const SEED_FLAG_KEY = '__seed_complete__'
 
 async function isAlreadySeeded() {
