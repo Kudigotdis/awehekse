@@ -7,9 +7,7 @@ import App from './App.jsx'
 
 const updateSW = registerSW({
   onNeedRefresh() {
-    if (confirm('New content available. Reload to update?')) {
-      updateSW()
-    }
+    updateSW()
   },
   onOfflineReady() {
     console.log('App ready for offline use')
