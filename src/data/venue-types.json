@@ -1,0 +1,244 @@
+{
+  "venue_categories": [
+    {
+      "category": "Corporate & Business",
+      "items": [
+        {
+          "name": "Convention Centers",
+          "description": "Massive spaces for trade shows.",
+          "ref_ids": [1, 2, 3, 4, 5]
+        },
+        {
+          "name": "Conference Centers",
+          "description": "Specialized facilities for meetings.",
+          "ref_ids": [1, 2, 3, 4, 5]
+        },
+        {
+          "name": "Co-working Spaces",
+          "description": "Trendy spots for workshops.",
+          "ref_ids": [1, 2, 3, 4, 5]
+        },
+        {
+          "name": "Hotel Meeting Rooms",
+          "description": "Classic spaces with catering.",
+          "ref_ids": [1, 2, 3, 4, 5]
+        },
+        {
+          "name": "Boardrooms",
+          "description": "Intimate spaces for high-level meetings.",
+          "ref_ids": [1, 2, 3, 4, 5]
+        },
+        {
+          "name": "Business Centers",
+          "description": "Functional areas for local seminars.",
+          "ref_ids": [1, 2, 3, 4, 5]
+        }
+      ]
+    },
+    {
+      "category": "Social & Celebratory",
+      "items": [
+        {
+          "name": "Banquet Halls",
+          "description": "Traditional spaces for large galas.",
+          "ref_ids": [6, 7, 8, 9, 10]
+        },
+        {
+          "name": "Ballrooms",
+          "description": "Elegant rooms for formal weddings.",
+          "ref_ids": [6, 7, 8, 9, 10]
+        },
+        {
+          "name": "Country Clubs",
+          "description": "Private upscale spaces with golf courses.",
+          "ref_ids": [6, 7, 8, 9, 10]
+        },
+        {
+          "name": "Estates & Mansions",
+          "description": "Luxury historic properties for parties.",
+          "ref_ids": [6, 7, 8, 9, 10]
+        },
+        {
+          "name": "Rooftops",
+          "description": "Scenic outdoor spaces with city views.",
+          "ref_ids": [6, 7, 8, 9, 10]
+        },
+        {
+          "name": "Community Centers",
+          "description": "Affordable local spaces for gatherings.",
+          "ref_ids": [6, 7, 8, 9, 10]
+        }
+      ]
+    },
+    {
+      "category": "Arts & Entertainment",
+      "items": [
+        {
+          "name": "Theaters",
+          "description": "Tiered seating for performances or keynotes.",
+          "ref_ids": [11, 12, 13]
+        },
+        {
+          "name": "Art Galleries",
+          "description": "Minimalist backdrops for sophisticated mixers.",
+          "ref_ids": [11, 12, 13]
+        },
+        {
+          "name": "Museums",
+          "description": "Unique, historic settings for evening events.",
+          "ref_ids": [11, 12, 13]
+        },
+        {
+          "name": "Concert Halls",
+          "description": "High-tech audio setups for live music.",
+          "ref_ids": [11, 12, 13]
+        },
+        {
+          "name": "Cinemas",
+          "description": "Great for private screenings or presentations.",
+          "ref_ids": [11, 12, 13]
+        },
+        {
+          "name": "Amphitheaters",
+          "description": "Outdoor tiered seating for large crowds.",
+          "ref_ids": [11, 12, 13]
+        }
+      ]
+    },
+    {
+      "category": "Food & Beverage",
+      "items": [
+        {
+          "name": "Restaurants",
+          "description": "Built-in catering for private dining.",
+          "ref_ids": [14, 15, 16]
+        },
+        {
+          "name": "Bars & Lounges",
+          "description": "Casual vibes for networking mixers.",
+          "ref_ids": [14, 15, 16]
+        },
+        {
+          "name": "Breweries & Distilleries",
+          "description": "Industrial spaces for relaxed gatherings.",
+          "ref_ids": [14, 15, 16]
+        },
+        {
+          "name": "Wineries & Vineyards",
+          "description": "Scenic outdoor backdrops with tastings.",
+          "ref_ids": [14, 15, 16]
+        },
+        {
+          "name": "Cafes & Bistros",
+          "description": "Cozy spots for small meetups.",
+          "ref_ids": [14, 15, 16]
+        },
+        {
+          "name": "Nightclubs",
+          "description": "High-energy spaces with sound and lighting.",
+          "ref_ids": [14, 15, 16]
+        }
+      ]
+    },
+    {
+      "category": "Outdoor & Unique",
+      "items": [
+        {
+          "name": "Parks & Gardens",
+          "description": "Natural settings for festivals or picnics.",
+          "ref_ids": [17, 18, 19, 20, 21]
+        },
+        {
+          "name": "Beaches & Waterfronts",
+          "description": "Scenic options for summer events.",
+          "ref_ids": [17, 18, 19, 20, 21]
+        },
+        {
+          "name": "Ranches & Barns",
+          "description": "Rustic venues for weddings or retreats.",
+          "ref_ids": [17, 18, 19, 20, 21]
+        },
+        {
+          "name": "Warehouses",
+          "description": "Blank-canvas industrial spaces for custom builds.",
+          "ref_ids": [17, 18, 19, 20, 21]
+        },
+        {
+          "name": "Pop-Up Retail Spaces",
+          "description": "Short-term storefronts for brand activations.",
+          "ref_ids": [17, 18, 19, 20, 21]
+        },
+        {
+          "name": "Yachts & Boats",
+          "description": "Moving venues for exclusive cruise parties.",
+          "ref_ids": [17, 18, 19, 20, 21]
+        }
+      ]
+    },
+    {
+      "category": "Sports & Academic",
+      "items": [
+        {
+          "name": "Stadiums & Arenas",
+          "description": "Massive capacities for sports or mega-concerts.",
+          "ref_ids": [22, 23, 24, 25, 26]
+        },
+        {
+          "name": "Gymnasiums",
+          "description": "Flexible indoor courts for community tournaments.",
+          "ref_ids": [22, 23, 24, 25, 26]
+        },
+        {
+          "name": "University Lecture Halls",
+          "description": "Budget-friendly seating for educational summits.",
+          "ref_ids": [22, 23, 24, 25, 26]
+        },
+        {
+          "name": "Academic Campuses",
+          "description": "Large grounds for multi-day summer conferences.",
+          "ref_ids": [22, 23, 24, 25, 26]
+        }
+      ]
+    },
+    {
+      "category": "Educational & Academic",
+      "items": [
+        {
+          "name": "School Halls & Auditoriums",
+          "description": "Large stages for community theater and town halls.",
+          "ref_ids": []
+        },
+        {
+          "name": "Classrooms",
+          "description": "Ideal spaces for seminars, tutoring, and language workshops.",
+          "ref_ids": []
+        },
+        {
+          "name": "Lecture Theaters",
+          "description": "Tiered seating with built-in projectors for presentations.",
+          "ref_ids": []
+        },
+        {
+          "name": "School Gymnasiums",
+          "description": "High-capacity indoor courts for indoor sports or markets.",
+          "ref_ids": []
+        },
+        {
+          "name": "Cafeterias",
+          "description": "Flexible, open seating areas for casual weekend gatherings.",
+          "ref_ids": []
+        },
+        {
+          "name": "Playgrounds & Fields",
+          "description": "Outdoor school spaces for community sports days.",
+          "ref_ids": []
+        },
+        {
+          "name": "Libraries & Media Centers",
+          "description": "Quiet, professional backdrops for book launches or study groups.",
+          "ref_ids": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  { "code": "AO", "name": "Angola", "flag": "🇦🇴" },
+  { "code": "BW", "name": "Botswana", "flag": "🇧🇼" },
+  { "code": "CD", "name": "DR Congo", "flag": "🇨🇩" },
+  { "code": "KM", "name": "Comoros", "flag": "🇰🇲" },
+  { "code": "SZ", "name": "Eswatini", "flag": "🇸🇿" },
+  { "code": "LS", "name": "Lesotho", "flag": "🇱🇸" },
+  { "code": "MG", "name": "Madagascar", "flag": "🇲🇬" },
+  { "code": "MW", "name": "Malawi", "flag": "🇲🇼" },
+  { "code": "MU", "name": "Mauritius", "flag": "🇲🇺" },
+  { "code": "MZ", "name": "Mozambique", "flag": "🇲🇿" },
+  { "code": "NA", "name": "Namibia", "flag": "🇳🇦" },
+  { "code": "SC", "name": "Seychelles", "flag": "🇸🇨" },
+  { "code": "ZA", "name": "South Africa", "flag": "🇿🇦" },
+  { "code": "TZ", "name": "Tanzania", "flag": "🇹🇿" },
+  { "code": "ZM", "name": "Zambia", "flag": "🇿🇲" },
+  { "code": "ZW", "name": "Zimbabwe", "flag": "🇿🇼" }
+]

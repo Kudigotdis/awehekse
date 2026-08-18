@@ -1,0 +1,260 @@
+[
+ {
+  "slang": "Mutoriro",
+  "clinical": "Crystal Methamphetamine",
+  "category": "substance",
+  "desc": "A potent synthetic stimulant (\"crystal meth\") that causes intense euphoria, severe dental decay, paranoia, and addiction. Known as \"Dombo\" or \"Guka\" in Zim."
+ },
+ {
+  "slang": "Guka",
+  "clinical": "Crystal Methamphetamine",
+  "category": "substance",
+  "desc": "Another Zim street name for crystal meth, associated with rapid addiction, psychosis, and physical deterioration."
+ },
+ {
+  "slang": "Tik",
+  "clinical": "Crystal Methamphetamine",
+  "category": "substance",
+  "desc": "South African slang for crystal meth. Causes severe addiction, \"meth mouth\", paranoia, and long-term brain damage."
+ },
+ {
+  "slang": "Nyaope",
+  "clinical": "Heroin & Street Opiates",
+  "category": "substance",
+  "desc": "A dangerous street mixture of heroin, antiretrovirals, and other substances. Highly addictive, causes respiratory depression and fatal overdose risk."
+ },
+ {
+  "slang": "Whoonga",
+  "clinical": "Heroin & Street Opiates",
+  "category": "substance",
+  "desc": "Similar to Nyaope, a heroin-based street drug mixed with dangerous adulterants. Leads to rapid dependency and severe withdrawal."
+ },
+ {
+  "slang": "Bronco",
+  "clinical": "Codeine / Prescription Cough Syrups",
+  "category": "substance",
+  "desc": "Zimbabwean slang for Broncleer (codeine syrup). Misused as a cheap intoxicant, causes respiratory depression, constipation, and addiction."
+ },
+ {
+  "slang": "Lean",
+  "clinical": "Codeine / Prescription Cough Syrups",
+  "category": "substance",
+  "desc": "Global term for codeine-based syrup mixed with soda. Causes sedation, euphoria, and high risk of respiratory failure when combined with alcohol."
+ },
+ {
+  "slang": "Aviator",
+  "clinical": "Gambling & Sports Betting",
+  "category": "conditioning",
+  "desc": "A popular Zimbabwean betting game. Gambling addiction leads to severe debt, family breakdown, and depression."
+ },
+ {
+  "slang": "Fafi",
+  "clinical": "Gambling & Sports Betting",
+  "category": "conditioning",
+  "desc": "South African street betting game. Hijacks reward pathways, causes compulsive loss-chasing and catastrophic financial consequences."
+ },
+ {
+  "slang": "Musombodia",
+  "clinical": "Alcohol & Spirits",
+  "category": "substance",
+  "desc": "High-proof illicit alcohol in Zimbabwe. Causes rapid intoxication, liver damage, and methanol poisoning risk when poorly distilled."
+ },
+ {
+  "slang": "Kachasu",
+  "clinical": "Alcohol & Spirits",
+  "category": "substance",
+  "desc": "Traditional Zimbabwean brew, often high in alcohol content. Chronic use leads to liver cirrhosis, dependency, and social harm."
+ },
+ {
+  "slang": "Mbanje",
+  "clinical": "Cannabis / Mbanje / Skunk",
+  "category": "substance",
+  "desc": "Zimbabwean term for cannabis. High-THC strains can impair memory, trigger anxiety, and in vulnerable users, psychotic episodes."
+ },
+ {
+  "slang": "Dagga",
+  "clinical": "Cannabis / Mbanje / Skunk",
+  "category": "substance",
+  "desc": "South African slang for cannabis. Regular use affects motivation, cognition, and can exacerbate mental health conditions."
+ },
+ {
+  "slang": "Zol",
+  "clinical": "Cannabis / Mbanje / Skunk",
+  "category": "substance",
+  "desc": "South African term for cannabis, often smoked in a \"zol\" (joint). Chronic use linked to respiratory issues and dependency."
+ },
+ {
+  "slang": "Spice",
+  "clinical": "Synthetic Cannabinoids",
+  "category": "substance",
+  "desc": "Synthetic cannabinoid spray, causes unpredictable severe toxicity, rapid heart rate, vomiting, seizures, and acute psychosis."
+ },
+ {
+  "slang": "K2",
+  "clinical": "Synthetic Cannabinoids",
+  "category": "substance",
+  "desc": "Another name for synthetic cannabinoids. Full agonist potency causes extreme agitation, paranoia, and life-threatening complications."
+ },
+ {
+  "slang": "Coke",
+  "clinical": "Cocaine & Crack Cocaine",
+  "category": "substance",
+  "desc": "Powder cocaine, a powerful stimulant. Causes short euphoria, followed by severe anxiety, paranoia, and cardiovascular collapse risk."
+ },
+ {
+  "slang": "Yayo",
+  "clinical": "Cocaine & Crack Cocaine",
+  "category": "substance",
+  "desc": "Global slang for cocaine. Highly addictive, causes nasal damage, heart strain, and severe psychological dependency."
+ },
+ {
+  "slang": "Mandrax",
+  "clinical": "Dissociative Anesthetics & Sedatives",
+  "category": "substance",
+  "desc": "South African term for methaqualone (Mandrax). A powerful sedative, causes drowsiness, amnesia, and fatal overdose risk when combined with alcohol."
+ },
+ {
+  "slang": "Buttons",
+  "clinical": "Dissociative Anesthetics & Sedatives",
+  "category": "substance",
+  "desc": "Street name for Mandrax tablets. Misuse leads to severe sedation, memory loss, and high dependency potential."
+ },
+ {
+  "slang": "Genkem",
+  "clinical": "Inhalants & Industrial Solvents",
+  "category": "substance",
+  "desc": "South African glue-sniffing term. Causes rapid intoxication, irreversible brain damage, liver failure, and sudden fatal arrhythmia."
+ },
+ {
+  "slang": "Petrol",
+  "clinical": "Inhalants & Industrial Solvents",
+  "category": "substance",
+  "desc": "Gasoline inhalation. Causes severe neurological damage, memory loss, seizures, and organ failure. Common among street children."
+ },
+ {
+  "slang": "Kurova nepfungwa",
+  "clinical": "Major Depressive Disorder",
+  "category": "mental",
+  "desc": "Shona term for \"depression\" or \"overthinking\". Persistent sadness, loss of interest, physical fatigue, and suicidal thoughts."
+ },
+ {
+  "slang": "Kusurukirwa",
+  "clinical": "Major Depressive Disorder",
+  "category": "mental",
+  "desc": "Zimbabwean term for feeling low or depressed. Chronic sadness, worthlessness, and disruption of daily functioning."
+ },
+ {
+  "slang": "Mapangachini",
+  "clinical": "Generalized Anxiety Disorder",
+  "category": "mental",
+  "desc": "Zimbabwean slang for anxiety or worry. Persistent excessive worry, muscle tension, fatigue, and difficulty concentrating."
+ },
+ {
+  "slang": "Kubhaiza",
+  "clinical": "Social Anxiety Disorder",
+  "category": "mental",
+  "desc": "Shona term for freezing or failing under social stress. Intense fear of scrutiny, blushing, sweating, and social avoidance."
+ },
+ {
+  "slang": "Kupenga",
+  "clinical": "Schizophrenia",
+  "category": "mental",
+  "desc": "Shona term for psychosis or schizophrenia. Hallucinations, delusions, disorganized thinking, and social withdrawal."
+ },
+ {
+  "slang": "Kutsva musoro",
+  "clinical": "Schizophrenia",
+  "category": "mental",
+  "desc": "Zimbabwean expression meaning \"burnt head\" — referring to severe psychosis, disorganized thoughts, and loss of reality testing."
+ },
+ {
+  "slang": "Unalive-thoughts",
+  "clinical": "Suicidal Ideation",
+  "category": "mental",
+  "desc": "Internet-age term for suicidal thoughts. Passive or active planning to end one's life. Requires immediate crisis intervention."
+ },
+ {
+  "slang": "The Gram",
+  "clinical": "Social Media Conditioning",
+  "category": "conditioning",
+  "desc": "Instagram. Algorithmic feeds create FOMO, social comparison, validation dependence, and disrupted sleep patterns."
+ },
+ {
+  "slang": "Doom-scroll",
+  "clinical": "Social Media Conditioning",
+  "category": "conditioning",
+  "desc": "Compulsive consumption of negative news online. Raises cortisol, traps users in anxiety loops, and reinforces hopelessness."
+ },
+ {
+  "slang": "Loot-boxes",
+  "clinical": "Online Gaming Conditioning",
+  "category": "conditioning",
+  "desc": "Predatory game mechanics that trigger dopamine through random rewards. Leads to compulsive spending and gambling-like behavior."
+ },
+ {
+  "slang": "Rage-farming",
+  "clinical": "Algorithmic Rage-Bait",
+  "category": "conditioning",
+  "desc": "Content engineered to provoke outrage. Traps users in dopamine-stress loops, reinforces black-and-white thinking."
+ },
+ {
+  "slang": "Tinder-swiping",
+  "clinical": "Dating & Hookup Apps",
+  "category": "conditioning",
+  "desc": "Swipe-based dating apps. Creates validation dependence, rejection sensitivity, and commodification of social interaction."
+ },
+ {
+  "slang": "Hollywoodbets",
+  "clinical": "Gambling & Sports Betting",
+  "category": "conditioning",
+  "desc": "Major South African betting platform. Gambling addiction causes debt, depression, and family breakdown."
+ },
+ {
+  "slang": "Spina Zonke",
+  "clinical": "Gambling & Sports Betting",
+  "category": "conditioning",
+  "desc": "South African gambling term meaning \"win everything\". Hijacks reward pathways, causes compulsive loss-chasing."
+ },
+ {
+  "slang": "Mairungi",
+  "clinical": "Khat / Mairungi",
+  "category": "substance",
+  "desc": "Zimbabwean term for khat, a traditional stimulant. Increases alertness, suppresses appetite, causes mouth ulcers and high blood pressure."
+ },
+ {
+  "slang": "Kat",
+  "clinical": "Khat / Mairungi",
+  "category": "substance",
+  "desc": "South African term for khat. Chewed for energy, but chronic use leads to sleep disruption, hypertension, and oral damage."
+ },
+ {
+  "slang": "Sterkfontein-bound",
+  "clinical": "Schizophrenia",
+  "category": "mental",
+  "desc": "South African reference to Sterkfontein psychiatric hospital. Slang for severe psychosis requiring institutional care."
+ },
+ {
+  "slang": "Ingutsheni-bound",
+  "clinical": "Schizophrenia",
+  "category": "mental",
+  "desc": "Zimbabwean reference to Ingutsheni psychiatric hospital. Indicates severe psychotic breakdown needing clinical admission."
+ },
+ {
+  "slang": "Snow",
+  "clinical": "Cocaine & Crack Cocaine",
+  "category": "substance",
+  "desc": "Global street name for cocaine. Short-lived euphoria followed by intense crash, paranoia, and cardiovascular damage."
+ },
+ {
+  "slang": "Blow",
+  "clinical": "Cocaine & Crack Cocaine",
+  "category": "substance",
+  "desc": "Another global term for cocaine. Highly addictive, causes nasal perforation, heart strain, and severe psychological dependency."
+ },
+ {
+  "slang": "Kush",
+  "clinical": "Cannabis / Mbanje / Skunk",
+  "category": "substance",
+  "desc": "Global term for high-potency cannabis strains. Strong THC content increases risk of anxiety, paranoia, and psychosis."
+ }
+]

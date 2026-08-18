@@ -1,0 +1,4647 @@
+[
+  {
+    "id": "zim-pro-001",
+    "name": "Mr. Tendai Moyo",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Dedicated to guiding youth and young adults through the dual traps of chemical dependency and digital validation loops in urban Harare.",
+    "media_focus": [
+      "Cyberbullying Recovery",
+      "Social Media Validation Traps",
+      "Digital Escapism"
+    ],
+    "awareness": "Author of the local pamphlet Navigating the Screen: Youth Mental Health in Zimbabwe (2025).",
+    "public_speaking": "Available for school workshops, radio discussions, and youth seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-4102",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka/Mutoriro)",
+      "Prescription Pills (Benzodiazepines)"
+    ],
+    "mental_health": [
+      "Media-Induced Body Dysmorphia",
+      "Major Depressive Disorder"
+    ],
+    "demographic": [
+      "Adolescents (13–19)",
+      "Young Adults (20–30)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Harm Reduction Framework"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Suite 4, Milton Park Medical Chambers, Milton Park, Harare",
+    "digital": "Telehealth Available (WhatsApp Video / Zoom)",
+    "schedule": "Mon–Fri: 08:00 – 16:30 | Sat: 09:00 – 12:30",
+    "crisis": "Standard Hours Only (Refers to Emergency Services)",
+    "contact": "Call/WhatsApp: +263 77 123 4001 | Email: tmoyo@hararecounselling.co.zw",
+    "fees": "$25 – $50 USD per 50-min session",
+    "medical_aid": [
+      "Cimas",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-002",
+    "name": "Mr. Mthokozisi Mazarura",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Focusing on breaking substance dependency cycles paired with doom-scrolling and digital fatigue among Harare's workforce.",
+    "media_focus": [
+      "Screen & Dopamine Loop Dependency",
+      "Algorithmic Feeds",
+      "Video Game Addiction"
+    ],
+    "awareness": "Guest contributor on ZimTech Weekly Podcast discussing screen addiction.",
+    "public_speaking": "Available for corporate wellness days and university panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-5219",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Generalised Anxiety Disorder (GAD)",
+      "Burnout"
+    ],
+    "demographic": [
+      "Corporate Professionals",
+      "University Students"
+    ],
+    "modalities": [
+      "Acceptance and Commitment Therapy (ACT)",
+      "Mindfulness-Based Relapse Prevention"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Office 12, Avondale Health Plaza, King George Rd, Avondale, Harare",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Thu: 09:00 – 17:00 | Fri: 09:00 – 15:00",
+    "crisis": "After-Hours WhatsApp Text Support Available",
+    "contact": "Call/WhatsApp: +263 77 123 4002 | Email: m.mazarura@avondalehealth.co.zw",
+    "fees": "$25 – $50 USD per 50-min session",
+    "medical_aid": [
+      "Cimas",
+      "Generation Health",
+      "PSMAS"
+    ]
+  },
+  {
+    "id": "zim-pro-003",
+    "name": "Dr. Blessing Mpofu",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "English, Shona",
+    "bio": "Providing comprehensive psychiatric evaluation and medical detoxification protocols for complex chemical and behavioral dependencies.",
+    "media_focus": [
+      "Digital/Social Media Addiction",
+      "Mass Media Marketing Triggers",
+      "Gambling Apps"
+    ],
+    "awareness": "Co-author of Psychiatric Dimensions of Substance Abuse in Urban Zimbabwe (Medical Journal of Zim, 2024).",
+    "public_speaking": "Available for medical symposiums and clinical training keynotes.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-3310",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Prescription Opioids",
+      "Codeine/Broncleer"
+    ],
+    "mental_health": [
+      "Bipolar I & II Disorders",
+      "Severe Clinical Depression"
+    ],
+    "demographic": [
+      "Adults (25–65)",
+      "High-Executive Professionals"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychotherapy",
+      "Detox Management"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Borrowdale Medical Centre, Liberation Legacy Way, Borrowdale, Harare",
+    "digital": "Telehealth Unavailable (In-Person Clinical Evaluation Only)",
+    "schedule": "Mon–Fri: 08:30 – 16:00",
+    "crisis": "24/7 On-Call for Hospital Admissions",
+    "contact": "Call: +263 24 288 0003 | Email: dr.mpofu@borrowdalemedical.co.zw",
+    "fees": "$80 – $150 USD per evaluation",
+    "medical_aid": [
+      "All Major Schemes Accepted (Cimas, PSMAS, Alliance, FMC, GenHealth)"
+    ]
+  },
+  {
+    "id": "zim-pro-004",
+    "name": "Ms. Tariro Makoni",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Creating safe, trauma-informed psychological recovery pathways for high-density community residents facing addiction and online trauma.",
+    "media_focus": [
+      "Cyberbullying Trauma",
+      "Online Harassment",
+      "Media Escapism Habits"
+    ],
+    "awareness": "Facilitator of community mental health workshops across Chitungwiza clinics.",
+    "public_speaking": "Available for community outreach and NGO policy summits.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-7741",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Broncleer (Bronco)",
+      "Cough Syrups",
+      "Solvents/Inhalants"
+    ],
+    "mental_health": [
+      "Post-Traumatic Stress Disorder (PTSD)",
+      "Complex Trauma"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Females",
+      "Survivors of Abuse"
+    ],
+    "modalities": [
+      "Dialectical Behaviour Therapy (DBT)",
+      "Trauma-Focused CBT"
+    ],
+    "location": "Harare Province, Chitungwiza",
+    "address": "Suite 2, Unit A Medical Complex, Seke Rd, Chitungwiza",
+    "digital": "Telehealth Available (WhatsApp Audio / Call)",
+    "schedule": "Mon–Sat: 08:00 – 15:00",
+    "crisis": "Crisis Text Line Active",
+    "contact": "Call/WhatsApp: +263 77 123 4004 | Email: tmakoni@chitungwizapsych.co.zw",
+    "fees": "$40 – $80 USD (Sliding scale available)",
+    "medical_aid": [
+      "First Mutual Health",
+      "PSMAS",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-005",
+    "name": "Pastor Farai Shumba",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Offering compassionate, zero-cost peer support and spiritual grounding to youth trapped in Mbare's substance hubs.",
+    "media_focus": [
+      "Mass Media Relapse Triggers",
+      "Music Video Conditioning",
+      "Gambling Ads"
+    ],
+    "awareness": "Weekly radio presenter on community faith-based restoration programs.",
+    "public_speaking": "Available for church gatherings, youth camps, and community forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-HRE-005",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka/Mutoriro)",
+      "Home-brewed Alcohol (Musombodia)"
+    ],
+    "mental_health": [
+      "Severe Grief",
+      "Social Isolation",
+      "Existential Anxiety"
+    ],
+    "demographic": [
+      "At-Risk Youth",
+      "Unemployed Youth",
+      "Families in Crisis"
+    ],
+    "modalities": [
+      "Peer Guidance",
+      "12-Step Support Framework",
+      "Pastoral Counselling"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Community Care Centre, Matapi Section, Mbare, Harare",
+    "digital": "Telehealth Available (WhatsApp Direct Calls)",
+    "schedule": "Tue–Sun: 08:00 – 18:00",
+    "crisis": "24/7 Emergency Line Active",
+    "contact": "Call/WhatsApp: +263 71 123 4005 | Email: pastor.shumba@mbareoutreach.org",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-006",
+    "name": "Sister Nyaradzo Zhou",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing bedside care, vital signs monitoring, and outpatient recovery tracking in high-density Harare suburbs.",
+    "media_focus": [
+      "Screen Time Management",
+      "Information Overload",
+      "Sleep-Disrupting Media"
+    ],
+    "awareness": "Author of community health flyers on prescription drug misuse.",
+    "public_speaking": "Available for health center talks and school nurse briefings.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-8812",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Pills (Sedatives, Painkillers)",
+      "Codeine"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Panic Disorders"
+    ],
+    "demographic": [
+      "Adults",
+      "Geriatric Patients",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Conditioning",
+      "Motivational Interviewing"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Highfield Poly Clinic Annex, Mangwende Drive, Highfield, Harare",
+    "digital": "Telehealth Available (WhatsApp Consults)",
+    "schedule": "Mon–Fri: 07:30 – 16:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 4006 | Email: nzhou@highfieldhealth.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-007",
+    "name": "Mr. Takudzwa Mutasa",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "English, Shona",
+    "bio": "Specialising in cognitive restructuring for individuals struggling with self-worth tied to social media metrics and alcohol dependency.",
+    "media_focus": [
+      "Cyberbullying & Low Self-Esteem",
+      "Digital Validation Fixation",
+      "Online Identity Dysmorphia"
+    ],
+    "awareness": "Published articles on digital identity and adolescent mental health in Harare publications.",
+    "public_speaking": "Available for high school assemblies and mental health webinars.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-6109",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Synthetic Cannabinoids"
+    ],
+    "mental_health": [
+      "Social Anxiety Disorder",
+      "Persistent Depressive Disorder"
+    ],
+    "demographic": [
+      "Adolescents (15–19)",
+      "Young Adults (20–35)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Schema Therapy"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Belgravia Executive Suites, Enterprise Rd, Belgravia, Harare",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 17:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 123 4007 | Email: tmutasa@belgraviapsych.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Alliance Health",
+      "Cimas",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-008",
+    "name": "Ms. Chipo Matsika",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Using lived experience to walk alongside young people overcoming marijuana habituation and endless screen loops.",
+    "media_focus": [
+      "Dopamine Loop Dependency",
+      "Short-Form Video Compulsions",
+      "Binge Gaming"
+    ],
+    "awareness": "Organiser of weekly Unplug & Recover youth support circles in Greendale.",
+    "public_speaking": "Available for peer mentoring sessions and youth clubs.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-HRE-008",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine Vapes"
+    ],
+    "mental_health": [
+      "Amotivational Syndrome",
+      "Attention-Deficit/Hyperactivity Disorder (ADHD) traits"
+    ],
+    "demographic": [
+      "Students",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Guidance & Accountability",
+      "12-Step Framework"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Greendale Community Centre, Arcturus Rd, Greendale, Harare",
+    "digital": "Telehealth Available (WhatsApp Group / Audio)",
+    "schedule": "Mon, Wed, Fri: 14:00 – 18:00 | Sat: 10:00 – 14:00",
+    "crisis": "Evening Text Support Active",
+    "contact": "Call/WhatsApp: +263 71 123 4008 | Email: chipo.matsika@peerconnect.co.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-009",
+    "name": "Dr. Simbarashe Banda",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "English, Shona",
+    "bio": "Managing psychiatric crises originating from heavy crystal meth toxicity and severe digital overexposure.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Gambling"
+    ],
+    "awareness": "Clinical speaker on methamphetamine-induced psychosis at local medical conferences.",
+    "public_speaking": "Available for medical lectures and policy roundtables.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-4401",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka/Mutoriro)",
+      "Polysubstance Abuse"
+    ],
+    "mental_health": [
+      "Substance-Induced Psychosis",
+      "Schizophrenia Spectrum Disorders"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Psychiatric Cases"
+    ],
+    "modalities": [
+      "Inpatient Pharmacotherapy",
+      "Crisis Stabilization",
+      "Psychotherapy Integration"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Suite 8, Milton Park Medical Suites, Baines Ave Annex, Milton Park, Harare",
+    "digital": "Telehealth Unavailable",
+    "schedule": "Mon–Fri: 08:00 – 16:30",
+    "crisis": "24/7 On-Call for Psychiatric Emergencies",
+    "contact": "Call: +263 24 270 0009 | Email: dr.banda@miltonparkpsych.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-010",
+    "name": "Mrs. Sekai Chigumba",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Empowering families in Chitungwiza to identify early signs of substance use and social-media-driven low self-esteem.",
+    "media_focus": [
+      "Media-Induced Body Dysmorphia",
+      "Online Peer Pressure",
+      "Social Comparison Loops"
+    ],
+    "awareness": "Host of monthly family education circles on substance awareness.",
+    "public_speaking": "Available for PTA meetings and church women's groups.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-3088",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Broncleer (Bronco)",
+      "Prescription Cough Syrups"
+    ],
+    "mental_health": [
+      "Body Dysmorphic Disorder",
+      "Generalized Anxiety"
+    ],
+    "demographic": [
+      "Female Adolescents",
+      "Mothers & Families"
+    ],
+    "modalities": [
+      "Family Systems Therapy",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Harare Province, Chitungwiza",
+    "address": "Makoni Shopping Centre Plaza, 2nd Floor, Chitungwiza",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 08:30 – 16:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0010 | Email: schigumba@chitungwizacounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "Generation Health",
+      "First Mutual",
+      "PSMAS"
+    ]
+  },
+  {
+    "id": "zim-pro-011",
+    "name": "Mr. Nqobizitha Dube",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Addressing the intersection of pharmaceutical dependence and persuasive media advertising in urban populations.",
+    "media_focus": [
+      "Mass Media Marketing Triggers",
+      "Digital Ad Overload",
+      "Consumer Conditioning"
+    ],
+    "awareness": "Contributor to academic papers on advertising triggers and addiction.",
+    "public_speaking": "Available for university lectures and media ethics forums.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-8123",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers (Opioids)",
+      "Benzodiazepines"
+    ],
+    "mental_health": [
+      "Chronic Pain Syndrome & Depression",
+      "Panic Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Working Professionals"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Mindfulness-Based Cognitive Therapy (MBCT)"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Avondale Medical Chambers, Bath Rd, Avondale, Harare",
+    "digital": "Telehealth Available (Zoom)",
+    "schedule": "Mon–Fri: 08:00 – 17:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0011 | Email: ndube@avondalepsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-012",
+    "name": "Ms. Nomsa Zhuwao",
+    "title": "Addiction Recovery Coach",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing grassroots support and digital-detox mentorship to youth navigating Mbare's high-stress environment.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Hate",
+      "Social Media Exclusion"
+    ],
+    "awareness": "Facilitator of grassroots Offline & Clean youth support groups.",
+    "public_speaking": "Available for community workshops and youth club speeches.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-HRE-012",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Industrial Glue / Inhalants"
+    ],
+    "mental_health": [
+      "Emotional Dysregulation",
+      "Low Self-Esteem"
+    ],
+    "demographic": [
+      "At-Risk Teenagers",
+      "Street-Connected Youth"
+    ],
+    "modalities": [
+      "Life Skills Coaching",
+      "Peer Guidance",
+      "Harm Reduction"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Mbare Youth Empowerment Hub, Ardbennie Rd, Mbare, Harare",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "24/7 Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 123 0012 | Email: nomsa.zhuwao@youthrecovery.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-013",
+    "name": "Dr. John Maphosa",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "English, Shona, Ndebele",
+    "bio": "Specialising in severe alcohol dependence complicated by digital validation seeking and executive burnout.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Digital Workaholism",
+      "Online Sports Betting"
+    ],
+    "awareness": "Regular panelist on national television health segments discussing addiction.",
+    "public_speaking": "Available for medical conventions, corporate retreats, and broadcast interviews.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-1902",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Severe Alcohol Use Disorder",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder with Suicidal Ideation",
+      "Bipolar II"
+    ],
+    "demographic": [
+      "Executives",
+      "Adults (30–60)"
+    ],
+    "modalities": [
+      "Comprehensive Psychiatric Care",
+      "Inpatient Detox Management",
+      "Psychotherapy"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Borrowdale Trauma Centre Annex, Borrowdale Rd, Borrowdale, Harare",
+    "digital": "Telehealth Available (Scheduled Video Consults)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Emergency Hospital Call-Out",
+    "contact": "Call: +263 24 288 1013 | Email: dr.maphosa@traumacentre.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "All Major Schemes Accepted (Cimas, PSMAS, Alliance, FMC, GenHealth)"
+    ]
+  },
+  {
+    "id": "zim-pro-014",
+    "name": "Sister Tsitsi Mutedzi",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering outpatient mental health care and monitoring digital addiction behaviors in high-density suburbs.",
+    "media_focus": [
+      "Digital Addictions",
+      "Binge-Watching Culture",
+      "Doom-Scrolling"
+    ],
+    "awareness": "Facilitator of outpatient recovery groups at Highfield Community Health Clinic.",
+    "public_speaking": "Available for local clinic workshops and community awareness rallies.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-5521",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Broncleer (Bronco)",
+      "Codeine Cough Syrups"
+    ],
+    "mental_health": [
+      "Anxiety Disorders",
+      "Sleep-Wake Disorders"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Behavioral Re-conditioning",
+      "Sleep Hygiene Education",
+      "Nursing Support"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Highfield Community Health Clinic, Machipisa, Highfield, Harare",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0014 | Email: tmutedzi@highfieldclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-015",
+    "name": "Mr. Kudakwashe Gumbo",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "English, Shona",
+    "bio": "Helping clients rebuild attention spans and overcome marijuana habituation in a distracting digital world.",
+    "media_focus": [
+      "Screen Time Addiction",
+      "Notification-Driven Distraction",
+      "Video Gaming Loops"
+    ],
+    "awareness": "Author of self-help worksheets on managing screen time and habits.",
+    "public_speaking": "Available for school webinars and youth technology summits.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-9012",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine"
+    ],
+    "mental_health": [
+      "ADHD",
+      "Adjustment Disorders"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Professionals"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Suite 3, Belgravia Medical Rooms, Sam Nujoma St, Belgravia, Harare",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 17:00 | Sat: 08:00 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0015 | Email: kgumbo@belgraviacounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "Cimas",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-016",
+    "name": "Mrs. Ruvimbo Marere",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Restoring psychological wellbeing in individuals experiencing media-driven body dysmorphia and crystal meth dependency.",
+    "media_focus": [
+      "Media Body Dysmorphia",
+      "Influencer Culture Conditioning",
+      "Online Image Anxiety"
+    ],
+    "awareness": "Guest writer for local lifestyle magazines on mental health and social media.",
+    "public_speaking": "Available for school talks, women's wellness seminars, and podcast guesting.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-3490",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Diet Pill Misuse"
+    ],
+    "mental_health": [
+      "Body Dysmorphic Disorder",
+      "Anorexia/Bulimia Nervosa"
+    ],
+    "demographic": [
+      "Adolescent Females",
+      "Young Adult Women"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Acceptance and Commitment Therapy (ACT)"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Greendale Health Hub, Coronation Ave, Greendale, Harare",
+    "digital": "Telehealth Available (Zoom)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 123 0016 | Email: rmarere@greendalepsych.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Generation Health",
+      "Cimas",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-017",
+    "name": "Pastor Albert Mavhunga",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing spiritual support and community accountability to break alcohol dependency and media triggers in Chitungwiza.",
+    "media_focus": [
+      "Mass Media Ad Trigger Loops",
+      "Alcohol Marketing Exposure",
+      "Digital Gambling Ads"
+    ],
+    "awareness": "Leader of community addiction recovery circles across Chitungwiza wards.",
+    "public_speaking": "Available for church conferences, community rallies, and radio broadcasts.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-HRE-017",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depression"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Head of Households"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Peer Accountability",
+      "Faith-Based 12-Step"
+    ],
+    "location": "Harare Province, Chitungwiza",
+    "address": "Grace Centre, Zengeza 2, Chitungwiza",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Sun: 08:00 – 17:00",
+    "crisis": "24/7 Phone Support",
+    "contact": "Call/WhatsApp: +263 71 123 0017 | Email: albert.mavhunga@faithrecovery.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-018",
+    "name": "Ms. Buhle Ncube",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Helping clients heal from cyberbullying trauma while managing prescription medication dependencies.",
+    "media_focus": [
+      "Cyberbullying Recovery",
+      "Online Harassment Trauma",
+      "Social Media Toxicity"
+    ],
+    "awareness": "Creator of anti-cyberbullying toolkits for local secondary schools.",
+    "public_speaking": "Available for school workshops, anti-bullying campaigns, and parent forums.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-7812",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Pills (Anxiolytics)",
+      "Sleeping Pills"
+    ],
+    "mental_health": [
+      "Post-Traumatic Stress Disorder (PTSD)",
+      "Acute Anxiety"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Trauma-Informed Counselling",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Avondale Wellness Centre, King George Rd, Avondale, Harare",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0018 | Email: bncube@avondalewellness.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-019",
+    "name": "Dr. Tinashe Mutasa",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "English, Shona",
+    "bio": "Specialising in medical detox and neurobiological overhaul for clients with severe crystal meth dependency and dopamine loop burnout.",
+    "media_focus": [
+      "Dopamine Loop Overhaul",
+      "Algorithmic Fixation",
+      "Digital Compulsions"
+    ],
+    "awareness": "Lecturer on addiction neurobiology at local medical institutions.",
+    "public_speaking": "Available for medical symposiums and clinical training modules.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-6612",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka/Mutoriro)",
+      "Amphetamines"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Anhedonia",
+      "Psychosis"
+    ],
+    "demographic": [
+      "Adults (18–50)"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Neurobiological Rehabilitation",
+      "Psychotherapy"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Belgravia Psychiatric Practice, 14 Enterprise Rd, Belgravia, Harare",
+    "digital": "Telehealth Available (Scheduled Video Consults)",
+    "schedule": "Mon–Fri: 08:30 – 16:00",
+    "crisis": "24/7 Emergency Hospital Call-Out",
+    "contact": "Call: +263 24 270 1019 | Email: dr.tmutasa@belgraviapsych.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "All Major Schemes Accepted (Cimas, PSMAS, Alliance, FMC, GenHealth)"
+    ]
+  },
+  {
+    "id": "zim-pro-020",
+    "name": "Brother Patrick Phiri",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Providing dedicated psychiatric nursing and screen time dependency management in Mbare.",
+    "media_focus": [
+      "Screen Time Dependency",
+      "Mobile Gaming Overuse",
+      "Digital Isolation"
+    ],
+    "awareness": "Outreach worker providing medical triage in community support programs.",
+    "public_speaking": "Available for local clinic briefings and youth rallies.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-1092",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Broncleer (Bronco)",
+      "Inhalants"
+    ],
+    "mental_health": [
+      "Mood Disorders",
+      "Agoraphobia"
+    ],
+    "demographic": [
+      "Youth",
+      "Young Adult Males"
+    ],
+    "modalities": [
+      "Nursing Care",
+      "Behavioral Re-conditioning",
+      "Crisis Triage"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Mbare Poly Clinic, Musika Area, Mbare, Harare",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0020 | Email: pphiri@mbareclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-021",
+    "name": "Mr. Farai Chuma",
+    "title": "Addiction Recovery Coach",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Guiding young men away from marijuana reliance and social media validation traps toward productive life skills.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Online Status Anxiety",
+      "Digital Peer Comparison"
+    ],
+    "awareness": "Organiser of local sports-for-recovery tournaments in Highfield.",
+    "public_speaking": "Available for youth mentorship forums and sports club talks.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-HRE-021",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Cigarettes / Vapes"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Identity Distress"
+    ],
+    "demographic": [
+      "Adolescent Males",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Peer Guidance",
+      "Behavioral Modification"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Highfield Youth Center, Western Triangle, Highfield, Harare",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Tue–Sat: 10:00 – 18:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 123 0021 | Email: farai.chuma@youthcoach.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-022",
+    "name": "Ms. Grace Nyoni",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "English, Shona, Ndebele",
+    "bio": "Providing psychological therapy for professionals struggling with alcohol overuse and media-driven body anxiety.",
+    "media_focus": [
+      "Media-Induced Dysmorphia",
+      "Perfectionism Traps",
+      "Online Image Pressure"
+    ],
+    "awareness": "Author of self-care digital guides for women managing online stress.",
+    "public_speaking": "Available for corporate wellness events and mental health seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-9901",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Prescription Anxiolytics"
+    ],
+    "mental_health": [
+      "Generalized Anxiety Disorder",
+      "Body Image Distress"
+    ],
+    "demographic": [
+      "Professional Women",
+      "Adults (25–50)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Mindfulness-Based Interventions"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Borrowdale Office Park, Building 3, Borrowdale, Harare",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 16:30",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 123 0022 | Email: gnyoni@borrowdalepsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-023",
+    "name": "Mrs. Memory Matsika",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Helping families navigate crystal meth addiction and cyberbullying-induced isolation in Milton Park.",
+    "media_focus": [
+      "Cyberbullying Isolation",
+      "Online Ostracization",
+      "Digital Fear Traps"
+    ],
+    "awareness": "Facilitator of parent support groups for youth in crisis.",
+    "public_speaking": "Available for school PTA meetings and community workshops.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-1120",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Severe Social Anxiety",
+      "Depressive Episode"
+    ],
+    "demographic": [
+      "Families",
+      "Adolescents"
+    ],
+    "modalities": [
+      "Person-Centred Therapy",
+      "Family Counselling"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Milton Park Wellness Suite, Baines Ave Extension, Milton Park, Harare",
+    "digital": "Telehealth Available (WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0023 | Email: mmatsika@miltoncounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-024",
+    "name": "Dr. Tafadzwa Zimba",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "English, Shona",
+    "bio": "Delivering psychiatric interventions for pharmaceutical dependence driven by digital marketing overexposure.",
+    "media_focus": [
+      "Mass Media Marketing Triggers",
+      "Direct-to-Consumer Ad Conditioning",
+      "Online Pill Marketplaces"
+    ],
+    "awareness": "Researcher on pharmaceutical accessibility and media trends in Zimbabwe.",
+    "public_speaking": "Available for medical lectures and policy roundtables.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-5011",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Opioids",
+      "Benzodiazepines",
+      "Codeine"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Panic Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Elderly Patients"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Assessment",
+      "Cognitive Restructuring"
+    ],
+    "location": "Harare Province, Harare",
+    "address": "Greendale Medical Centre, Kamfinsa Shopping Centre, Greendale, Harare",
+    "digital": "Telehealth Available (Scheduled Consults)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 On-Call for Hospital Emergency Rooms",
+    "contact": "Call: +263 24 249 0024 | Email: dr.zimba@greendalemedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-025",
+    "name": "Ms. Tatenda Chigumba",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Empowering young people in Chitungwiza to break free from Broncleer dependence and continuous screen fixation.",
+    "media_focus": [
+      "Screen/Dopamine Fixation",
+      "Continuous Scrolling",
+      "Online Gaming Addiction"
+    ],
+    "awareness": "Youth coordinator for local digital-detox weekend workshops.",
+    "public_speaking": "Available for youth events, school visits, and community circles.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-HRE-025",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Broncleer (Bronco)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Boredom-Induced Depression",
+      "Isolation"
+    ],
+    "demographic": [
+      "Teenagers",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Support",
+      "Activity-Based Recovery",
+      "Group Sharing"
+    ],
+    "location": "Harare Province, Chitungwiza",
+    "address": "Chitungwiza Youth Centre, St Mary's, Chitungwiza",
+    "digital": "Telehealth Available (WhatsApp Group Audio)",
+    "schedule": "Mon–Sat: 09:00 – 16:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 123 0025 | Email: tatenda.chigumba@peeroutreach.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-026",
+    "name": "Mr. Dumisani Khumalo",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Dedicated to supporting youth in Bulawayo facing alcohol reliance and social media validation pressures.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Digital Peer Pressure",
+      "Online Status Anxiety"
+    ],
+    "awareness": "Co-author of Mental Health and the Digital Mind in Matabeleland community guide.",
+    "public_speaking": "Available for school workshops, radio talk shows, and youth summits.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-6112",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Codeine/Broncleer"
+    ],
+    "mental_health": [
+      "Depression",
+      "Social Anxiety Disorder"
+    ],
+    "demographic": [
+      "Adolescents (13–19)",
+      "Young Adults (20–29)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Person-Centred Therapy"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Suite 2, Malindela Medical Rooms, Hillside Rd, Malindela, Bulawayo",
+    "digital": "Telehealth Available (WhatsApp Video / Zoom)",
+    "schedule": "Mon–Fri: 08:30 – 16:30 | Sat: 09:00 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 234 0026 | Email: dkhumalo@bulawayocounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-027",
+    "name": "Ms. Siphathisiwe Ndlovu",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Specialising in trauma recovery and breaking compulsive online gambling and prescription medication dependency.",
+    "media_focus": [
+      "Online Sports Gambling Apps",
+      "Dopamine Loop Dependency",
+      "Screen Addiction"
+    ],
+    "awareness": "Speaker on gambling behaviors and digital addictions at regional workshops.",
+    "public_speaking": "Available for corporate wellness programs and university lectures.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-4901",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Benzodiazepines",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Gambling Disorder",
+      "Complex PTSD"
+    ],
+    "demographic": [
+      "Adults",
+      "Working Professionals"
+    ],
+    "modalities": [
+      "Acceptance and Commitment Therapy (ACT)",
+      "DBT Skills Training"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Office 5, Suburbs Medical Centre, Park Rd, Suburbs, Bulawayo",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 17:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 234 0027 | Email: sndlovu@suburbspsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "Generation Health",
+      "PSMAS"
+    ]
+  },
+  {
+    "id": "zim-pro-028",
+    "name": "Dr. Bekithemba Sibanda",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Providing comprehensive clinical psychiatric evaluation and detox management for severe chemical dependency in Matabeleland.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Harassment Trauma"
+    ],
+    "awareness": "Clinical contributor to national mental health policy frameworks.",
+    "public_speaking": "Available for medical conventions, hospital grand rounds, and panel discussions.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-2189",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Polysubstance Abuse",
+      "Severe Alcoholism"
+    ],
+    "mental_health": [
+      "Bipolar Disorder",
+      "Substance-Induced Psychosis"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Clinical Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Assessment",
+      "Detox Management"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Kumalo Medical Suites, Coghlan Ave, Kumalo, Bulawayo",
+    "digital": "Telehealth Unavailable (In-Person Clinical Evaluation Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 On-Call for Hospital Emergencies",
+    "contact": "Call: +263 29 228 0028 | Email: dr.bsibanda@kumalomedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "All Major Schemes Accepted (Cimas, PSMAS, Alliance, FMC, GenHealth)"
+    ]
+  },
+  {
+    "id": "zim-pro-029",
+    "name": "Sister Thandekile Bhebhe",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Focusing on community-based recovery tracking and sleep hygiene management for patients overcoming drug dependency.",
+    "media_focus": [
+      "Screen Time Dependency",
+      "Sleep-Disrupting Media",
+      "Notification Fatigue"
+    ],
+    "awareness": "Facilitator of outpatient education groups at Luveve Community Clinic.",
+    "public_speaking": "Available for community health talks and nursing seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-3341",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Cough Syrups (Broncleer)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Panic Disorder"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Conditioning",
+      "Behavioral Coaching"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Luveve Community Health Centre, Luveve 3, Bulawayo",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 234 0029 | Email: tbhebhe@luveveclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-030",
+    "name": "Mr. Bongani Nkomo",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Providing zero-cost mentorship and digital detox support to youth navigating substance pressures in Makokoba.",
+    "media_focus": [
+      "Short-Form Video Compulsions",
+      "Cyberbullying",
+      "Online Peer Pressure"
+    ],
+    "awareness": "Founder of the Unplug Makokoba peer recovery circle.",
+    "public_speaking": "Available for youth clubs, sports teams, and community outreach.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-BYO-030",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Home-brewed Alcohol"
+    ],
+    "mental_health": [
+      "Amotivational Syndrome",
+      "Low Self-Esteem"
+    ],
+    "demographic": [
+      "At-Risk Youth",
+      "Unemployed Youth"
+    ],
+    "modalities": [
+      "Peer Accountability",
+      "Mentorship",
+      "12-Step Framework"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Makokoba Community Centre, 5th St, Makokoba, Bulawayo",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 234 0030 | Email: bongani.nkomo@peerbyo.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-031",
+    "name": "Mrs. Jacqueline Mpofu",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Helping families manage prescription drug dependencies and media-induced body image anxieties.",
+    "media_focus": [
+      "Media-Induced Body Dysmorphia",
+      "Influencer Comparison Culture",
+      "Online Image Pressure"
+    ],
+    "awareness": "Writer of parent guidance pamphlets on youth mental health and screens.",
+    "public_speaking": "Available for PTA meetings, women's wellness groups, and school talks.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-8810",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Anxiolytics",
+      "Diet Pills"
+    ],
+    "mental_health": [
+      "Body Dysmorphic Disorder",
+      "Generalized Anxiety"
+    ],
+    "demographic": [
+      "Female Adolescents",
+      "Young Women",
+      "Families"
+    ],
+    "modalities": [
+      "Family Systems Therapy",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Famona Wellness Chambers, Grey St, Famona, Bulawayo",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 234 0031 | Email: jmpofu@famonawellness.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-032",
+    "name": "Dr. Nkosana Moyo",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Providing psychological therapy for young adults facing digital escapism habits alongside marijuana dependencies.",
+    "media_focus": [
+      "Video Game Addiction",
+      "Algorithmic Feeds",
+      "Digital Escapism"
+    ],
+    "awareness": "Guest lecturer on digital behavioral addictions at local institutions.",
+    "public_speaking": "Available for university events, tech symposiums, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-7012",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine / Vapes"
+    ],
+    "mental_health": [
+      "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+      "Major Depression"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Professionals"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "City Centre Medical Suites, Jason Moyo St, Bulawayo CBD, Bulawayo",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 17:00 | Sat: 08:30 – 12:30",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 234 0032 | Email: nmoyo@cbdspecialists.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Alliance Health",
+      "Cimas",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-033",
+    "name": "Pastor Jabulani Sithole",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Offering spiritual counsel and peer support to break alcohol reliance and media addiction in Cowdray Park.",
+    "media_focus": [
+      "Mass Media Relapse Triggers",
+      "Digital Gambling Advertisements",
+      "Online Vice Exposure"
+    ],
+    "awareness": "Organizer of monthly community recovery rallies across Cowdray Park.",
+    "public_speaking": "Available for church gatherings, community forums, and youth rallies.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-BYO-033",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depression"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Head of Households",
+      "Youth"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Faith-Based 12-Step",
+      "Peer Accountability"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Hope Restoration Centre, Stand 4102, Cowdray Park, Bulawayo",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Tue–Sun: 08:00 – 17:30",
+    "crisis": "24/7 Phone Support",
+    "contact": "Call/WhatsApp: +263 71 234 0033 | Email: pastor.sithole@hoperestoration.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-034",
+    "name": "Sister Senzeni Nyathi",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Providing outpatient psychiatric nursing care and screen time habit modification in Bulawayo high-density suburbs.",
+    "media_focus": [
+      "Screen Time Addiction",
+      "Nighttime Scrolling",
+      "Binge-Watching"
+    ],
+    "awareness": "Lead nurse for community mental health screenings in Entumbane.",
+    "public_speaking": "Available for clinic talks and health awareness events.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-6102",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Codeine Syrups",
+      "Prescription Pills"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Sleep-Wake Disorders"
+    ],
+    "demographic": [
+      "Youth",
+      "Young Females"
+    ],
+    "modalities": [
+      "Nursing Care",
+      "Behavioral Modification",
+      "Sleep Hygiene Coaching"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Entumbane Health Centre Annex, Entumbane, Bulawayo",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 234 0034 | Email: snyathi@entumbaneclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-035",
+    "name": "Mr. Mthandazo Dube",
+    "title": "Addiction Recovery Coach",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Empowering young men in Lobengula to break free from crystal meth dependence and digital escapism.",
+    "media_focus": [
+      "Cyberbullying Recovery",
+      "Online Status Fixation",
+      "Digital Peer Pressure"
+    ],
+    "awareness": "Youth coordinator for local sports and digital detox weekends.",
+    "public_speaking": "Available for youth events, school visits, and community circles.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-BYO-035",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Inhalants / Solvents"
+    ],
+    "mental_health": [
+      "Emotional Dysregulation",
+      "Identity Distress"
+    ],
+    "demographic": [
+      "At-Risk Teenagers",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Peer Guidance",
+      "Life Skills Coaching"
+    ],
+    "location": "Bulawayo Province, Bulawayo",
+    "address": "Lobengula Youth Hub, Magwegwe West Rd, Lobengula, Bulawayo",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 234 0035 | Email: mdube@youthrecoverybyo.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-036",
+    "name": "Dr. Farai Zhou",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing specialist psychiatric care and addiction recovery solutions for the Midlands mining and urban communities.",
+    "media_focus": [
+      "Online Sports Betting Apps",
+      "Consumer Marketing Triggers",
+      "Screen Addiction"
+    ],
+    "awareness": "Speaker on addiction psychiatry in industrial and mining contexts.",
+    "public_speaking": "Available for corporate occupational health seminars and clinical workshops.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-3091",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Polysubstance Abuse",
+      "Cannabis"
+    ],
+    "mental_health": [
+      "Severe Depression",
+      "Bipolar Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Industrial Workers",
+      "Executives"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Detox Management",
+      "Psychotherapy"
+    ],
+    "location": "Midlands Province, Gweru",
+    "address": "Gweru Medical Chambers, 6th St, Gweru CBD, Gweru",
+    "digital": "Telehealth Available (Scheduled Video Consults)",
+    "schedule": "Mon–Fri: 08:00 – 16:30",
+    "crisis": "24/7 Hospital Emergency Call-Out",
+    "contact": "Call: +263 54 222 0036 | Email: dr.fzhou@gwerumedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "First Mutual",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-037",
+    "name": "Mrs. Tendai Chiweshe",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Supporting university students and young professionals in Gweru through psychological recovery and digital detox.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Digital Escapism",
+      "Cyberbullying"
+    ],
+    "awareness": "Author of student wellness guides on social media boundaries.",
+    "public_speaking": "Available for university campus talks, student workshops, and webinars.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-5182",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Cough Syrups (Broncleer)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Major Depression",
+      "Generalized Anxiety"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Adults (18–30)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Mindfulness Interventions"
+    ],
+    "location": "Midlands Province, Gweru",
+    "address": "Office 4, Kopje Health Plaza, Kopje Area, Gweru",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 345 0037 | Email: tchiweshe@gwerupsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-038",
+    "name": "Mr. Blessing Shoko",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Guiding adolescents and families in Kwekwe through chemical dependency recovery and screen time modification.",
+    "media_focus": [
+      "Video Game Addiction",
+      "Dopamine Loop Dependency",
+      "Short-Form Content Overuse"
+    ],
+    "awareness": "Community presenter on youth substance prevention in Kwekwe.",
+    "public_speaking": "Available for school PTA meetings and youth assemblies.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-9102",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Social Anxiety",
+      "Attention Difficulties"
+    ],
+    "demographic": [
+      "Adolescents (13–19)",
+      "Families"
+    ],
+    "modalities": [
+      "Person-Centred Therapy",
+      "Habit Reversal Training"
+    ],
+    "location": "Midlands Province, Kwekwe",
+    "address": "Kwekwe Medical Centre, Robert Mugabe Way, Kwekwe",
+    "digital": "Telehealth Available (WhatsApp Video / Zoom)",
+    "schedule": "Mon–Fri: 08:00 – 16:00 | Sat: 08:30 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 345 0038 | Email: bshoko@kwekwecounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-039",
+    "name": "Sister Chipo Hove",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing outpatient psychiatric nursing support and sleep restoration for individuals facing substance dependency.",
+    "media_focus": [
+      "Screen Time Management",
+      "Sleep Hygiene",
+      "Information Overload"
+    ],
+    "awareness": "Facilitator of local health center education programs on prescription drug safety.",
+    "public_speaking": "Available for health center talks and community briefings.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-4190",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers",
+      "Sedatives"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Chronic Panic Episodes"
+    ],
+    "demographic": [
+      "Adults",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Coaching",
+      "Behavioral Support"
+    ],
+    "location": "Midlands Province, Gweru",
+    "address": "Mkoba Polyclinic Annex, Mkoba 6, Gweru",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 345 0039 | Email: chove@mkobaclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-040",
+    "name": "Mr. Tinashe Mpariwa",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Offering peer mentoring and digital detox guidance to youth overcoming alcohol and drug abuse in Mkoba.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Comparison Loops"
+    ],
+    "awareness": "Leader of youth clean-living support groups in Gweru.",
+    "public_speaking": "Available for youth clubs, school visits, and community forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MID-040",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Isolation"
+    ],
+    "demographic": [
+      "Teenagers",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Mentorship",
+      "Group Accountability",
+      "Life Skills Coaching"
+    ],
+    "location": "Midlands Province, Gweru",
+    "address": "Mkoba Youth Centre, Mkoba 1, Gweru",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Text Support Active",
+    "contact": "Call/WhatsApp: +263 71 345 0040 | Email: tinashe.mpariwa@peergweru.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-041",
+    "name": "Dr. Anesu Mukamuri",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing clinical psychiatric evaluation, medical detox, and therapy for complex addiction cases in Manicaland.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Betting Addiction"
+    ],
+    "awareness": "Clinical speaker on substance co-morbidities at regional health conferences.",
+    "public_speaking": "Available for medical symposiums and clinical training modules.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-4109",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Crystal Meth (Guka)",
+      "Prescription Opioids"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Bipolar I Disorder"
+    ],
+    "demographic": [
+      "Adults (18–65)"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychotherapy",
+      "Detoxification"
+    ],
+    "location": "Manicaland Province, Mutare",
+    "address": "Mutare Medical Chambers, Herbert Chitepo St, Mutare CBD, Mutare",
+    "digital": "Telehealth Unavailable (In-Person Assessment Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency Call-Out",
+    "contact": "Call: +263 20 206 0041 | Email: dr.amukamuri@mutaremedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-042",
+    "name": "Ms. Rutendo Machingura",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering trauma-informed psychology and recovery support for youth facing drug dependence and cyberbullying.",
+    "media_focus": [
+      "Cyberbullying Trauma",
+      "Social Media Validation Fixation",
+      "Online Harassment"
+    ],
+    "awareness": "Creator of digital wellness toolkits for schools in Mutare.",
+    "public_speaking": "Available for school assemblies, anti-bullying workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-8830",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Broncleer (Bronco)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "PTSD",
+      "Complex Anxiety"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Females"
+    ],
+    "modalities": [
+      "Dialectical Behaviour Therapy (DBT)",
+      "Trauma-Focused CBT"
+    ],
+    "location": "Manicaland Province, Mutare",
+    "address": "Suite 3, Palmerstone Health Suites, Fifth St, Palmerstone, Mutare",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0042 | Email: rmachingura@palmerstonepsych.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-043",
+    "name": "Mr. Farai Sithole",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Helping clients rebuild healthy habits and break free from marijuana reliance and screen-induced distraction.",
+    "media_focus": [
+      "Screen Time Addiction",
+      "Video Game Addiction",
+      "Digital Escapism"
+    ],
+    "awareness": "Facilitator of youth mental health discussions in Murambinda and Mutare.",
+    "public_speaking": "Available for youth camps, school assemblies, and community meetings.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-3319",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine"
+    ],
+    "mental_health": [
+      "Adjustment Disorders",
+      "Attention Difficulties"
+    ],
+    "demographic": [
+      "Young Adults",
+      "High School Students"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Manicaland Province, Mutare",
+    "address": "Morningside Wellness Rooms, Chishakwe Rd, Morningside, Mutare",
+    "digital": "Telehealth Available (WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 16:00 | Sat: 08:30 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0043 | Email: fsithole@morningsidecounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-044",
+    "name": "Sister Vimbai Musarurwa",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing compassionate psychiatric nursing care and outpatient support for chemical dependency in Sakubva.",
+    "media_focus": [
+      "Screen/Dopamine Fixation",
+      "Continuous Scrolling",
+      "Notification Stress"
+    ],
+    "awareness": "Lead nurse for community outpatient recovery groups at Sakubva Clinic.",
+    "public_speaking": "Available for clinic talks and health awareness rallies.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-7718",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Sedatives",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Sleep Disruptions"
+    ],
+    "demographic": [
+      "Youth",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Education",
+      "Behavioral Modification"
+    ],
+    "location": "Manicaland Province, Mutare",
+    "address": "Sakubva Polyclinic Annex, Sakubva, Mutare",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0044 | Email: vmusarurwa@sakubvaclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-045",
+    "name": "Pastor Joseph Chikwanha",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Offering pastoral counselling and peer guidance to individuals struggling with alcohol addiction and media triggers.",
+    "media_focus": [
+      "Mass Media Marketing Triggers",
+      "Gambling Advertisements",
+      "Online Addiction Triggers"
+    ],
+    "awareness": "Organizer of weekly faith-based recovery circles in Sakubva.",
+    "public_speaking": "Available for church events, community rallies, and radio broadcasts.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MAN-045",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depression"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Head of Households"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Peer Support",
+      "Faith-Based 12-Step"
+    ],
+    "location": "Manicaland Province, Mutare",
+    "address": "Sakubva Community Grace Centre, Sakubva, Mutare",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Tue–Sun: 08:00 – 17:00",
+    "crisis": "24/7 Phone Support Active",
+    "contact": "Call/WhatsApp: +263 71 456 0045 | Email: pastor.chikwanha@gracerecovery.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-046",
+    "name": "Ms. Tariro Mutizwa",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Empowering young females in Dangamvura to overcome drug reliance and online comparison culture.",
+    "media_focus": [
+      "Media-Induced Body Dysmorphia",
+      "Social Comparison Loops",
+      "Online Peer Pressure"
+    ],
+    "awareness": "Coordinator of Girl Child Offline & Strong community groups.",
+    "public_speaking": "Available for school visits, youth clubs, and community meetings.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MAN-046",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Cough Syrups (Broncleer)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Body Image Distress",
+      "Depressive Mood"
+    ],
+    "demographic": [
+      "Adolescent Females",
+      "Young Women"
+    ],
+    "modalities": [
+      "Peer Mentorship",
+      "Group Sharing",
+      "Self-Esteem Building"
+    ],
+    "location": "Manicaland Province, Mutare",
+    "address": "Dangamvura Youth Hub, Area 3, Dangamvura, Mutare",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 456 0046 | Email: tariro.mutizwa@peermutare.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-047",
+    "name": "Mr. Kuda Mandizvidza",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing guidance and addiction therapy for individuals in Chipinge facing alcohol and prescription drug dependencies.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Harassment Trauma",
+      "Digital Escapism"
+    ],
+    "awareness": "Author of local community mental health awareness brochures in Chipinge.",
+    "public_speaking": "Available for community meetings, school PTA sessions, and local radio.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-1049",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Prescription Pills"
+    ],
+    "mental_health": [
+      "General Anxiety",
+      "Social Isolation"
+    ],
+    "demographic": [
+      "Adults",
+      "Youth"
+    ],
+    "modalities": [
+      "Person-Centred Counselling",
+      "Motivational Interviewing"
+    ],
+    "location": "Manicaland Province, Chipinge",
+    "address": "Chipinge Medical Chambers, Main St, Chipinge",
+    "digital": "Telehealth Available (WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0047 | Email: kmandizvidza@chipingecounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-048",
+    "name": "Dr. Simba Nyamukapa",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering psychological support and addiction treatment in Rusape for youth and adults.",
+    "media_focus": [
+      "Algorithmic Feeds",
+      "Short-Form Video Compulsions",
+      "Screen Time Overuse"
+    ],
+    "awareness": "Workshop facilitator on adolescent digital habits in Rusape.",
+    "public_speaking": "Available for school workshops and community health forums.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-2291",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Major Depression",
+      "ADHD Traits"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Behavioral Activation"
+    ],
+    "location": "Manicaland Province, Rusape",
+    "address": "Rusape Health Centre Plaza, Robert Mugabe Way, Rusape",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0048 | Email: snyamukapa@rusapepsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-049",
+    "name": "Sister Rudo Zvinavashe",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing psychiatric nursing care and outpatient addiction support in Chiredzi and surrounding areas.",
+    "media_focus": [
+      "Information Overload",
+      "Screen Time Management",
+      "Sleep Hygiene"
+    ],
+    "awareness": "Lead nurse for community mental health screenings in Chiredzi.",
+    "public_speaking": "Available for health center talks and community briefings.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-9011",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Panic Disorder",
+      "Sleep Disturbances"
+    ],
+    "demographic": [
+      "Adults",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Education",
+      "Behavioral Coaching"
+    ],
+    "location": "Masvingo Province, Chiredzi",
+    "address": "Chiredzi Hospital Annex, Hospital Rd, Chiredzi",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 567 0049 | Email: rzvinavashe@chiredzihospital.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-050",
+    "name": "Mr. Edison Mapfumo",
+    "title": "Addiction Recovery Coach",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Guiding young people in Masvingo away from chemical dependence and social media validation loops.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Online Status Anxiety",
+      "Digital Peer Comparison"
+    ],
+    "awareness": "Founder of Masvingo Youth Clean Living Initiative.",
+    "public_speaking": "Available for school assemblies, sports clubs, and youth mentorship forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MAS-050",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine / Cigarettes"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational Syndrome"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Life Skills Coaching",
+      "Group Accountability"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Mucheke Youth Centre, Mucheke, Masvingo",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 567 0050 | Email: edison.mapfumo@peertech.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-051",
+    "name": "Mr. Tichaona Chigwada",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Supporting farming communities and youth in Bindura through alcohol dependency recovery and stress management.",
+    "media_focus": [
+      "Agricultural Market Stress",
+      "Isolation",
+      "Rural Digital Access Divides"
+    ],
+    "awareness": "Co-author of Rural Resilience and Mental Health in Mashonaland Central.",
+    "public_speaking": "Available for agricultural union meetings, school talks, and community radio.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-4412",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-Brewed Spirits"
+    ],
+    "mental_health": [
+      "Depression",
+      "Chronic Stress"
+    ],
+    "demographic": [
+      "Adult Farmers",
+      "Rural Youth"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Motivational Interviewing"
+    ],
+    "location": "Mashonaland Central Province, Bindura",
+    "address": "Office 2, Bindura Medical Chambers, Chipadze, Bindura",
+    "digital": "Telehealth Available (WhatsApp Audio / Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 678 0051 | Email: tchigwada@binduracounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-052",
+    "name": "Ms. Rumbidzai Gatsi",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Specialising in adolescent digital behavioral addictions and trauma recovery in Mazowe Valley.",
+    "media_focus": [
+      "Short-Form Video Compulsions",
+      "Cyberbullying",
+      "Screen Addiction"
+    ],
+    "awareness": "Guest speaker on student screen time habits at Bindura University.",
+    "public_speaking": "Available for university lectures, PTA meetings, and youth seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-6231",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Social Phobia"
+    ],
+    "demographic": [
+      "Adolescents",
+      "University Students"
+    ],
+    "modalities": [
+      "Acceptance and Commitment Therapy (ACT)",
+      "DBT Skills Training"
+    ],
+    "location": "Mashonaland Central Province, Bindura",
+    "address": "Campus Health Plaza, Trojan Rd, Bindura",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 17:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 678 0052 | Email: rgatsi@mazowepsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "Alliance Health",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-053",
+    "name": "Dr. Kudakwashe Mupfumi",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing comprehensive psychiatric clinical evaluations, medical detox, and dual-diagnosis care in Mashonaland Central.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Substance-Induced Psychosis Triggers",
+      "Online Gambling Addiction"
+    ],
+    "awareness": "Clinical contributor to regional mental health outreach programs.",
+    "public_speaking": "Available for hospital grand rounds, medical conventions, and professional panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-5019",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Severe Alcoholism",
+      "Polysubstance Abuse"
+    ],
+    "mental_health": [
+      "Bipolar Disorder",
+      "Major Depressive Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Inpatient/Outpatient Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychiatry",
+      "Detoxification Protocols"
+    ],
+    "location": "Mashonaland Central Province, Bindura",
+    "address": "Bindura Provincial Hospital Annex, Hospital Rd, Bindura",
+    "digital": "Telehealth Unavailable (In-Person Clinical Evaluation Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency On-Call",
+    "contact": "Call: +263 71 678 0053 | Email: dr.kmupfumi@bindurahospital.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "All Major Schemes Accepted (Cimas, PSMAS, Alliance, FMC, GenHealth)"
+    ]
+  },
+  {
+    "id": "zim-pro-054",
+    "name": "Sister Chiedza Nyamasoka",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Dedicated to outpatient psychiatric care, medication adherence, and sleep hygiene counselling for recovery patients.",
+    "media_focus": [
+      "Notification Fatigue",
+      "Screen Time Disruption",
+      "Nighttime Scrolling"
+    ],
+    "awareness": "Facilitator of community clinic health education workshops in Shamva.",
+    "public_speaking": "Available for community nursing forums and health center talks.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-8821",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Cough Syrups (Broncleer)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Panic Episodes"
+    ],
+    "demographic": [
+      "Outpatients",
+      "Adult Community Members"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Coaching",
+      "Supportive Counseling"
+    ],
+    "location": "Mashonaland Central Province, Shamva",
+    "address": "Shamva District Hospital Clinic, Shamva",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 678 0054 | Email: cnyamasoka@shamvaclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-055",
+    "name": "Mr. Innocent Chihuri",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing grassroots peer mentorship and zero-cost digital detox support for youth in Glendale.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Comparison Loops"
+    ],
+    "awareness": "Founder of Glendale Youth Clean Living and Sports Initiative.",
+    "public_speaking": "Available for youth clubs, sports events, and local community gatherings.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHC-055",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Home-Brewed Alcohol"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational State"
+    ],
+    "demographic": [
+      "At-Risk Teens",
+      "Unemployed Young Adults"
+    ],
+    "modalities": [
+      "Peer Accountability",
+      "Mentorship",
+      "Group Sharing"
+    ],
+    "location": "Mashonaland Central Province, Glendale",
+    "address": "Glendale Community Hall, Main St, Glendale",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 678 0055 | Email: innocent.chihuri@peermashc.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-056",
+    "name": "Mrs. Fadzai Mutasa",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Supporting families and young professionals in Marondera through chemical dependency recovery and media stress management.",
+    "media_focus": [
+      "Media-Induced Body Image Anxieties",
+      "Influencer Comparison Culture",
+      "Screen Fatigue"
+    ],
+    "awareness": "Author of parent-guidance manuals on navigating teenage screen habits.",
+    "public_speaking": "Available for school PTA meetings, women's wellness seminars, and church groups.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-3904",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Anxiolytics",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Body Dysmorphic Tendencies",
+      "Generalized Anxiety"
+    ],
+    "demographic": [
+      "Families",
+      "Young Adults",
+      "Working Women"
+    ],
+    "modalities": [
+      "Family Systems Therapy",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Mashonaland East Province, Marondera",
+    "address": "Marondera Medical Suites, Delport Rd, Marondera",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 789 0056 | Email: fmutasa@maronderacounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-057",
+    "name": "Dr. Webster Nyamunda",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing psychological assessment and addiction psychotherapy for university students and professionals in Marondera.",
+    "media_focus": [
+      "Online Sports Betting Apps",
+      "Digital Escapism",
+      "Algorithmic Validation Loops"
+    ],
+    "awareness": "Speaker on behavioral addictions at regional academic symposiums.",
+    "public_speaking": "Available for university campus events, podcasts, and corporate workshops.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-7120",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine / Vapes"
+    ],
+    "mental_health": [
+      "Major Depression",
+      "ADHD"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Professionals"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Mashonaland East Province, Marondera",
+    "address": "Office 3, Paradise Health Centre, Longlands Rd, Marondera",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 17:00 | Sat: 09:00 – 12:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 789 0057 | Email: wnyamunda@maronderapsych.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Alliance Health",
+      "Cimas",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-058",
+    "name": "Pastor Nathan Marowa",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Offering spiritual guidance and peer mentorship to individuals overcoming alcohol reliance and digital distractions in Ruwa.",
+    "media_focus": [
+      "Mass Media Relapse Triggers",
+      "Online Vice Exposure",
+      "Digital Gambling Ads"
+    ],
+    "awareness": "Coordinator of weekly community recovery support circles in Ruwa.",
+    "public_speaking": "Available for church gatherings, community forums, and youth mentorship camps.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHE-058",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-Brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depressive Mood"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Families",
+      "Youth"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Faith-Based 12-Step",
+      "Peer Accountability"
+    ],
+    "location": "Mashonaland East Province, Ruwa",
+    "address": "Ruwa Community Grace Fellowship, Zimre Park, Ruwa",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Tue–Sun: 08:00 – 17:00",
+    "crisis": "24/7 Phone Support Active",
+    "contact": "Call/WhatsApp: +263 71 789 0058 | Email: pastor.marowa@ruwarecovery.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-059",
+    "name": "Sister Patience Makoni",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering psychiatric nursing care and outpatient support for chemical dependency recovery in Murehwa.",
+    "media_focus": [
+      "Screen Time Overuse",
+      "Nighttime Scrolling",
+      "Information Overload"
+    ],
+    "awareness": "Lead nurse for mental health community outreach in Murehwa district.",
+    "public_speaking": "Available for rural clinic health talks and nursing seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-3092",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Cough Syrups",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Sleep Disturbances"
+    ],
+    "demographic": [
+      "Outpatients",
+      "Rural Community Members"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Education",
+      "Supportive Coaching"
+    ],
+    "location": "Mashonaland East Province, Murehwa",
+    "address": "Murehwa District Hospital Clinic, Murehwa",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 789 0059 | Email: pmakoni@murehwaclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-060",
+    "name": "Mr. Brighton Mutandwa",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Empowering youth in Chitungwiza (East periphery) and Goromonzi to break free from drug dependence and cyberbullying.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Media Status Fixation"
+    ],
+    "awareness": "Organizer of youth sports and digital wellness awareness campaigns.",
+    "public_speaking": "Available for school visits, youth clubs, and community meetings.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHE-060",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Identity Distress",
+      "Low Self-Esteem"
+    ],
+    "demographic": [
+      "Teenagers",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Mentorship",
+      "Group Accountability",
+      "Life Skills Coaching"
+    ],
+    "location": "Mashonaland East Province, Goromonzi",
+    "address": "Goromonzi Community Youth Hub, Juru Growth Point, Goromonzi",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 789 0060 | Email: brighton.mutandwa@peergoromonzi.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-061",
+    "name": "Dr. Simbarashe Mhlanga",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Providing specialist psychiatric evaluations, addiction medicine, and dual-diagnosis treatment in Chinhoyi.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Betting Addiction"
+    ],
+    "awareness": "Clinical speaker on substance co-morbidities at Mashonaland West medical forums.",
+    "public_speaking": "Available for medical conventions, hospital grand rounds, and professional panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-2890",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Crystal Meth (Guka)",
+      "Polysubstance Abuse"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Bipolar I Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Clinical Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychiatry",
+      "Detox Management"
+    ],
+    "location": "Mashonaland West Province, Chinhoyi",
+    "address": "Chinhoyi Provincial Hospital Psychiatric Unit, Chinhoyi",
+    "digital": "Telehealth Unavailable (In-Person Clinical Evaluation Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency Call-Out",
+    "contact": "Call: +263 67 212 0061 | Email: dr.smhlanga@chinhoyimedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-062",
+    "name": "Ms. Lorraine Chikerema",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Helping university students and young adults in Chinhoyi overcome digital escapism, anxiety, and substance dependencies.",
+    "media_focus": [
+      "Video Game Addiction",
+      "Social Media Validation Traps",
+      "Cyberbullying Trauma"
+    ],
+    "awareness": "Workshop facilitator on mental health and digital wellness at Chinhoyi University of Technology.",
+    "public_speaking": "Available for university events, student workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-5412",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Cough Syrups (Broncleer)"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Social Phobia"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Adults (18–30)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Mindfulness-Based Interventions"
+    ],
+    "location": "Mashonaland West Province, Chinhoyi",
+    "address": "Office 1, Chinhoyi Health Plaza, Magamba Way, Chinhoyi",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30 | Sat: 09:00 – 12:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 890 0062 | Email: lchikerema@chinhoyipsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-063",
+    "name": "Mr. Tinashe Mberi",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing addiction counseling and behavioral modification for youth and families in Kadoma navigating chemical reliance.",
+    "media_focus": [
+      "Short-Form Video Compulsions",
+      "Dopamine Loop Dependency",
+      "Screen Addiction"
+    ],
+    "awareness": "Presenter on youth substance prevention in Kadoma mining and farming communities.",
+    "public_speaking": "Available for school PTA meetings, community workshops, and youth assemblies.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-6501",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "ADHD Traits",
+      "Emotional Dysregulation"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Families",
+      "Young Workers"
+    ],
+    "modalities": [
+      "Person-Centred Therapy",
+      "Habit Reversal Training"
+    ],
+    "location": "Mashonaland West Province, Kadoma",
+    "address": "Kadoma Medical Chambers, Robert Mugabe Way, Kadoma",
+    "digital": "Telehealth Available (WhatsApp Video / Zoom)",
+    "schedule": "Mon–Fri: 08:00 – 16:00 | Sat: 08:30 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 890 0063 | Email: tmberi@kadomacounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-064",
+    "name": "Sister Memory Dube",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Delivering psychiatric nursing care, medication support, and sleep restoration for recovery patients in Norton.",
+    "media_focus": [
+      "Screen Time Management",
+      "Nighttime Scrolling",
+      "Notification Fatigue"
+    ],
+    "awareness": "Facilitator of outpatient mental health education groups in Norton clinics.",
+    "public_speaking": "Available for community health talks and nursing seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-4109",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Panic Disorder"
+    ],
+    "demographic": [
+      "Outpatients",
+      "Adult Community Members"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Coaching",
+      "Behavioral Support"
+    ],
+    "location": "Mashonaland West Province, Norton",
+    "address": "Norton Polyclinic Annex, Katanga, Norton",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 890 0064 | Email: mdube@nortonclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-065",
+    "name": "Mr. Takudzwa Nyamhunga",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Offering grassroots peer mentorship and digital detox programs for youth overcoming substance abuse in Kariba.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Comparison Loops"
+    ],
+    "awareness": "Founder of Kariba Youth Clean Living and Lakeside Sports Network.",
+    "public_speaking": "Available for youth clubs, school visits, and community forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHW-065",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Isolation"
+    ],
+    "demographic": [
+      "Teenagers",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Mentorship",
+      "Group Accountability",
+      "Life Skills Coaching"
+    ],
+    "location": "Mashonaland West Province, Kariba",
+    "address": "Kariba Community Youth Centre, Nyamhunga, Kariba",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 890 0065 | Email: takudzwa.nyamhunga@peerkariba.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-066",
+    "name": "Mrs. Sharon Chigwedere",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Supporting families and individuals in Chegutu through chemical dependency recovery and media stress counselling.",
+    "media_focus": [
+      "Media-Induced Body Image Anxieties",
+      "Influencer Comparison Culture",
+      "Screen Fatigue"
+    ],
+    "awareness": "Author of community guidance booklets on teenage mental health in Chegutu.",
+    "public_speaking": "Available for school PTA meetings, women's wellness seminars, and church talks.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-7821",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Sedatives",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Mild Depression"
+    ],
+    "demographic": [
+      "Families",
+      "Young Adults",
+      "Women"
+    ],
+    "modalities": [
+      "Family Systems Therapy",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Mashonaland West Province, Chegutu",
+    "address": "Chegutu Medical Centre, Queen St, Chegutu",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 901 0066 | Email: schigwedere@chegutucounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-067",
+    "name": "Dr. Tarisai Makoni",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering trauma-informed psychological therapy and addiction recovery support for adolescents and adults in Norton.",
+    "media_focus": [
+      "Cyberbullying Trauma",
+      "Online Harassment",
+      "Social Media Validation Fixation"
+    ],
+    "awareness": "Creator of digital wellness toolkits for schools in Norton and Katanga.",
+    "public_speaking": "Available for school assemblies, anti-bullying workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-3902",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "PTSD",
+      "Complex Anxiety"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Dialectical Behaviour Therapy (DBT)",
+      "Trauma-Focused CBT"
+    ],
+    "location": "Mashonaland West Province, Norton",
+    "address": "Suite 2, Katanga Health Plaza, Norton",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 901 0067 | Email: tmakoni@nortonpsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-068",
+    "name": "Pastor Brian Zvavamwe",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Offering pastoral counseling and faith-based peer support for individuals overcoming alcohol and substance abuse in Chinhoyi.",
+    "media_focus": [
+      "Mass Media Marketing Triggers",
+      "Gambling Advertisements",
+      "Online Vice Exposure"
+    ],
+    "awareness": "Organizer of weekly faith-based recovery support groups in Chinhoyi.",
+    "public_speaking": "Available for church events, community rallies, and radio broadcasts.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHW-068",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-Brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depression"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Head of Households",
+      "Youth"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Peer Support",
+      "Faith-Based 12-Step"
+    ],
+    "location": "Mashonaland West Province, Chinhoyi",
+    "address": "Chinhoyi Community Grace Fellowship, Rujeko, Chinhoyi",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Tue–Sun: 08:00 – 17:00",
+    "crisis": "24/7 Phone Support Active",
+    "contact": "Call/WhatsApp: +263 71 901 0068 | Email: pastor.zvavamwe@gracerecoverychinhoyi.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-069",
+    "name": "Sister Getrude Marangwanda",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing psychiatric nursing care and outpatient addiction recovery support in Karoi.",
+    "media_focus": [
+      "Screen/Dopamine Fixation",
+      "Continuous Scrolling",
+      "Notification Stress"
+    ],
+    "awareness": "Lead nurse for community health screenings and substance awareness in Karoi district.",
+    "public_speaking": "Available for clinic talks and health awareness events.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-5510",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Sedatives",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Sleep Disruptions"
+    ],
+    "demographic": [
+      "Youth",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Education",
+      "Behavioral Support"
+    ],
+    "location": "Mashonaland West Province, Karoi",
+    "address": "Karoi District Hospital Clinic, Karoi",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 901 0069 | Email: gmarangwanda@karoiclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-070",
+    "name": "Mr. Wonder Mutize",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Empowering young men in Kadoma to overcome crystal meth dependence and online social comparison pressures.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Online Status Anxiety",
+      "Digital Peer Comparison"
+    ],
+    "awareness": "Founder of Kadoma Youth Clean Living Network.",
+    "public_speaking": "Available for school assemblies, sports clubs, and youth mentorship forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHW-070",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational Syndrome"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Life Skills Coaching",
+      "Group Accountability"
+    ],
+    "location": "Mashonaland West Province, Kadoma",
+    "address": "Rimuka Youth Centre, Rimuka, Kadoma",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 901 0070 | Email: wonder.mutize@peerkadoma.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-071",
+    "name": "Dr. Anorld Zvoushe",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing specialist clinical psychiatric care, medical detox, and addiction medicine across Mashonaland East and surrounding regions.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Gambling Addiction"
+    ],
+    "awareness": "Clinical speaker on addiction psychiatry at regional medical conferences.",
+    "public_speaking": "Available for hospital grand rounds, medical symposiums, and professional panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-3312",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Crystal Meth (Guka)",
+      "Prescription Opioids"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Bipolar I Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Clinical Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychotherapy",
+      "Detoxification"
+    ],
+    "location": "Mashonaland East Province, Marondera",
+    "address": "Marondera Provincial Hospital Psychiatric Unit, Marondera",
+    "digital": "Telehealth Unavailable (In-Person Assessment Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency Call-Out",
+    "contact": "Call: +263 65 232 0071 | Email: dr.azvoushe@maronderamedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-072",
+    "name": "Ms. Chipo Chigumira",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering trauma-informed therapy and recovery guidance for young adults in Ruwa facing digital and chemical dependencies.",
+    "media_focus": [
+      "Cyberbullying Trauma",
+      "Online Harassment",
+      "Social Media Validation Fixation"
+    ],
+    "awareness": "Creator of digital wellness and anti-cyberbullying workshops for Ruwa schools.",
+    "public_speaking": "Available for school assemblies, anti-bullying workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-9014",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Cough Syrups (Broncleer)"
+    ],
+    "mental_health": [
+      "PTSD",
+      "Complex Anxiety"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Dialectical Behaviour Therapy (DBT)",
+      "Trauma-Focused CBT"
+    ],
+    "location": "Mashonaland East Province, Ruwa",
+    "address": "Ruwa Health Chambers, Zimre Park, Ruwa",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 012 0072 | Email: cchigumira@ruwapsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-073",
+    "name": "Mr. Simbarashe Gutu",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Helping clients in Bindura build healthy daily habits and break free from alcohol reliance and screen-induced distraction.",
+    "media_focus": [
+      "Screen Time Addiction",
+      "Video Game Addiction",
+      "Digital Escapism"
+    ],
+    "awareness": "Facilitator of youth mental health discussions in Bindura urban and farming areas.",
+    "public_speaking": "Available for youth camps, school assemblies, and community meetings.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-4102",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Nicotine"
+    ],
+    "mental_health": [
+      "Adjustment Disorders",
+      "Attention Difficulties"
+    ],
+    "demographic": [
+      "Young Adults",
+      "High School Students"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Mashonaland Central Province, Bindura",
+    "address": "Bindura Wellness Rooms, Main St, Bindura",
+    "digital": "Telehealth Available (WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 16:00 | Sat: 08:30 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 012 0073 | Email: sgutu@bindurawellness.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-074",
+    "name": "Sister Rudo Chitsike",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing psychiatric nursing care and outpatient support for chemical dependency recovery in Marondera clinics.",
+    "media_focus": [
+      "Information Overload",
+      "Screen Time Management",
+      "Sleep Hygiene"
+    ],
+    "awareness": "Lead nurse for community mental health screenings in Marondera.",
+    "public_speaking": "Available for health center talks and community briefings.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-6819",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Panic Disorder",
+      "Sleep Disturbances"
+    ],
+    "demographic": [
+      "Adults",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Education",
+      "Behavioral Coaching"
+    ],
+    "location": "Mashonaland East Province, Marondera",
+    "address": "Marondera Polyclinic Annex, Ruzawi, Marondera",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 012 0074 | Email: rchitsike@maronderaclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-075",
+    "name": "Mr. Tawanda Nyika",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Guiding young people in Chegutu away from chemical dependence and social media validation loops through peer mentorship.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Online Status Anxiety",
+      "Digital Peer Comparison"
+    ],
+    "awareness": "Founder of Chegutu Youth Clean Living Initiative.",
+    "public_speaking": "Available for school assemblies, sports clubs, and youth mentorship forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASHE-075",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine / Cigarettes"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational Syndrome"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Life Skills Coaching",
+      "Group Accountability"
+    ],
+    "location": "Mashonaland West Province, Chegutu",
+    "address": "Chegutu Youth Community Centre, Pfupajena, Chegutu",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 012 0075 | Email: tawanda.nyika@peerchegutu.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-076",
+    "name": "Mr. Nqobile Dlamini",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Supporting border-town youth and cross-border traders in Gwanda through alcohol and substance recovery counselling.",
+    "media_focus": [
+      "Cross-Border Trade Stress",
+      "Economic Precarity",
+      "Rural Digital Isolation"
+    ],
+    "awareness": "Co-author of Borderlands Resilience and Substance Trends in Matabeleland South.",
+    "public_speaking": "Available for community meetings, trade union forums, and local radio.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-5210",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-Brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Anxiety",
+      "Depressive Symptoms"
+    ],
+    "demographic": [
+      "Adult Traders",
+      "Working-Class Youth"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Motivational Interviewing"
+    ],
+    "location": "Matabeleland South Province, Gwanda",
+    "address": "Gwanda Medical Suites, 5th Ave, Gwanda",
+    "digital": "Telehealth Available (WhatsApp Video / Audio)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0076 | Email: ndlamini@gwandacounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-077",
+    "name": "Ms. Nonhlanhla Khumalo",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Specialising in trauma-informed therapy and adolescent behavioral addiction recovery in Matabeleland South.",
+    "media_focus": [
+      "Short-Form Video Compulsions",
+      "Cyberbullying Trauma",
+      "Screen Addiction"
+    ],
+    "awareness": "Guest speaker on student screen time habits at Jahunda community forums.",
+    "public_speaking": "Available for school PTA meetings, youth seminars, and workshops.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-8114",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Social Phobia"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Acceptance and Commitment Therapy (ACT)",
+      "DBT Skills Training"
+    ],
+    "location": "Matabeleland South Province, Gwanda",
+    "address": "Office 1, Jahunda Health Plaza, Gwanda",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 17:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 123 0077 | Email: nkhumalo@gwandapsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "Alliance Health",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-078",
+    "name": "Dr. Themba Ncube",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Providing comprehensive psychiatric clinical evaluations, medical detox, and dual-diagnosis care in Beitbridge.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Substance-Induced Psychosis",
+      "Online Gambling Addiction"
+    ],
+    "awareness": "Clinical contributor to border-town mental health outreach initiatives.",
+    "public_speaking": "Available for hospital grand rounds, medical conventions, and professional panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-4402",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Severe Alcoholism",
+      "Polysubstance Abuse"
+    ],
+    "mental_health": [
+      "Bipolar Disorder",
+      "Major Depressive Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Inpatient/Outpatient Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychiatry",
+      "Detoxification Protocols"
+    ],
+    "location": "Matabeleland South Province, Beitbridge",
+    "address": "Beitbridge District Hospital Psychiatric Unit, Beitbridge",
+    "digital": "Telehealth Unavailable (In-Person Clinical Evaluation Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency On-Call",
+    "contact": "Call: +263 28 621 0078 | Email: dr.tncube@beitbridgedental.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "All Major Schemes Accepted (Cimas, PSMAS, Alliance, FMC, GenHealth)"
+    ]
+  },
+  {
+    "id": "zim-pro-079",
+    "name": "Sister Zodwa Nyathi",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Dedicated to outpatient psychiatric care, medication adherence, and sleep hygiene counselling in Matobo.",
+    "media_focus": [
+      "Notification Fatigue",
+      "Screen Time Disruption",
+      "Nighttime Scrolling"
+    ],
+    "awareness": "Facilitator of rural health center education workshops in Matobo district.",
+    "public_speaking": "Available for community nursing forums and health center talks.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-9120",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Cough Syrups (Broncleer)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Panic Episodes"
+    ],
+    "demographic": [
+      "Outpatients",
+      "Rural Community Members"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Coaching",
+      "Supportive Counseling"
+    ],
+    "location": "Matabeleland South Province, Matobo",
+    "address": "Kezi District Hospital Clinic, Kezi, Matobo",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0079 | Email: znyathi@keziclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-080",
+    "name": "Mr. Mandla Sithole",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Providing grassroots peer mentorship and zero-cost digital detox support for youth in Plumtree.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Comparison Loops"
+    ],
+    "awareness": "Founder of Plumtree Border Youth Clean Living and Sports Network.",
+    "public_speaking": "Available for youth clubs, sports events, and local community gatherings.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MATS-080",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Home-Brewed Alcohol"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational State"
+    ],
+    "demographic": [
+      "At-Risk Teens",
+      "Unemployed Young Adults"
+    ],
+    "modalities": [
+      "Peer Accountability",
+      "Mentorship",
+      "Group Sharing"
+    ],
+    "location": "Matabeleland South Province, Plumtree",
+    "address": "Plumtree Community Hall, Main St, Plumtree",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 123 0080 | Email: mandla.sithole@peerplumtree.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-081",
+    "name": "Mrs. Sithembiso Moyo",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Supporting families and young professionals in Esigodini through chemical dependency recovery and media stress management.",
+    "media_focus": [
+      "Media-Induced Body Image Anxieties",
+      "Influencer Comparison Culture",
+      "Screen Fatigue"
+    ],
+    "awareness": "Author of parent-guidance manuals on navigating teenage screen habits in mining settlements.",
+    "public_speaking": "Available for school PTA meetings, women's wellness seminars, and church groups.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-4912",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Anxiolytics",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Body Dysmorphic Tendencies",
+      "Generalized Anxiety"
+    ],
+    "demographic": [
+      "Families",
+      "Young Adults",
+      "Working Women"
+    ],
+    "modalities": [
+      "Family Systems Therapy",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Matabeleland South Province, Esigodini",
+    "address": "Esigodini Medical Chambers, Mainway, Esigodini",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0081 | Email: smoyo@esigodinicounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-082",
+    "name": "Dr. Mqhele Ndlovu",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Providing psychological assessment and addiction psychotherapy for university students and professionals in Gwanda.",
+    "media_focus": [
+      "Online Sports Betting Apps",
+      "Digital Escapism",
+      "Algorithmic Validation Loops"
+    ],
+    "awareness": "Speaker on behavioral addictions at regional academic symposiums in Matabeleland South.",
+    "public_speaking": "Available for university campus events, podcasts, and corporate workshops.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-6720",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine / Vapes"
+    ],
+    "mental_health": [
+      "Major Depression",
+      "ADHD"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Professionals"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Matabeleland South Province, Gwanda",
+    "address": "Office 4, Colleen Bawn Wellness Rooms, Gwanda",
+    "digital": "Telehealth Available (Zoom / Google Meet)",
+    "schedule": "Mon–Fri: 08:00 – 17:00 | Sat: 09:00 – 12:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 123 0082 | Email: mndlovu@gwandapsych.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Alliance Health",
+      "Cimas",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-083",
+    "name": "Pastor Thabani Mpofu",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Offering spiritual guidance and peer mentorship to individuals overcoming alcohol reliance and digital distractions in Beitbridge.",
+    "media_focus": [
+      "Mass Media Relapse Triggers",
+      "Online Vice Exposure",
+      "Digital Gambling Ads"
+    ],
+    "awareness": "Coordinator of weekly community recovery support circles in Beitbridge urban sectors.",
+    "public_speaking": "Available for church gatherings, community forums, and youth mentorship camps.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MATS-083",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-Brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depressive Mood"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Families",
+      "Youth"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Faith-Based 12-Step",
+      "Peer Accountability"
+    ],
+    "location": "Matabeleland South Province, Beitbridge",
+    "address": "Beitbridge Community Grace Fellowship, Dulivhadzimu, Beitbridge",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Tue–Sun: 08:00 – 17:00",
+    "crisis": "24/7 Phone Support Active",
+    "contact": "Call/WhatsApp: +263 71 123 0083 | Email: pastor.mpofu@beitbridgerecovery.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-084",
+    "name": "Sister Busisiwe Sibanda",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Ndebele, English",
+    "bio": "Delivering psychiatric nursing care and outpatient support for chemical dependency recovery in Plumtree.",
+    "media_focus": [
+      "Screen Time Overuse",
+      "Nighttime Scrolling",
+      "Information Overload"
+    ],
+    "awareness": "Lead nurse for mental health community outreach in Plumtree district.",
+    "public_speaking": "Available for rural clinic health talks and nursing seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-4029",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Cough Syrups",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Sleep Disturbances"
+    ],
+    "demographic": [
+      "Outpatients",
+      "Rural Community Members"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Education",
+      "Supportive Coaching"
+    ],
+    "location": "Matabeleland South Province, Plumtree",
+    "address": "Plumtree District Hospital Clinic, Plumtree",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 123 0084 | Email: bsibanda@plumtreeclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-085",
+    "name": "Mr. Mthabisi Khumalo",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Ndebele, English, Shona",
+    "bio": "Empowering youth in Gwanda to break free from drug dependence and cyberbullying through peer outreach.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Media Status Fixation"
+    ],
+    "awareness": "Organizer of youth sports and digital wellness awareness campaigns in Gwanda.",
+    "public_speaking": "Available for school visits, youth clubs, and community meetings.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MATS-085",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Identity Distress",
+      "Low Self-Esteem"
+    ],
+    "demographic": [
+      "Teenagers",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Mentorship",
+      "Group Accountability",
+      "Life Skills Coaching"
+    ],
+    "location": "Matabeleland South Province, Gwanda",
+    "address": "Jahunda Youth Centre, Gwanda",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Evening Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 123 0085 | Email: mthabisi.khumalo@peergwanda.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-086",
+    "name": "Dr. Chido Mashayamombe",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing specialist psychiatric evaluations, addiction medicine, and dual-diagnosis treatment in Masvingo urban and rural districts.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Betting Addiction"
+    ],
+    "awareness": "Clinical speaker on substance co-morbidities at Masvingo medical forums.",
+    "public_speaking": "Available for medical conventions, hospital grand rounds, and professional panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-3810",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Crystal Meth (Guka)",
+      "Polysubstance Abuse"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Bipolar I Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Clinical Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychiatry",
+      "Detox Management"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Masvingo Provincial Hospital Psychiatric Unit, Masvingo",
+    "digital": "Telehealth Unavailable (In-Person Clinical Evaluation Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency Call-Out",
+    "contact": "Call: +263 39 226 0086 | Email: dr.cmashayamombe@masvingomedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-087",
+    "name": "Ms. Rumbidzai Chitsunge",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Helping university students and young adults in Masvingo overcome digital escapism, anxiety, and substance dependencies.",
+    "media_focus": [
+      "Video Game Addiction",
+      "Social Media Validation Traps",
+      "Cyberbullying Trauma"
+    ],
+    "awareness": "Workshop facilitator on mental health and digital wellness at Great Zimbabwe University.",
+    "public_speaking": "Available for university events, student workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-6211",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Cough Syrups (Broncleer)"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Social Phobia"
+    ],
+    "demographic": [
+      "University Students",
+      "Young Adults (18–30)"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Mindfulness-Based Interventions"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Office 2, Campus Health Plaza, Great Zimbabwe University, Masvingo",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30 | Sat: 09:00 – 12:00",
+    "crisis": "Appointment Only",
+    "contact": "Call/WhatsApp: +263 77 234 0087 | Email: rchitsunge@masvingopsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-088",
+    "name": "Mr. Tawanda Chigumira",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing addiction counseling and behavioral modification for youth and families in Chiredzi navigating chemical reliance.",
+    "media_focus": [
+      "Short-Form Video Compulsions",
+      "Dopamine Loop Dependency",
+      "Screen Addiction"
+    ],
+    "awareness": "Presenter on youth substance prevention in Chiredzi agricultural and sugar estates.",
+    "public_speaking": "Available for school PTA meetings, community workshops, and youth assemblies.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-7140",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Prescription Sedatives"
+    ],
+    "mental_health": [
+      "ADHD Traits",
+      "Emotional Dysregulation"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Families",
+      "Young Workers"
+    ],
+    "modalities": [
+      "Person-Centred Therapy",
+      "Habit Reversal Training"
+    ],
+    "location": "Masvingo Province, Chiredzi",
+    "address": "Chiredzi Medical Chambers, Triangle Rd, Chiredzi",
+    "digital": "Telehealth Available (WhatsApp Video / Zoom)",
+    "schedule": "Mon–Fri: 08:00 – 16:00 | Sat: 08:30 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 234 0088 | Email: tchigumira@chiredzicounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-089",
+    "name": "Sister Tsitsi Mutasa",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering psychiatric nursing care, medication support, and sleep restoration for recovery patients in Zvishavane.",
+    "media_focus": [
+      "Screen Time Management",
+      "Nighttime Scrolling",
+      "Notification Fatigue"
+    ],
+    "awareness": "Facilitator of outpatient mental health education groups in Zvishavane mining clinics.",
+    "public_speaking": "Available for community health talks and nursing seminars.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-5219",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Insomnia",
+      "Panic Disorder"
+    ],
+    "demographic": [
+      "Outpatients",
+      "Adult Community Members"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Coaching",
+      "Behavioral Support"
+    ],
+    "location": "Midlands Province, Zvishavane (serves southern Masvingo border)",
+    "address": "Zvishavane District Hospital Clinic, Zvishavane",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 234 0089 | Email: tmutasa@zvishavaneclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-090",
+    "name": "Mr. Kudakwashe Shumba",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Offering grassroots peer mentorship and digital detox programs for youth overcoming substance abuse in Mucheke.",
+    "media_focus": [
+      "Cyberbullying",
+      "Online Peer Pressure",
+      "Social Comparison Loops"
+    ],
+    "awareness": "Founder of Masvingo Urban Youth Clean Living and Sports Network.",
+    "public_speaking": "Available for youth clubs, school visits, and community forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASV-090",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Isolation"
+    ],
+    "demographic": [
+      "Teenagers",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Peer Mentorship",
+      "Group Accountability",
+      "Life Skills Coaching"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Mucheke Community Hall, Mucheke, Masvingo",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 234 0090 | Email: kudakwashe.shumba@peermasvingo.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-091",
+    "name": "Mrs. Rudo Makoni",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Supporting families and individuals in Bikita through chemical dependency recovery and media stress counselling.",
+    "media_focus": [
+      "Media-Induced Body Image Anxieties",
+      "Influencer Comparison Culture",
+      "Screen Fatigue"
+    ],
+    "awareness": "Author of community guidance booklets on teenage mental health in Bikita.",
+    "public_speaking": "Available for school PTA meetings, women's wellness seminars, and church talks.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-8012",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Sedatives",
+      "Alcohol Use Disorder"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Mild Depression"
+    ],
+    "demographic": [
+      "Families",
+      "Young Adults",
+      "Women"
+    ],
+    "modalities": [
+      "Family Systems Therapy",
+      "Cognitive Behavioural Therapy (CBT)"
+    ],
+    "location": "Masvingo Province, Bikita",
+    "address": "Bikita Growth Point Medical Centre, Bikita",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 345 0091 | Email: rmakoni@bikitacounselling.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-092",
+    "name": "Dr. Munyaradzi Gumbo",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering trauma-informed psychological therapy and addiction recovery support for adolescents and adults in Masvingo.",
+    "media_focus": [
+      "Cyberbullying Trauma",
+      "Online Harassment",
+      "Social Media Validation Fixation"
+    ],
+    "awareness": "Creator of digital wellness toolkits for schools in Masvingo urban and Rujeko.",
+    "public_speaking": "Available for school assemblies, anti-bullying workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-4902",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "PTSD",
+      "Complex Anxiety"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Dialectical Behaviour Therapy (DBT)",
+      "Trauma-Focused CBT"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Suite 4, Rujeko Health Plaza, Masvingo",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 345 0092 | Email: mgumbo@masvingopsych.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Alliance Health"
+    ]
+  },
+  {
+    "id": "zim-pro-093",
+    "name": "Pastor Innocent Nyoni",
+    "title": "Faith-Based Support Volunteer",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Offering pastoral counseling and faith-based peer support for individuals overcoming alcohol and substance abuse in Chiredzi.",
+    "media_focus": [
+      "Mass Media Marketing Triggers",
+      "Gambling Advertisements",
+      "Online Vice Exposure"
+    ],
+    "awareness": "Organizer of weekly faith-based recovery support groups in Chiredzi.",
+    "public_speaking": "Available for church events, community rallies, and radio broadcasts.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASV-093",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Home-Brewed Spirits"
+    ],
+    "mental_health": [
+      "Chronic Grief",
+      "Depression"
+    ],
+    "demographic": [
+      "Adult Males",
+      "Head of Households",
+      "Youth"
+    ],
+    "modalities": [
+      "Pastoral Counselling",
+      "Peer Support",
+      "Faith-Based 12-Step"
+    ],
+    "location": "Masvingo Province, Chiredzi",
+    "address": "Chiredzi Community Grace Fellowship, Tshovani, Chiredzi",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Tue–Sun: 08:00 – 17:00",
+    "crisis": "24/7 Phone Support Active",
+    "contact": "Call/WhatsApp: +263 71 345 0093 | Email: pastor.nyoni@gracerecoverychiredzi.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-094",
+    "name": "Sister Patience Zvinavashe",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing psychiatric nursing care and outpatient addiction recovery support in Gutu.",
+    "media_focus": [
+      "Screen/Dopamine Fixation",
+      "Continuous Scrolling",
+      "Notification Stress"
+    ],
+    "awareness": "Lead nurse for community health screenings and substance awareness in Gutu district.",
+    "public_speaking": "Available for clinic talks and health awareness events.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-7812",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Sedatives",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Generalized Anxiety",
+      "Sleep Disruptions"
+    ],
+    "demographic": [
+      "Youth",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Hygiene Education",
+      "Behavioral Support"
+    ],
+    "location": "Masvingo Province, Gutu",
+    "address": "Gutu Mission Hospital Clinic, Mupandawana, Gutu",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 345 0094 | Email: pzvinavashe@gutuhospital.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-095",
+    "name": "Mr. Simbarashe Dzingai",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Empowering young men in Masvingo to overcome crystal meth dependence and online social comparison pressures.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Online Status Anxiety",
+      "Digital Peer Comparison"
+    ],
+    "awareness": "Founder of Masvingo Youth Clean Living Network.",
+    "public_speaking": "Available for school assemblies, sports clubs, and youth mentorship forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MASV-095",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Crystal Meth (Guka)",
+      "Marijuana (Mbanje)"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational Syndrome"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Life Skills Coaching",
+      "Group Accountability"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Rujeko Youth Centre, Rujeko A, Masvingo",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 345 0095 | Email: simbarashe.dzingai@peermasvingo2.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  },
+  {
+    "id": "zim-pro-096",
+    "name": "Dr. Vimbai Goredema",
+    "title": "Consultant Psychiatrist (MDPCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Providing specialist clinical psychiatric care, medical detox, and addiction medicine across Matabeleland South and surrounding regions.",
+    "media_focus": [
+      "Digital Overexposure",
+      "Media-Induced Paranoid Ideation",
+      "Online Gambling Addiction"
+    ],
+    "awareness": "Clinical speaker on addiction psychiatry at regional medical conferences.",
+    "public_speaking": "Available for hospital grand rounds, medical symposiums, and professional panels.",
+    "status": "Licensed Professional",
+    "regulatory": "Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)",
+    "license": "MDPCZ-P-5120",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Crystal Meth (Guka)",
+      "Prescription Opioids"
+    ],
+    "mental_health": [
+      "Major Depressive Disorder",
+      "Bipolar I Disorder"
+    ],
+    "demographic": [
+      "Adults",
+      "Acute Clinical Cases"
+    ],
+    "modalities": [
+      "Pharmacotherapy",
+      "Clinical Psychotherapy",
+      "Detoxification"
+    ],
+    "location": "Matabeleland South Province, Gwanda",
+    "address": "Gwanda Provincial Hospital Psychiatric Unit, Gwanda",
+    "digital": "Telehealth Unavailable (In-Person Assessment Only)",
+    "schedule": "Mon–Fri: 08:00 – 16:00",
+    "crisis": "24/7 Hospital Emergency Call-Out",
+    "contact": "Call: +263 28 422 0096 | Email: dr.vgoredema@gwandamedical.co.zw",
+    "fees": "$80 – $150 USD",
+    "medical_aid": [
+      "Cimas",
+      "PSMAS",
+      "Alliance Health",
+      "First Mutual"
+    ]
+  },
+  {
+    "id": "zim-pro-097",
+    "name": "Ms. Tariro Matimba",
+    "title": "Clinical Psychologist (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Delivering trauma-informed therapy and recovery guidance for young adults in Beitbridge facing digital and chemical dependencies.",
+    "media_focus": [
+      "Cyberbullying Trauma",
+      "Online Harassment",
+      "Social Media Validation Fixation"
+    ],
+    "awareness": "Creator of digital wellness and anti-cyberbullying workshops for Beitbridge schools.",
+    "public_speaking": "Available for school assemblies, anti-bullying workshops, and podcasts.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-CP-7319",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Cough Syrups (Broncleer)"
+    ],
+    "mental_health": [
+      "PTSD",
+      "Complex Anxiety"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Adults"
+    ],
+    "modalities": [
+      "Dialectical Behaviour Therapy (DBT)",
+      "Trauma-Focused CBT"
+    ],
+    "location": "Matabeleland South Province, Beitbridge",
+    "address": "Beitbridge Health Chambers, Dulivhadzimu, Beitbridge",
+    "digital": "Telehealth Available (Zoom / WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:30 – 16:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0097 | Email: tmatimba@beitbridgepsychology.co.zw",
+    "fees": "$40 – $80 USD",
+    "medical_aid": [
+      "Cimas",
+      "First Mutual",
+      "Generation Health"
+    ]
+  },
+  {
+    "id": "zim-pro-098",
+    "name": "Mr. Brian Muringani",
+    "title": "Registered Counsellor (AHPCZ)",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Helping clients in Masvingo build healthy daily habits and break free from alcohol reliance and screen-induced distraction.",
+    "media_focus": [
+      "Screen Time Addiction",
+      "Video Game Addiction",
+      "Digital Escapism"
+    ],
+    "awareness": "Facilitator of youth mental health discussions in Masvingo urban and college areas.",
+    "public_speaking": "Available for youth camps, school assemblies, and community meetings.",
+    "status": "Licensed Professional",
+    "regulatory": "Allied Health Practitioners Council of Zimbabwe (AHPCZ)",
+    "license": "AHPCZ-RC-9201",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Alcohol Use Disorder",
+      "Nicotine"
+    ],
+    "mental_health": [
+      "Adjustment Disorders",
+      "Attention Difficulties"
+    ],
+    "demographic": [
+      "Young Adults",
+      "High School Students"
+    ],
+    "modalities": [
+      "Cognitive Behavioural Therapy (CBT)",
+      "Habit Reversal Training"
+    ],
+    "location": "Masvingo Province, Masvingo",
+    "address": "Masvingo Wellness Rooms, Robert Mugabe Way, Masvingo",
+    "digital": "Telehealth Available (WhatsApp Video)",
+    "schedule": "Mon–Fri: 08:00 – 16:00 | Sat: 08:30 – 12:00",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0098 | Email: bmuringani@masvingowellness.co.zw",
+    "fees": "$25 – $50 USD",
+    "medical_aid": [
+      "First Mutual",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-099",
+    "name": "Sister Memory Choto",
+    "title": "Psychiatric Nurse (NCZ)",
+    "photo": null,
+    "languages": "Shona, English",
+    "bio": "Providing psychiatric nursing care and outpatient support for chemical dependency recovery in Chiredzi clinics.",
+    "media_focus": [
+      "Information Overload",
+      "Screen Time Management",
+      "Sleep Hygiene"
+    ],
+    "awareness": "Lead nurse for community mental health screenings in Chiredzi.",
+    "public_speaking": "Available for health center talks and community briefings.",
+    "status": "Licensed Professional",
+    "regulatory": "Nursing Council of Zimbabwe (NCZ)",
+    "license": "NCZ-PN-8014",
+    "expiry": "2026-12-31",
+    "substances": [
+      "Prescription Painkillers",
+      "Cough Syrups"
+    ],
+    "mental_health": [
+      "Panic Disorder",
+      "Sleep Disturbances"
+    ],
+    "demographic": [
+      "Adults",
+      "Outpatients"
+    ],
+    "modalities": [
+      "Psychiatric Nursing Care",
+      "Sleep Education",
+      "Behavioral Coaching"
+    ],
+    "location": "Masvingo Province, Chiredzi",
+    "address": "Chiredzi Polyclinic Annex, Tshovani, Chiredzi",
+    "digital": "Telehealth Available (WhatsApp Audio)",
+    "schedule": "Mon–Fri: 07:30 – 15:30",
+    "crisis": "Standard Hours Only",
+    "contact": "Call/WhatsApp: +263 77 456 0099 | Email: mchoto@chiredziclinic.co.zw",
+    "fees": "$20 – $40 USD",
+    "medical_aid": [
+      "PSMAS",
+      "Cimas"
+    ]
+  },
+  {
+    "id": "zim-pro-100",
+    "name": "Mr. Tanaka Chipunza",
+    "title": "Peer Support Leader",
+    "photo": null,
+    "languages": "Shona, English, Ndebele",
+    "bio": "Guiding young people in Beitbridge away from chemical dependence and social media validation loops through peer mentorship.",
+    "media_focus": [
+      "Social Media Validation Traps",
+      "Online Status Anxiety",
+      "Digital Peer Comparison"
+    ],
+    "awareness": "Founder of Beitbridge Border Youth Clean Living Initiative.",
+    "public_speaking": "Available for school assemblies, sports clubs, and youth mentorship forums.",
+    "status": "Vetted Volunteer",
+    "regulatory": "None (Vetted Community Leader)",
+    "license": "VOL-MATS-100",
+    "expiry": "N/A (Volunteer)",
+    "substances": [
+      "Marijuana (Mbanje)",
+      "Nicotine / Cigarettes"
+    ],
+    "mental_health": [
+      "Low Self-Esteem",
+      "Amotivational Syndrome"
+    ],
+    "demographic": [
+      "Adolescents",
+      "Young Men"
+    ],
+    "modalities": [
+      "Mentorship",
+      "Life Skills Coaching",
+      "Group Accountability"
+    ],
+    "location": "Matabeleland South Province, Beitbridge",
+    "address": "Beitbridge Youth Community Centre, Dulivhadzimu, Beitbridge",
+    "digital": "Telehealth Available (WhatsApp Calls)",
+    "schedule": "Mon–Sat: 09:00 – 17:00",
+    "crisis": "Weekend Helpline Active",
+    "contact": "Call/WhatsApp: +263 71 456 0100 | Email: tanaka.chipunza@peerbeitbridge.org.zw",
+    "fees": "Free / Pro-Bono Support",
+    "medical_aid": []
+  }
+]

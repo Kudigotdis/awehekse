@@ -1,0 +1,1018 @@
+{
+  "domains": [
+    {
+      "id": "substances",
+      "name": "Addictive Substances",
+      "short": "Substances",
+      "count": 15,
+      "tagline": "Chemical dependencies — from stimulants to sedatives.",
+      "color": "substances"
+    },
+    {
+      "id": "conditioning",
+      "name": "Conditioning Contents",
+      "short": "Conditioning",
+      "count": 11,
+      "tagline": "Digital loops, gambling & behavioural dependencies.",
+      "color": "conditioning"
+    },
+    {
+      "id": "mental",
+      "name": "Mental Health & Distress",
+      "short": "Mental Health",
+      "count": 49,
+      "tagline": "Mood, trauma, eating, focus & psychotic-spectrum support.",
+      "color": "mental"
+    }
+  ],
+  "issues": [
+    {
+      "id": "meth",
+      "title": "Crystal Methamphetamine",
+      "slang": [
+        "Mutoriro",
+        "Tik"
+      ],
+      "domain": "substances",
+      "group": "Zone 1 — Uppers",
+      "icon": "crystal"
+    },
+    {
+      "id": "cocaine",
+      "title": "Cocaine & Crack Cocaine",
+      "slang": [],
+      "domain": "substances",
+      "group": "Zone 1 — Uppers",
+      "icon": "crystal"
+    },
+    {
+      "id": "khat",
+      "title": "Khat / Mairungi",
+      "slang": [],
+      "domain": "substances",
+      "group": "Zone 1 — Uppers",
+      "icon": "leaf"
+    },
+    {
+      "id": "caffeine",
+      "title": "Energy Drinks & High-Caffeine Products",
+      "slang": [],
+      "domain": "substances",
+      "group": "Zone 1 — Uppers",
+      "icon": "bolt"
+    },
+    {
+      "id": "heroin",
+      "title": "Heroin & Street-Cut Opiates",
+      "slang": [
+        "Nyaope",
+        "Whoonga"
+      ],
+      "domain": "substances",
+      "group": "Zone 2 — Downers",
+      "icon": "drop",
+      "risk": true
+    },
+    {
+      "id": "codeine",
+      "title": "Prescription Cough Syrups",
+      "slang": [
+        "Bronco",
+        "Codeine"
+      ],
+      "domain": "substances",
+      "group": "Zone 2 — Downers",
+      "icon": "drop",
+      "featured": true
+    },
+    {
+      "id": "benzos",
+      "title": "Sedatives & Dissociatives",
+      "slang": [
+        "Benzos",
+        "Mandrax"
+      ],
+      "domain": "substances",
+      "group": "Zone 2 — Downers",
+      "icon": "moon"
+    },
+    {
+      "id": "inhalants",
+      "title": "Inhalants & Industrial Solvents",
+      "slang": [
+        "Glue",
+        "Petrol"
+      ],
+      "domain": "substances",
+      "group": "Zone 2 — Downers",
+      "icon": "wind"
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol & Illicit Spirits",
+      "slang": [
+        "Musombodia",
+        "Kachasu"
+      ],
+      "domain": "substances",
+      "group": "Zone 2 — Downers",
+      "icon": "drop"
+    },
+    {
+      "id": "cannabis",
+      "title": "Cannabis / Mbanje / Skunk",
+      "slang": [
+        "Mbanje",
+        "Skunk"
+      ],
+      "domain": "substances",
+      "group": "Zone 3 & 4 — Other",
+      "icon": "leaf"
+    },
+    {
+      "id": "vaping",
+      "title": "Vaping & E-Cigarettes",
+      "slang": [],
+      "domain": "substances",
+      "group": "Zone 3 & 4 — Other",
+      "icon": "wind"
+    },
+    {
+      "id": "tobacco",
+      "title": "Combustible Tobacco, Shisha & Snuff",
+      "slang": [
+        "Bute"
+      ],
+      "domain": "substances",
+      "group": "Zone 3 & 4 — Other",
+      "icon": "wind"
+    },
+    {
+      "id": "psychedelics",
+      "title": "Psychedelics",
+      "slang": [
+        "Mushrooms",
+        "Acid"
+      ],
+      "domain": "substances",
+      "group": "Zone 3 & 4 — Other",
+      "icon": "sparkle"
+    },
+    {
+      "id": "sugar",
+      "title": "Ultra-Processed Foods & High-Sugar",
+      "slang": [],
+      "domain": "substances",
+      "group": "Zone 3 & 4 — Other",
+      "icon": "flame"
+    },
+    {
+      "id": "otc",
+      "title": "OTCs & Lifestyle Supplements",
+      "slang": [],
+      "domain": "substances",
+      "group": "Zone 3 & 4 — Other",
+      "icon": "capsule"
+    },
+    {
+      "id": "socialmedia",
+      "title": "Social Media Algorithms",
+      "slang": [
+        "TikTok",
+        "IG",
+        "Twitter"
+      ],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "phone"
+    },
+    {
+      "id": "ragebait",
+      "title": "Algorithmic Rage-Bait & Outrage Farming",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "phone"
+    },
+    {
+      "id": "gaming",
+      "title": "Online Gaming & Microtransactions",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "controller"
+    },
+    {
+      "id": "porn",
+      "title": "Pornography & Hyper-Sexualised Media",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "phone"
+    },
+    {
+      "id": "dating",
+      "title": "Dating & Hookup Apps",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "heart-outline"
+    },
+    {
+      "id": "ecommerce",
+      "title": "Impulse E-Commerce & Haul Culture",
+      "slang": [
+        "Temu",
+        "Shein"
+      ],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "bag"
+    },
+    {
+      "id": "gambling",
+      "title": "Gambling & Sports Betting",
+      "slang": [
+        "Aviator",
+        "Mabhetis"
+      ],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "dice",
+      "featured": true
+    },
+    {
+      "id": "forex",
+      "title": "Forex & Crypto Trading Schemes",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Digital Behavioural Loops",
+      "icon": "chart"
+    },
+    {
+      "id": "tv",
+      "title": "Television & Scripted Reality Bingeing",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Traditional Media",
+      "icon": "screen"
+    },
+    {
+      "id": "radio",
+      "title": "Radio & Commercial Advertising Loops",
+      "slang": [],
+      "domain": "conditioning",
+      "group": "Traditional Media",
+      "icon": "radio"
+    },
+    {
+      "id": "music",
+      "title": "Music as Behavioural Conditioning",
+      "slang": [
+        "Drill",
+        "Subliminals"
+      ],
+      "domain": "conditioning",
+      "group": "Traditional Media",
+      "icon": "music"
+    },
+    {
+      "id": "mdd",
+      "title": "Major Depressive Disorder",
+      "slang": [
+        "Kurova nepfungwa"
+      ],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "cloud-rain",
+      "featured": true
+    },
+    {
+      "id": "bipolar",
+      "title": "Bipolar Disorder (Type I & II)",
+      "slang": [],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "scale"
+    },
+    {
+      "id": "dysthymia",
+      "title": "Persistent Depressive Disorder",
+      "slang": [
+        "Dysthymia"
+      ],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "cloud-rain"
+    },
+    {
+      "id": "sad",
+      "title": "Seasonal Affective Disorder",
+      "slang": [
+        "SAD"
+      ],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "sun"
+    },
+    {
+      "id": "gad",
+      "title": "Generalized Anxiety Disorder",
+      "slang": [
+        "Mapangachini"
+      ],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "zigzag",
+      "featured": true
+    },
+    {
+      "id": "social-anx",
+      "title": "Social Anxiety Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "zigzag"
+    },
+    {
+      "id": "panic",
+      "title": "Panic Disorder & Panic Attacks",
+      "slang": [],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "heart-pulse"
+    },
+    {
+      "id": "phobia",
+      "title": "Specific Phobias",
+      "slang": [],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "eye"
+    },
+    {
+      "id": "agoraphobia",
+      "title": "Agoraphobia",
+      "slang": [],
+      "domain": "mental",
+      "group": "Mood & Anxiety",
+      "icon": "door"
+    },
+    {
+      "id": "ptsd",
+      "title": "Post-Traumatic Stress Disorder",
+      "slang": [
+        "PTSD"
+      ],
+      "domain": "mental",
+      "group": "Trauma & Stress-Related",
+      "icon": "shield"
+    },
+    {
+      "id": "cptsd",
+      "title": "Complex PTSD",
+      "slang": [
+        "C-PTSD"
+      ],
+      "domain": "mental",
+      "group": "Trauma & Stress-Related",
+      "icon": "shield"
+    },
+    {
+      "id": "asd-stress",
+      "title": "Acute Stress Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Trauma & Stress-Related",
+      "icon": "shield"
+    },
+    {
+      "id": "adjustment",
+      "title": "Adjustment Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Trauma & Stress-Related",
+      "icon": "compass"
+    },
+    {
+      "id": "grief",
+      "title": "Grief and Bereavement",
+      "slang": [],
+      "domain": "mental",
+      "group": "Trauma & Stress-Related",
+      "icon": "feather"
+    },
+    {
+      "id": "nssi",
+      "title": "Non-Suicidal Self-Injury (Cutting)",
+      "slang": [
+        "NSSI"
+      ],
+      "domain": "mental",
+      "group": "Self-Harm & Suicidal Crisis",
+      "icon": "bandage",
+      "risk": true
+    },
+    {
+      "id": "si",
+      "title": "Suicidal Ideation",
+      "slang": [],
+      "domain": "mental",
+      "group": "Self-Harm & Suicidal Crisis",
+      "icon": "bandage",
+      "risk": true
+    },
+    {
+      "id": "sar",
+      "title": "Suicide Attempt Recovery",
+      "slang": [],
+      "domain": "mental",
+      "group": "Self-Harm & Suicidal Crisis",
+      "icon": "bandage",
+      "risk": true
+    },
+    {
+      "id": "anorexia",
+      "title": "Anorexia Nervosa",
+      "slang": [],
+      "domain": "mental",
+      "group": "Eating Disorders",
+      "icon": "utensils"
+    },
+    {
+      "id": "bulimia",
+      "title": "Bulimia Nervosa",
+      "slang": [],
+      "domain": "mental",
+      "group": "Eating Disorders",
+      "icon": "utensils"
+    },
+    {
+      "id": "bed",
+      "title": "Binge Eating Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Eating Disorders",
+      "icon": "utensils"
+    },
+    {
+      "id": "arfid",
+      "title": "ARFID",
+      "slang": [],
+      "domain": "mental",
+      "group": "Eating Disorders",
+      "icon": "utensils"
+    },
+    {
+      "id": "orthorexia",
+      "title": "Orthorexia Nervosa",
+      "slang": [],
+      "domain": "mental",
+      "group": "Eating Disorders",
+      "icon": "utensils"
+    },
+    {
+      "id": "adhd",
+      "title": "ADHD",
+      "slang": [],
+      "domain": "mental",
+      "group": "Focus & Neurodevelopmental",
+      "icon": "target"
+    },
+    {
+      "id": "asd",
+      "title": "Autism Spectrum Disorder",
+      "slang": [
+        "ASD"
+      ],
+      "domain": "mental",
+      "group": "Focus & Neurodevelopmental",
+      "icon": "puzzle"
+    },
+    {
+      "id": "learning",
+      "title": "Learning Disorders",
+      "slang": [
+        "Dyslexia",
+        "Dyscalculia"
+      ],
+      "domain": "mental",
+      "group": "Focus & Neurodevelopmental",
+      "icon": "book"
+    },
+    {
+      "id": "intellectual",
+      "title": "Intellectual Disability",
+      "slang": [],
+      "domain": "mental",
+      "group": "Focus & Neurodevelopmental",
+      "icon": "puzzle"
+    },
+    {
+      "id": "ocd",
+      "title": "Obsessive-Compulsive Disorder",
+      "slang": [
+        "OCD"
+      ],
+      "domain": "mental",
+      "group": "OCD & Related",
+      "icon": "refresh"
+    },
+    {
+      "id": "bdd",
+      "title": "Body Dysmorphic Disorder",
+      "slang": [
+        "BDD"
+      ],
+      "domain": "mental",
+      "group": "OCD & Related",
+      "icon": "mirror"
+    },
+    {
+      "id": "hoarding",
+      "title": "Hoarding Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "OCD & Related",
+      "icon": "box"
+    },
+    {
+      "id": "trich",
+      "title": "Trichotillomania",
+      "slang": [
+        "Hair Pulling"
+      ],
+      "domain": "mental",
+      "group": "OCD & Related",
+      "icon": "refresh"
+    },
+    {
+      "id": "excoriation",
+      "title": "Excoriation Disorder",
+      "slang": [
+        "Skin Picking"
+      ],
+      "domain": "mental",
+      "group": "OCD & Related",
+      "icon": "bandage"
+    },
+    {
+      "id": "bpd",
+      "title": "Borderline Personality Disorder",
+      "slang": [
+        "BPD"
+      ],
+      "domain": "mental",
+      "group": "Personality Disorders",
+      "icon": "scale"
+    },
+    {
+      "id": "npd",
+      "title": "Narcissistic Personality Disorder",
+      "slang": [
+        "NPD"
+      ],
+      "domain": "mental",
+      "group": "Personality Disorders",
+      "icon": "mirror"
+    },
+    {
+      "id": "aspd",
+      "title": "Antisocial Personality Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Personality Disorders",
+      "icon": "zigzag"
+    },
+    {
+      "id": "avpd",
+      "title": "Avoidant Personality Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Personality Disorders",
+      "icon": "door"
+    },
+    {
+      "id": "schizophrenia",
+      "title": "Schizophrenia",
+      "slang": [],
+      "domain": "mental",
+      "group": "Psychotic Disorders",
+      "icon": "brain",
+      "risk": true
+    },
+    {
+      "id": "schizoaffective",
+      "title": "Schizoaffective Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Psychotic Disorders",
+      "icon": "brain",
+      "risk": true
+    },
+    {
+      "id": "bpd2",
+      "title": "Brief Psychotic Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Psychotic Disorders",
+      "icon": "brain",
+      "risk": true
+    },
+    {
+      "id": "sip",
+      "title": "Substance-Induced Psychosis",
+      "slang": [],
+      "domain": "mental",
+      "group": "Psychotic Disorders",
+      "icon": "brain",
+      "risk": true
+    },
+    {
+      "id": "somatic",
+      "title": "Somatic Symptom Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Somatic, Dissociative & Sleep",
+      "icon": "heart-pulse"
+    },
+    {
+      "id": "did",
+      "title": "Dissociative Identity Disorder",
+      "slang": [
+        "DID"
+      ],
+      "domain": "mental",
+      "group": "Somatic, Dissociative & Sleep",
+      "icon": "layers"
+    },
+    {
+      "id": "depersonalization",
+      "title": "Depersonalization / Derealization",
+      "slang": [],
+      "domain": "mental",
+      "group": "Somatic, Dissociative & Sleep",
+      "icon": "layers"
+    },
+    {
+      "id": "insomnia",
+      "title": "Insomnia Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Somatic, Dissociative & Sleep",
+      "icon": "moon"
+    },
+    {
+      "id": "hypersomnia",
+      "title": "Hypersomnia",
+      "slang": [],
+      "domain": "mental",
+      "group": "Somatic, Dissociative & Sleep",
+      "icon": "moon"
+    },
+    {
+      "id": "dsps",
+      "title": "Delayed Sleep Phase Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Somatic, Dissociative & Sleep",
+      "icon": "moon"
+    },
+    {
+      "id": "academic",
+      "title": "Academic Stress Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Socio-Cultural Distress",
+      "icon": "book"
+    },
+    {
+      "id": "unemployment",
+      "title": "Unemployment Depression",
+      "slang": [
+        "Ma1"
+      ],
+      "domain": "mental",
+      "group": "Socio-Cultural Distress",
+      "icon": "cloud-rain"
+    },
+    {
+      "id": "sim-mood",
+      "title": "Substance-Induced Mood Disorder",
+      "slang": [],
+      "domain": "mental",
+      "group": "Socio-Cultural Distress",
+      "icon": "cloud-rain"
+    },
+    {
+      "id": "cultural",
+      "title": "Cultural & Spiritual Distress",
+      "slang": [],
+      "domain": "mental",
+      "group": "Socio-Cultural Distress",
+      "icon": "compass"
+    }
+  ],
+  "groupOrder": {
+    "substances": [
+      "Zone 1 — Uppers",
+      "Zone 2 — Downers",
+      "Zone 3 & 4 — Other"
+    ],
+    "conditioning": [
+      "Digital Behavioural Loops",
+      "Traditional Media"
+    ],
+    "mental": [
+      "Mood & Anxiety",
+      "Trauma & Stress-Related",
+      "Self-Harm & Suicidal Crisis",
+      "Eating Disorders",
+      "Focus & Neurodevelopmental",
+      "OCD & Related",
+      "Personality Disorders",
+      "Psychotic Disorders",
+      "Somatic, Dissociative & Sleep",
+      "Socio-Cultural Distress"
+    ]
+  },
+  "details": {
+    "codeine": {
+      "facilitatorGoalIntro": "Prescription Cough Syrups (Bronco / Codeine)",
+      "modules": [
+        {
+          "title": "Assessment & Readiness for Change",
+          "goal": "Establish exact baseline intake, financial cost, and the client’s position on the Stages of Change model.",
+          "body": "\n          <ol>\n            <li><b>Quantify usage.</b> Ask directly, without judgement: \"How many bottles or caps do you take in 24 hours? What time is your first dose?\"</li>\n            <li><b>Identify secondary mixes.</b> Check for combination with alcohol, sedatives, or soft drinks (lean / dirty sprite).</li>\n            <li><b>Assess readiness (1–10).</b> \"How important is it for you to stop today, and how confident are you that you can reduce it?\"</li>\n          </ol>\n          <div class=\"script-quote\">\"Codeine creates physical dependence very quickly. If we stop suddenly without a plan, your body will react with restless legs, stomach cramps, and anxiety. Our goal isn't to punish you — it's to gradually take back control of your brain's opioid receptors, safely.\"</div>\n        ",
+          "inputs": [
+            {
+              "type": "baseline",
+              "label": "Current baseline (bottles/day)"
+            },
+            {
+              "type": "scale",
+              "label": "Readiness to change (1–10)"
+            }
+          ]
+        },
+        {
+          "title": "Tapering & Physical Step-Down Schedule",
+          "goal": "Execute a structured 3-week reduction to prevent severe opiate withdrawal while steadily lowering tolerance.",
+          "body": "\n          <table class=\"mini-table\">\n            <tr><th>Week</th><th>Target</th><th>Oversight action</th></tr>\n            <tr><td><b>1 — Stabilise</b></td><td>Cut 25%. Eliminate evening \"comfort\" doses.</td><td>Transfer bottle control to a trusted family member; measure exact doses with a medical cup.</td></tr>\n            <tr><td><b>2 — Step-down</b></td><td>Cut to 50% of baseline. One dose daily (afternoon).</td><td>2–3L water/day. Add vitamin B-complex & magnesium for cramps.</td></tr>\n            <tr><td><b>3 — Elimination</b></td><td>10% for 3 days, then complete cessation.</td><td>Monitor sweating, diarrhoea, insomnia. Non-codeine OTC pain relief only.</td></tr>\n          </table>\n          <p><b>Environmental cleanout:</b> search room, bag, and phone contacts to remove empty bottles, syrup dealers, and mixing agents.</p>\n        ",
+          "tool": "taper-log"
+        },
+        {
+          "title": "Trigger Management & Urge Surfing",
+          "goal": "Train the client to ride out chemical cravings — which peak in 10–15 minutes and subside if un-fed — without giving in.",
+          "body": "\n          <ol>\n            <li><b>Notice.</b> \"My brain is asking for Bronco right now.\"</li>\n            <li><b>Pause.</b> Set a 15-minute timer before acting on any urge.</li>\n            <li><b>Breathe.</b> 4-7-8 diaphragmatic breathing to down-regulate nervous system distress.</li>\n            <li><b>Ground.</b> Feet flat on the floor; name 5 objects in the room.</li>\n            <li><b>Substitute.</b> Ice-cold water or a strong peppermint for sensory throat feedback.</li>\n          </ol>\n        ",
+          "tool": "urge-timer"
+        },
+        {
+          "title": "Long-Term Cessation & Life Reconstruction",
+          "goal": "Build alternative non-chemical reward structures and repair social networks.",
+          "body": "\n          <ol>\n            <li><b>Peer separation.</b> Block and delete \"sip culture\" peer groups from phone and social media.</li>\n            <li><b>Routine replacement.</b> Fill former usage hours with mandatory physical activity — sport, gym, apprenticeship.</li>\n            <li><b>Relapse protocol.</b> A slip-up is a <i>lapse</i> to learn from, not a failure. Re-evaluate triggers immediately, without shame.</li>\n          </ol>\n        "
+        }
+      ]
+    },
+    "gambling": {
+      "facilitatorGoalIntro": "Gambling & Sports Betting (Aviator)",
+      "modules": [
+        {
+          "title": "Assessment & Readiness for Change",
+          "goal": "Quantify debt severity, identify emotional triggers, and break the \"chasing losses\" cycle.",
+          "body": "\n          <ul>\n            <li>\"How much have you deposited into betting apps over the last 30 days?\"</li>\n            <li>\"Have you borrowed money from loan sharks, family, or work to bet?\"</li>\n            <li>\"What thoughts run through your mind right after losing a ticket?\"</li>\n          </ul>\n          <div class=\"script-quote\">Betting apps are engineered algorithms designed to extract capital — not wealth-generation platforms.</div>\n        ",
+          "inputs": [
+            {
+              "type": "text",
+              "label": "Est. amount deposited (last 30 days)"
+            },
+            {
+              "type": "scale",
+              "label": "Readiness to change (1–10)"
+            }
+          ]
+        },
+        {
+          "title": "Digital Friction & Financial Lockout",
+          "goal": "Systematically strip away the technical ability to place a bet within 60 seconds.",
+          "body": "\n          <ol>\n            <li><b>Self-exclusion.</b> Formal closure on every active betting account — minimum 6–12 month lock.</li>\n            <li><b>App removal.</b> Delete apps, shortcuts, and any saved browser passwords.</li>\n            <li><b>Financial delegation.</b> Hand mobile-money PINs to a non-gambling relative for 90 days.</li>\n          </ol>\n        "
+        },
+        {
+          "title": "Trigger Management & Cognitive Reframing",
+          "goal": "Dismantle gambling cognitive distortions before they trigger the next bet.",
+          "body": "\n          <table class=\"mini-table\">\n            <tr><th>Distortion</th><th>Reframe</th></tr>\n            <tr><td>\"I almost won — it crashed at 1.99x right after I tapped.\"</td><td>A near-miss is a 100% loss by design. The crash point was set before the round began.</td></tr>\n            <tr><td>\"I just need one big win to clear my debts.\"</td><td>Every dollar in a negative-expectation game expands the debt. You cannot bet your way out of a gambling loss.</td></tr>\n          </table>\n          <p>When the urge strikes during a live match, watch it in a public family space, without a phone present.</p>\n        ",
+          "tool": "urge-timer"
+        },
+        {
+          "title": "Long-Term Cessation & Financial Recovery",
+          "goal": "Structure a concrete debt-repayment plan and rebuild healthy dopamine baselines.",
+          "body": "\n          <ol>\n            <li><b>Debt staging.</b> List debts smallest to largest. Fixed, small repayments from earned income only — never from prospective winnings.</li>\n            <li><b>Skill-based focus.</b> Re-channel speculation energy into real-economy skills — trade, agriculture, buying/selling physical goods.</li>\n            <li><b>Accountability partner.</b> Daily 8pm check-in: \"Day X — no bets placed, phone locked.\"</li>\n          </ol>\n        "
+        }
+      ]
+    },
+    "gad": {
+      "facilitatorGoalIntro": "Generalized Anxiety Disorder (Mapangachini)",
+      "modules": [
+        {
+          "title": "Assessment & Physiological Profiling",
+          "goal": "Distinguish physical anxiety symptoms from medical issues and map the client’s internal \"worry loops.\"",
+          "body": "\n          <p><b>Somatic manifestations:</b> palpitations, shallow breathing, feeling hot/shaky, stomach tightness, constant dread of impending disaster.</p>\n          <div class=\"script-quote\">Your brain's alarm system is misfiring — it's treating everyday thoughts as if a wild animal is attacking you. Your racing heart and tight stomach are adrenaline signals, not signs you're dying or going crazy.</div>\n        ",
+          "inputs": [
+            {
+              "type": "scale",
+              "label": "Current anxiety intensity (1–10)"
+            }
+          ]
+        },
+        {
+          "title": "Somatic Regulation & De-escalation",
+          "goal": "Teach immediate physical grounding skills that shut off the fight-or-flight response.",
+          "body": "\n          <ol>\n            <li><b>Physiological sigh.</b> Two inhales through the nose, one long exhale through the mouth.</li>\n            <li><b>Cold-water shift.</b> Splash ice water on the face or hold an ice cube.</li>\n            <li><b>5-4-3-2-1 grounding.</b> 5 things you see, 4 you touch, 3 you hear, 2 you smell, 1 you taste.</li>\n          </ol>\n          <p>In-session: 3 minutes of box breathing (inhale 4s, hold 4s, exhale 4s, hold 4s) until heart rate visibly drops.</p>\n        ",
+          "tool": "breathing"
+        },
+        {
+          "title": "Cognitive Decoupling & Worry Exposure",
+          "goal": "Break the habit of continuous overthinking using structured Worry Postponement.",
+          "body": "\n          <ol>\n            <li><b>Identify.</b> \"Is this a problem I can solve right now, or an uncertain future scenario?\"</li>\n            <li><b>Postpone.</b> \"I'm not ignoring this — I'll process it during Worry Time at 4:00pm for 15 minutes.\"</li>\n            <li><b>Execute.</b> At 4pm, write worries down for 15 minutes; cross out what can't be controlled. When the timer rings, close the notebook and change location.</li>\n          </ol>\n        "
+        },
+        {
+          "title": "Long-Term Coping & Resilience Building",
+          "goal": "Build lifestyle structures that prevent baseline anxiety spikes.",
+          "body": "\n          <ul>\n            <li><b>Stimulant removal.</b> Cut energy drinks, high caffeine, and nicotine — they mimic anxiety adrenaline.</li>\n            <li><b>Problem-Solving Therapy.</b> Break overwhelming stressors into single, actionable 3-step tasks.</li>\n            <li><b>Daily grounding.</b> 15 minutes of sunlight, daily walking, fixed sleep schedule.</li>\n          </ul>\n        "
+        }
+      ]
+    },
+    "mdd": {
+      "facilitatorGoalIntro": "Major Depressive Disorder (Kurova nepfungwa)",
+      "modules": [
+        {
+          "title": "Assessment & Readiness",
+          "goal": "Understand the current depth of the depressive cycle and where energy sits today.",
+          "body": "\n          <p>The depression cycle: a trigger or low mood causes withdrawal and reduced activity → loss of positive reinforcement → negative thinking loops → deepened guilt and worthlessness → mood drops further.</p>\n          <p>Understanding this as a chemical and behavioural loop — not a character flaw — is the first step. Low energy is a symptom, not evidence of failure.</p>\n        ",
+          "inputs": [
+            {
+              "type": "scale",
+              "label": "Energy level today (1–10)"
+            }
+          ]
+        },
+        {
+          "title": "Behavioural Activation",
+          "goal": "Break the cycle at the \"reduced activity\" stage — action before motivation.",
+          "body": "\n          <p><b>The key principle:</b> waiting to feel motivated rarely works, because motivation relies on dopamine, which is depleted during depression. Instead: behaviour first, then a small dopamine pulse, then motivation follows.</p>\n          <p>Micro-tasks reduce effort to near-zero — sitting on the edge of the bed for 30 seconds, opening the curtains, putting on socks, drinking half a glass of water.</p>\n          <p>After any micro-task: acknowledge the win first, then offer a low-pressure choice — <b>\"Claim win for today\"</b> or <b>\"Add one micro-step.\"</b> Full permission to stop prevents overwhelm.</p>\n        ",
+          "tool": "micro-task"
+        },
+        {
+          "title": "Trigger Management & Cognitive Reframing",
+          "goal": "Catch Automatic Negative Thoughts (ANTs) before they deepen the loop.",
+          "body": "\n          <ol>\n            <li><b>Capture the thought.</b> e.g. \"I ruin everything I try.\"</li>\n            <li><b>Name the distortion.</b> All-or-nothing thinking, catastrophising, filtering out the good, self-labelling.</li>\n            <li><b>Evidence check.</b> Find evidence against the thought and write a grounded alternative.</li>\n          </ol>\n        ",
+          "tool": "thought-reframer"
+        },
+        {
+          "title": "Long-Term Cessation & Re-Integration",
+          "goal": "Move from micro-tasks to graded, sustainable routines without a sudden jump in difficulty.",
+          "body": "\n          <p><b>Readiness signals:</b> consistency over motivation (3–5 days of micro-tasks regardless of mood), spontaneous momentum (adding a step unprompted), lowered resistance in check-ins.</p>\n          <p><b>Graded Task Assignment</b> example — a 10-minute walk: Step 1, stand at the door for 2 minutes; Step 2, walk to the gate and back; Step 3, the full walk. If a step feels too heavy, scale back to the previous step — never treat it as a setback.</p>\n          <p><b>Early warning signs</b> to watch for: shifted sleep patterns, micro-withdrawal from friends and hygiene, cognitive fog on simple decisions. When spotted, activate a pre-planned Low-Energy Protocol: one pre-written check-in text, a minimal 2-item baseline, and 60 seconds of passive sensory reset.</p>\n        "
+        }
+      ]
+    }
+  },
+  "genericTemplates": {
+    "substances": [
+      {
+        "title": "Assessment & Readiness for Change",
+        "goal": "Establish an honest baseline of use, frequency, and the client’s readiness to change.",
+        "body": "\n      <ol><li><b>Quantify use.</b> Ask what, how much, and how often — without judgement.</li>\n      <li><b>Check for mixing.</b> Identify any other substances used alongside this one.</li>\n      <li><b>Readiness scale (1–10).</b> How important is stopping today, and how confident do they feel?</li></ol>\n      <div class=\"script-quote\">Dependence is a physiological and psychological adaptation, not a moral failing. The goal is steady, safe reduction — not punishment.</div>",
+        "inputs": [
+          {
+            "type": "baseline",
+            "label": "Current baseline (units/day)"
+          },
+          {
+            "type": "scale",
+            "label": "Readiness to change (1–10)"
+          }
+        ]
+      },
+      {
+        "title": "Tapering, Friction & Step-Down",
+        "goal": "Reduce intake gradually over a structured multi-week schedule to minimise withdrawal risk.",
+        "body": "\n      <table class=\"mini-table\"><tr><th>Phase</th><th>Target</th><th>Support action</th></tr>\n      <tr><td>Week 1</td><td>Cut ~25% of baseline</td><td>Remove easiest access point; involve a support person.</td></tr>\n      <tr><td>Week 2</td><td>Cut to ~50%</td><td>Increase hydration and nutrition; monitor sleep.</td></tr>\n      <tr><td>Week 3</td><td>Taper to full cessation</td><td>Watch for withdrawal signs; seek medical support if severe.</td></tr></table>\n      <p>Where physical dependence is significant, a medical or clinic-supervised taper is the safest route.</p>",
+        "tool": "taper-log"
+      },
+      {
+        "title": "Trigger Management & Urge Surfing",
+        "goal": "Ride out cravings using the wave model — they peak in 10–15 minutes and pass if un-fed.",
+        "body": "\n      <ol><li><b>Notice</b> the urge without judgement.</li><li><b>Pause</b> — set a 15-minute timer before acting.</li>\n      <li><b>Breathe</b> — 4-7-8 breathing to calm the nervous system.</li><li><b>Ground</b> — name 5 things you can see.</li>\n      <li><b>Substitute</b> — cold water, movement, or a trusted call.</li></ol>",
+        "tool": "urge-timer"
+      },
+      {
+        "title": "Long-Term Cessation & Re-Integration",
+        "goal": "Rebuild a life structure that doesn’t depend on the substance for reward or coping.",
+        "body": "\n      <ol><li><b>Environment cleanout.</b> Remove paraphernalia, contacts, and access points.</li>\n      <li><b>Routine replacement.</b> Fill former-use hours with structured activity.</li>\n      <li><b>Relapse protocol.</b> Treat any slip as a lapse to learn from, not a failure — reassess triggers immediately.</li></ol>"
+      }
+    ],
+    "conditioning": [
+      {
+        "title": "Assessment & Readiness for Change",
+        "goal": "Quantify the scale of the behaviour and identify its emotional drivers.",
+        "body": "\n      <ul><li>\"How much time or money has this taken in the last 30 days?\"</li>\n      <li>\"What feeling shows up right before you start?\"</li>\n      <li>\"What happens in your mind right after you stop?\"</li></ul>\n      <div class=\"script-quote\">These platforms are engineered for engagement, not for your wellbeing. Naming the design is the first step to resisting it.</div>",
+        "inputs": [
+          {
+            "type": "text",
+            "label": "Estimated hours or spend / week"
+          },
+          {
+            "type": "scale",
+            "label": "Readiness to change (1–10)"
+          }
+        ]
+      },
+      {
+        "title": "Digital Friction & Behavioural Lockout",
+        "goal": "Add deliberate friction between the impulse and the action.",
+        "body": "\n      <ol><li><b>Self-exclude / uninstall.</b> Remove the app, or use a formal exclusion feature where available.</li>\n      <li><b>Add a barrier.</b> App blockers, delayed launch timers, or a trusted person holding a password.</li>\n      <li><b>Financial or time delegation.</b> Where money is involved, hand control to a trusted person temporarily.</li></ol>"
+      },
+      {
+        "title": "Trigger Management & Cognitive Reframing",
+        "goal": "Interrupt the automatic thoughts that justify \"just one more.\"",
+        "body": "\n      <p>Common distortion: \"I'm due for a win / this time is different.\" Reframe: outcomes here are engineered, not earned — the pattern doesn't owe you anything.</p>\n      <p>When the urge strikes, change location and remove the device from reach before deciding.</p>",
+        "tool": "urge-timer"
+      },
+      {
+        "title": "Long-Term Cessation & Re-Integration",
+        "goal": "Replace the behaviour’s function with healthier reward sources.",
+        "body": "\n      <ol><li><b>Identify the function</b> the behaviour served — boredom relief, escape, social connection — and find a substitute.</li>\n      <li><b>Rebuild routine</b> around the freed-up time.</li>\n      <li><b>Accountability check-in</b> with a trusted person on a fixed schedule.</li></ol>"
+      }
+    ],
+    "mental": [
+      {
+        "title": "Assessment & Readiness",
+        "goal": "Understand current symptom severity and physiological presentation.",
+        "body": "\n      <p>Distinguish physical symptoms from other medical causes, and map how the distress shows up day to day — thoughts, body sensations, and behaviour.</p>\n      <div class=\"script-quote\">What you're feeling has a physiological basis. Understanding the mechanism helps take away the shame.</div>",
+        "inputs": [
+          {
+            "type": "scale",
+            "label": "Current distress level (1–10)"
+          }
+        ]
+      },
+      {
+        "title": "Stabilisation & Regulation",
+        "goal": "Introduce grounding and regulation tools appropriate to this condition.",
+        "body": "\n      <ol><li><b>Grounding.</b> 5-4-3-2-1 sensory check-in.</li>\n      <li><b>Breath regulation.</b> Box breathing — inhale 4s, hold 4s, exhale 4s, hold 4s.</li>\n      <li><b>Structure.</b> Small, predictable daily anchors — sleep, food, light.</li></ol>",
+        "tool": "breathing"
+      },
+      {
+        "title": "Trigger Management",
+        "goal": "Identify and prepare for known triggers before they escalate.",
+        "body": "\n      <p>Map situations, thoughts, or sensations that reliably precede a flare. Build a simple, pre-agreed response plan for each — not a plan made in the moment.</p>",
+        "tool": "thought-reframer"
+      },
+      {
+        "title": "Long-Term Recovery & Resilience",
+        "goal": "Build sustainable, relapse-resistant routines.",
+        "body": "\n      <ul><li><b>Early warning signs.</b> Sleep shifts, withdrawal from contact, rising cognitive fog.</li>\n      <li><b>Low-energy protocol.</b> A pre-agreed minimal baseline for hard days.</li>\n      <li><b>Professional support.</b> Ongoing contact with a counsellor, clinic, or trusted supporter.</li></ul>"
+      }
+    ]
+  },
+  "riskProtocol": {
+    "title": "Emergency Crisis Protocol",
+    "body": "Remove immediate lethal means. Stay with the person continuously. Escort to the nearest clinic or hospital, or contact local emergency services immediately.",
+    "numbers": [
+      {
+        "label": "Local Emergency (Police/Ambulance)",
+        "value": "999 / 112"
+      },
+      {
+        "label": "Friendship Bench / Community Helpline",
+        "value": "Local community line"
+      }
+    ]
+  },
+  "distortionChips": [
+    {
+      "name": "All-or-Nothing",
+      "desc": "\"If it isn’t perfect, it’s a complete failure.\""
+    },
+    {
+      "name": "Fortune Telling",
+      "desc": "\"Assuming the worst outcome will happen, without proof.\""
+    },
+    {
+      "name": "Filter Out the Good",
+      "desc": "\"Focusing entirely on one bad detail, ignoring the rest.\""
+    },
+    {
+      "name": "Self-Labelling",
+      "desc": "\"Calling yourself ‘worthless’ instead of naming a mistake.\""
+    },
+    {
+      "name": "Catastrophising",
+      "desc": "\"Jumping straight to the worst possible ending.\""
+    },
+    {
+      "name": "Mind Reading",
+      "desc": "\"Assuming you know what others think of you.\""
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "title": "Possession of Crystal Meth (Mutoriro)",
+  "description": "A 22‑year‑old university student is found in possession of 5 grams of crystal methamphetamine (known locally as <strong>Mutoriro</strong> or <strong>Guka</strong>) during a police raid on a nightclub. He admits to using the drug occasionally and claims it was for personal use.",
+  "options": [
+   "Level 10 fine or up to 10 years imprisonment (Section 157)",
+   "Level 14 fine and mandatory 15–20 years imprisonment (Section 156)",
+   "Release with a warning and community service",
+   "Fine only, no imprisonment"
+  ],
+  "correct": 0,
+  "statute": "Criminal Law (Codification and Reform) Act [Chapter 9:23], Section 157",
+  "penalty": "Fine up to Level 10, imprisonment not exceeding 10 years, or both.",
+  "takeaway": "Unlawful possession of dangerous drugs like crystal meth is prosecuted under Section 157, which provides for a fine and/or up to 10 years in prison. Aggravated dealing (Section 156) applies to larger‑scale trafficking and carries 15–20 years."
+ },
+ {
+  "id": 2,
+  "title": "Aggravated Dealing in Cocaine",
+  "description": "A drug syndicate leader is arrested with 2 kg of cocaine and several firearms. He is found to be operating an organised network that recruited minors to act as couriers. He is charged under the <strong>aggravated</strong> dealing provisions.",
+  "options": [
+   "Fine up to Level 14 and 10 years imprisonment",
+   "Mandatory imprisonment of 15 to 20 years (Section 156 aggravated)",
+   "5 years imprisonment and fine",
+   "Deportation and fine"
+  ],
+  "correct": 1,
+  "statute": "Criminal Law (Codification and Reform) Act [Chapter 9:23], Section 156 (Aggravated Circumstances)",
+  "penalty": "Imprisonment for 15 to 20 years, plus a fine not below Level 14.",
+  "takeaway": "Aggravated dealing includes organised crime, use of violence, enticement of minors, or repeat offenses. The mandatory minimum is 15 years' imprisonment, reflecting the severity of the offense."
+ },
+ {
+  "id": 3,
+  "title": "Smuggling Codeine Syrup (Broncleer)",
+  "description": "A pharmacist is caught importing 500 bottles of codeine‑based cough syrup (Broncleer) without a Medicines Control Authority of Zimbabwe (MCAZ) licence. The bottles lack proper registration and are destined for illegal sale on the black market.",
+  "options": [
+   "Seizure of goods and a fine under MASCA",
+   "Up to 5 years imprisonment and a fine (MASCA Section 100)",
+   "10 years imprisonment under the Dangerous Drugs Act",
+   "No offence, as codeine is a legal medicine"
+  ],
+  "correct": 1,
+  "statute": "Medicines and Allied Substances Control Act (MASCA) [Chapter 15:03], Section 38/100",
+  "penalty": "Fine up to Level 12, confiscation, and imprisonment up to 5 to 10 years.",
+  "takeaway": "Unlawful importation or dealing in prescription‑only medicines like codeine is prosecuted under MASCA, with penalties including imprisonment and substantial fines. Broncleer is a controlled substance when imported without approval."
+ },
+ {
+  "id": 4,
+  "title": "Unlicensed Brewing of Illicit Spirits (Kachasu)",
+  "description": "A rural community member is found operating a large‑scale distillery producing high‑proof spirits (<strong>Kachasu</strong> / <strong>Musombodia</strong>) without a licence. The operation poses a public health risk due to potential methanol contamination.",
+  "options": [
+   "Fines up to Level 7 and up to 2 years imprisonment (Liquor Act)",
+   "Immediate destruction of equipment and a warning",
+   "10 years imprisonment under the Dangerous Drugs Act",
+   "No offence, as traditional brewing is protected"
+  ],
+  "correct": 0,
+  "statute": "Liquor Act [Chapter 14:12] and Harmful Liquids Act [Chapter 14:10]",
+  "penalty": "Fines up to Level 7, forfeiture/destruction of equipment, and imprisonment up to 1 to 2 years.",
+  "takeaway": "Illicit distillation is a serious regulatory offence because of health risks and revenue loss. Penalties include fines and jail time, and courts typically order destruction of the brewing apparatus."
+ },
+ {
+  "id": 5,
+  "title": "Unauthorised Cultivation of Cannabis (Mbanje)",
+  "description": "A small‑scale farmer is growing 200 cannabis plants on his land without a medical or industrial hemp licence. He claims the cannabis is for his own traditional use and not for sale.",
+  "options": [
+   "Fine up to Level 10 or imprisonment up to 10 years (Section 158)",
+   "Mandatory 15 years under Section 156 (dealing)",
+   "6 months imprisonment only",
+   "Legal if for personal use"
+  ],
+  "correct": 0,
+  "statute": "Criminal Law (Codification and Reform) Act [Chapter 9:23], Section 158",
+  "penalty": "A fine up to Level 10, imprisonment not exceeding 10 years, or both.",
+  "takeaway": "Unlawful cultivation of cannabis is dealt with under Section 158, with penalties comparable to possession. Commercial cultivation may be charged as dealing under Section 156, attracting harsher sentences."
+ },
+ {
+  "id": 6,
+  "title": "Retail of Solvents to Minors",
+  "description": "A hardware store owner sells glue, thinners, and petrol to a group of 14‑year‑olds, knowing they intend to inhale the fumes for intoxication. The minors later suffer severe health effects.",
+  "options": [
+   "Fines or up to 2 years imprisonment (Children's Act)",
+   "5 years imprisonment under the Dangerous Drugs Act",
+   "No offence, as solvents are legal products",
+   "Only a warning and a small fine"
+  ],
+  "correct": 0,
+  "statute": "Children's Act [Chapter 5:06] and Criminal Law (Public Nuisance)",
+  "penalty": "Fines or imprisonment up to 2 years for endangering a minor.",
+  "takeaway": "While solvent inhalation is not a drug offense per se, retailers who supply these substances to minors for intoxication can be prosecuted under the Children's Act for endangering the welfare of a child."
+ },
+ {
+  "id": 7,
+  "title": "Unlicensed Forex & Crypto Trading Scheme",
+  "description": "A self‑styled investment guru runs a forex/crypto trading scheme, promising guaranteed monthly returns. He operates without a licence from the Reserve Bank of Zimbabwe, and the scheme shows hallmarks of a ponzi structure. Investors lose their funds.",
+  "options": [
+   "Imprisonment up to 10–14 years and forfeiture (Exchange Control Act & Fraud)",
+   "2 years imprisonment only",
+   "Civil lawsuit only, no criminal liability",
+   "Fine up to Level 6"
+  ],
+  "correct": 0,
+  "statute": "Exchange Control Act [Chapter 22:05] and Criminal Law Code (Fraud, Section 136)",
+  "penalty": "Imprisonment up to 10 to 14 years and mandatory forfeiture of illicit funds.",
+  "takeaway": "Unlicensed foreign currency dealing and fraudulent investment schemes are taken seriously, with penalties comparable to fraud and financial crimes. Courts often order restitution and forfeiture."
+ },
+ {
+  "id": 8,
+  "title": "Operating an Illegal Gambling Parlour",
+  "description": "A businessman is running an unlicensed slot machine arcade in a shopping centre, offering gambling without a permit from the Lotteries and Gaming Board. The machines are not registered.",
+  "options": [
+   "Fines up to Level 10 and up to 2 years imprisonment (Lotteries and Gaming Act)",
+   "10 years imprisonment under the Criminal Law Code",
+   "Seizure of machines and a warning only",
+   "No offence, as gambling is legal in Zimbabwe"
+  ],
+  "correct": 0,
+  "statute": "Lotteries and Gaming Act [Chapter 10:26]",
+  "penalty": "Fines up to Level 10, forfeiture of gaming machines, and up to 2 years imprisonment.",
+  "takeaway": "Gambling is legal only through licensed operators. Unlicensed operations attract substantial fines, forfeiture of equipment, and jail time, reflecting the state's interest in regulating gaming activities."
+ }
+]

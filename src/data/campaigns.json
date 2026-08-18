@@ -1,0 +1,29 @@
+[
+  {
+    "id": "campaign-1",
+    "name": "Say No to Drugs",
+    "theme": "Drug Prevention",
+    "duration": 4,
+    "description": "A school-based campaign to prevent drug use among youth.",
+    "active": true,
+    "events": [
+      { "week": 1, "theme": "What Are Drugs?", "activity": "Assembly talk + myth-fact cards" },
+      { "week": 2, "theme": "Effects on the Brain", "activity": "Interactive science demo" },
+      { "week": 3, "theme": "Saying No", "activity": "Role-play workshop" },
+      { "week": 4, "theme": "Pledge Day", "activity": "Public pledge ceremony" }
+    ]
+  },
+  {
+    "id": "campaign-2",
+    "name": "Mental Health Matters",
+    "theme": "Mental Health",
+    "duration": 3,
+    "description": "Breaking the stigma around mental health in schools.",
+    "active": true,
+    "events": [
+      { "week": 1, "theme": "What is Mental Health?", "activity": "Classroom discussion" },
+      { "week": 2, "theme": "Recognising Signs", "activity": "Peer support training" },
+      { "week": 3, "theme": "Seeking Help", "activity": "Resource fair" }
+    ]
+  }
+]

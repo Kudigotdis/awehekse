@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tov-blue: #782919;
+  --color-tov-blue-light: #ce330e;
+  --color-tov-blue-pale: #f4ddd5;
+  --color-tov-cream: #F5F5FA;
+  --color-tov-green: #0F8A5F;
+  --color-tov-green-light: #16A97A;
+  --color-tov-green-pale: #D9F2E8;
+  --color-tov-orange: #f2811c;
+  --color-tov-orange-light: #f9a74e;
+  --color-tov-red: #B71C1C;
+  --color-tov-purple: #4A148C;
+  --color-tov-gold: #F9A825;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+@layer utilities {
+  @keyframes slide-up {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .animate-slide-up { animation: slide-up 0.25s ease-out; }
+}
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    overscroll-behavior: none;
+  }
+  * {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  *::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@layer utilities {
+  .safe-top { padding-top: env(safe-area-inset-top); }
+  .safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+}
+
+@layer components {
+  .guide-body ol {
+    list-style: decimal;
+    padding-left: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .guide-body ul {
+    list-style: disc;
+    padding-left: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .guide-body .script-quote {
+    margin-top: 0.5rem;
+    border-left: 3px solid var(--color-tov-blue-light);
+    background: var(--color-tov-blue-pale);
+    padding: 0.6rem 0.75rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--color-tov-blue);
+  }
+  .guide-body .mini-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.75rem;
+    margin-top: 0.5rem;
+  }
+  .guide-body .mini-table th {
+    background: var(--color-tov-blue-pale);
+    text-align: left;
+    padding: 0.4rem 0.5rem;
+    color: var(--color-tov-blue);
+  }
+  .guide-body .mini-table td {
+    border-bottom: 1px solid #e7e5e4;
+    padding: 0.4rem 0.5rem;
+    vertical-align: top;
+  }
+}

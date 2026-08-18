@@ -1,0 +1,164 @@
+[
+  {
+    "id": "hh-1",
+    "name": "National AIDS Helpline",
+    "number": "801-100-111",
+    "available": "24/7",
+    "type": "HIV/AIDS & Sexual Health",
+    "province": "National",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-2",
+    "name": "Mental Health Helpline",
+    "number": "0800-111-000",
+    "available": "24/7",
+    "type": "Mental Health",
+    "province": "National",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-3",
+    "name": "Childline Zimbabwe",
+    "number": "116",
+    "available": "24/7",
+    "type": "Child Protection",
+    "province": "National",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-4",
+    "name": "Zimbabwe Republic Police",
+    "number": "995",
+    "available": "24/7",
+    "type": "Emergency Services",
+    "province": "National",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-5",
+    "name": "Alcoholics Anonymous Zimbabwe",
+    "number": "+263 77 234 5678",
+    "available": "Mon-Fri 8am-5pm",
+    "type": "Substance Abuse",
+    "province": "Harare",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-6",
+    "name": "Friendship Bench",
+    "number": "+263 77 567 8901",
+    "available": "Mon-Sat 7am-7pm",
+    "type": "Mental Health",
+    "province": "Harare",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-7",
+    "name": "National Psychiatric Hospital",
+    "number": "+263 242 701 234",
+    "available": "24/7",
+    "type": "Mental Health",
+    "province": "Harare",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-8",
+    "name": "Department of Social Welfare",
+    "number": "+263 242 701 456",
+    "available": "Mon-Fri 8am-4:30pm",
+    "type": "Social Services",
+    "province": "National",
+    "country": "ZW"
+  },
+  {
+    "id": "hh-9",
+    "name": "Botswana Network on Mental Health (BONMEH)",
+    "number": "+267 390 2052",
+    "available": "Mon-Fri 8am-5pm",
+    "type": "Mental Health",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-10",
+    "name": "Botswana Association for Psychosocial Rehabilitation (BAPR)",
+    "number": "+267 390 2052",
+    "available": "Mon-Fri 8am-5pm",
+    "type": "Mental Health",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-11",
+    "name": "African Coalition for Community Health (ACHAP)",
+    "number": "+267 391 3311",
+    "available": "24/7",
+    "type": "Substance Abuse",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-12",
+    "name": "Samburu Mental Health Organisation",
+    "number": "+267 391 1647",
+    "available": "Mon-Fri 8am-5pm",
+    "type": "Mental Health",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-13",
+    "name": "NACA (Narcotics Affairs Council)",
+    "number": "+267 390 4525",
+    "available": "Mon-Fri 8am-5pm",
+    "type": "Substance Abuse",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-14",
+    "name": "Tsholofelo Centre",
+    "number": "+267 71 300 446",
+    "available": "24/7",
+    "type": "Substance Abuse",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-15",
+    "name": "Botswana Police Service",
+    "number": "191",
+    "available": "24/7",
+    "type": "Emergency Services",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-16",
+    "name": "Fire Brigade",
+    "number": "192",
+    "available": "24/7",
+    "type": "Emergency Services",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-17",
+    "name": "Ambulance Services",
+    "number": "190",
+    "available": "24/7",
+    "type": "Emergency Services",
+    "province": "National",
+    "country": "BW"
+  },
+  {
+    "id": "hh-18",
+    "name": "Childline Botswana",
+    "number": "116",
+    "available": "24/7",
+    "type": "Child Protection",
+    "province": "National",
+    "country": "BW"
+  }
+]

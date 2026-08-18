@@ -1,0 +1,262 @@
+{
+  "agency": {
+    "name": "Botswana Medicines Regulatory Authority (BoMRA)",
+    "desc": "Established under Medicines and Related Substances Act (Act No. 8 of 2013) as Botswana's independent statutory body regulating medicines, controlled substances, and pharmaceutical products.",
+    "divisions": [
+      {
+        "name": "Enforcement Div.",
+        "desc": "Border control, seizure of counterfeit/illegal products & prosecution."
+      },
+      {
+        "name": "Pharmacovigilance Div.",
+        "desc": "Drug safety monitoring, clinical trials oversight & product registration."
+      }
+    ]
+  },
+  "statute": {
+    "title": "Medicines and Related Substances Act (Cap. 63:04) & Penal Code (Cap. 08:01)",
+    "items": [
+      {
+        "label": "Penal Code — Drug Trafficking:",
+        "text": "5–25 years imprisonment for commercial-scale trafficking and large-scale distribution.",
+        "tone": "rose"
+      },
+      {
+        "label": "Penal Code — Simple Possession:",
+        "text": "Fines and short-term imprisonment for minor possession.",
+        "tone": "orange"
+      },
+      {
+        "label": "MRSA 2013 — Unauthorized Distribution:",
+        "text": "Prohibits unauthorized manufacture, sale, or distribution of controlled substances. BoMRA authorized to inspect, seize, and revoke licenses.",
+        "tone": "rose"
+      },
+      {
+        "label": "Dangerous Drugs Act — Consumption:",
+        "text": "Mandates clinical treatment protocols alongside penal restrictions for illicit substance consumption.",
+        "tone": "orange"
+      }
+    ]
+  },
+  "zones": [
+    {
+      "tag": "Zone 1 • Stimulants",
+      "title": "Uppers (Crystal Meth, Cocaine, Khat)",
+      "category": "laws substance",
+      "icon": "cherry",
+      "keywords": "crystal meth mathawa dombo tik glass ice cocaine crack khat mairungi energy drinks uppers",
+      "items": [
+        {
+          "heading": "Crystal Meth (Mathawa / Tik / Dombo)",
+          "level": "h2",
+          "law": "MRSA 2013 Schedule 1A — Controlled Drug & Narcotic. Penalties under Penal Code Cap. 08:01 for unauthorized possession, manufacture, or distribution.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Trafficking:",
+              "text": "5–25 years imprisonment for commercial-scale operations."
+            },
+            {
+              "label": "Possession:",
+              "text": "Fines and short-term imprisonment. Mandatory drug testing in criminal proceedings."
+            }
+          ]
+        },
+        {
+          "heading": "Cocaine & Crack Cocaine (Coke / Charlie / Mabwe)",
+          "level": "h2",
+          "law": "MRSA 2013 Schedule 1A — Controlled Drug & Narcotic. Penal Code Cap. 08:01 for trafficking and possession.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Trafficking:",
+              "text": "5–25 years imprisonment for commercial-scale operations."
+            },
+            {
+              "label": "Possession:",
+              "text": "Fines and imprisonment. Quantity, packaging, and monetary value determine sentencing."
+            }
+          ]
+        },
+        {
+          "heading": "Khat / Mairungi (Miraa)",
+          "level": "h3",
+          "law": "MRSA 2013 — Regulated as controlled substance. Unauthorized importation or distribution prohibited.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Unauthorized Importation:",
+              "text": "Seizure and prosecution under MRSA 2013."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "Zone 2 • Depressants",
+      "title": "Downers (Heroin, Benzos, Alcohol, Cough Syrups)",
+      "category": "laws substance",
+      "icon": "sky",
+      "keywords": "heroin nyaope whoonga pinch smack benzos mandrax alcohol kachasu khadi chibuku cough syrup bronco lean",
+      "items": [
+        {
+          "heading": "Heroin & Street-Cut Opiates (Nyaope / Whoonga / Smack)",
+          "level": "h2",
+          "law": "MRSA 2013 Schedule 1A — Controlled Drug & Narcotic. High abuse potential with physical and psychological dependence.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Trafficking:",
+              "text": "5–25 years imprisonment for commercial-scale operations."
+            },
+            {
+              "label": "Possession:",
+              "text": "Fines and imprisonment. Mandatory clinical treatment protocols may apply."
+            }
+          ]
+        },
+        {
+          "heading": "Benzodiazepines & Sedatives (Benzos / Mandrax / Majozi)",
+          "level": "h2",
+          "law": "MRSA 2013 Schedule 1B — Psychotropic Substances & Controlled Sedatives. Valid written prescription required with quantitative limits per fill.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Unauthorized Possession:",
+              "text": "Fines and imprisonment. Strict record-keeping requirements for dispensing."
+            }
+          ]
+        },
+        {
+          "heading": "Alcohol & Illicit Spirits (Kachasu / Khadi / Chibuku)",
+          "level": "h2",
+          "law": "Liquor Act — Licensing Requirements & Operating Hours. Underage restrictions: sale to persons under 18 years strictly prohibited.",
+          "note": "Traditional brews (Khadi, Kachasu) may fall outside formal licensing but remain subject to public health regulations.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Underage Sale:",
+              "text": "Prohibition of sale, supply, or serving to any person under 18 years. Compliance duties on venue operators."
+            },
+            {
+              "label": "Operating Hours Violation:",
+              "text": "Fines and license revocation for trading outside permitted hours."
+            }
+          ]
+        },
+        {
+          "heading": "Prescription Cough Syrups (Bronco / Lean / Siropo)",
+          "level": "h3",
+          "law": "MRSA 2013 Schedule 1C — Targeted Therapeutics with Abuse Potential. Codeine-containing combinations require valid medical prescription.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Unauthorized Sale:",
+              "text": "Pharmacy licensing violations and prosecution under MRSA 2013."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "Zone 3 • Chemical & Ambient",
+      "title": "Cannabis, Vaping & Tobacco",
+      "category": "laws substance",
+      "icon": "lime",
+      "keywords": "cannabis motokwane dagga mbanje ganja weed vaping vape juul tobacco motsoko bute snuff shisha",
+      "items": [
+        {
+          "heading": "Cannabis (Motokwane / Dagga / Mbanje)",
+          "level": "h2",
+          "law": "MRSA 2013 Schedule 1A — Controlled Drug. Unauthorized cultivation, possession, or distribution prohibited.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Cultivation:",
+              "text": "Fines and imprisonment. quantity-based sentencing for commercial cultivation."
+            },
+            {
+              "label": "Possession:",
+              "text": "Fines and short-term imprisonment. Mandatory drug testing in criminal proceedings."
+            }
+          ]
+        },
+        {
+          "heading": "Vaping & E-Cigarettes (Vape / Juul)",
+          "level": "h3",
+          "law": "MRSA 2013 — Regulation of electronic nicotine delivery systems under medicines legislation. BoMRA authorization required for importation and sale.",
+          "note": "E-cigarette regulations evolving. Check latest BoMRA directives.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Unauthorized Importation:",
+              "text": "Seizure and prosecution under MRSA 2013 border procedures."
+            }
+          ]
+        },
+        {
+          "heading": "Tobacco & Snuff (Motsoko / Bute / Shisha)",
+          "level": "h3",
+          "law": "MRSA 2013 — Tobacco products subject to labeling standards and advertising restrictions. Public Health Act regulates smoking in public places.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Public Smoking:",
+              "text": "Fines under Public Health Act for smoking in prohibited areas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "Zone 4 • Behavioral & Digital",
+      "title": "Gambling, Forex & Digital Addiction",
+      "category": "laws conditioning",
+      "icon": "purple",
+      "keywords": "gambling betting aviator mabhetis botheki forex crypto bitcoin scheme digital addiction social media gaming",
+      "items": [
+        {
+          "heading": "Gambling & Sports Betting (Mabhetis / Botheki / Aviator)",
+          "level": "h2",
+          "law": "Gambling Act — Licensing and regulation of gambling operations. Underage gambling strictly prohibited.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Underage Gambling:",
+              "text": "Prohibition of participation by persons under 18 years. Venue operators liable."
+            },
+            {
+              "label": "Unlicensed Operations:",
+              "text": "Fines and closure of unlicensed gambling operations."
+            }
+          ]
+        },
+        {
+          "heading": "Forex & Crypto Trading Schemes",
+          "level": "h2",
+          "law": "Bank of Botswana Act — Regulation of financial services and foreign exchange. Pyramid schemes prohibited under anti-fraud legislation.",
+          "note": "Cryptocurrency regulation evolving. Check latest Bank of Botswana directives.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Pyramid Schemes:",
+              "text": "Prosecution under anti-fraud legislation. Fines and imprisonment."
+            }
+          ]
+        },
+        {
+          "heading": "Online Gaming & Microtransactions",
+          "level": "h3",
+          "law": "Electronic Communications Act — General regulation of digital services. Loot box mechanics may fall under gambling regulations depending on jurisdiction.",
+          "punishmentsTitle": "Penalties",
+          "punishments": [
+            {
+              "label": "Predatory Mechanics:",
+              "text": "Consumer protection regulations may apply. Check latest directives."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+[
+  {
+    "id": "moffat-takadiwa",
+    "name": "Moffat Takadiwa",
+    "field": "Conceptual Installation Art",
+    "category": "visual",
+    "traps": [
+      "anti-drug",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "World-renowned contemporary artist who uses found consumer waste—computer keys, aerosol cans, and discarded pill/cough syrup bottles—to weave massive tapestry-like installations. His work highlights the suffocating nature of global consumerism and localized chemical escape. Age: 41.",
+    "socials": {
+      "instagram": "@moffattakadiwa",
+      "website": "moffattakadiwa.com"
+    },
+    "tactical": "Weaves massive tapestry structures out of consumer waste, empty computer keys, and discarded medicine bottles. Forces audiences to confront the physical scale of consumerism and chemical escapism.",
+    "gallerySlots": 4,
+    "color": "#B7410E"
+  },
+  {
+    "id": "johnson-zuze",
+    "name": "Johnson Zuze",
+    "field": "Found-Object Mixed-Media Sculpture",
+    "category": "visual",
+    "traps": [
+      "anti-drug",
+      "attention"
+    ],
+    "region": "Chitungwiza, Zimbabwe",
+    "bio": "Chitungwiza-based mixed-media sculptor whose entire practice focuses on \"poetic justice dimension\" art. Collects urban junk, wire, and plastics from township dumpsites to craft animals and figurative structures. Age: 38.",
+    "socials": {
+      "instagram": "@johnsonzuze",
+      "facebook": "Johnson Zuze Art"
+    },
+    "tactical": "Scavenges township dumpsites for illicit wire, plastic, and junk to construct intricate figurative sculptures. Turns literal ghetto decay into high-value cultural artifacts.",
+    "gallerySlots": 3,
+    "color": "#CC7722"
+  },
+  {
+    "id": "kudzanai-chiurai",
+    "name": "Kudzanai Chiurai",
+    "field": "Multimedia & Activist Photography",
+    "category": "visual",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Revolutionary multimedia artist and activist whose paintings and photography sets explicitly mock corporate and political propaganda. Dismantles false visuals peddled by charismatic religious movements and corrupt regimes. Age: 43.",
+    "socials": {
+      "instagram": "@kudzanaichiurai",
+      "website": "kudzanaichiurai.com"
+    },
+    "tactical": "Stages and photographs hyper-realistic theatrical scenes that mock state propaganda and expose manipulative visuals used by prosperity gospel mega-churches.",
+    "gallerySlots": 4,
+    "color": "#960018"
+  },
+  {
+    "id": "calvin-dondo",
+    "name": "Calvin Dondo",
+    "field": "Documentary Photography",
+    "category": "visual",
+    "traps": [
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Pioneer of conceptual photography capturing raw, unfiltered portraits of urban ghetto realities. Purposefully bypasses the heavily filtered, clean aesthetic demands of platforms like Instagram. Age: 50.",
+    "socials": {
+      "instagram": "@calvindondo",
+      "website": "calvindondo.com"
+    },
+    "tactical": "Captures un-edited raw black-and-white archives of daily urban struggle, actively breaking the hyper-filtered fake-wealth baseline pushed by Instagram.",
+    "gallerySlots": 3,
+    "color": "#36454F"
+  },
+  {
+    "id": "outspoken",
+    "name": "Tongai \"Outspoken\" Makawa",
+    "field": "Spoken-Word Poetry & Grassroots Organizing",
+    "category": "theatre",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Legendary spoken-word poet, activist, and co-founder of the Magamba Network. Delivers razor-sharp socio-political critique attacking youth apathy and exposing artificial structures of the digital matrix. Age: 39.",
+    "socials": {
+      "instagram": "@outspokenzw",
+      "twitter": "@outspokenzw"
+    },
+    "tactical": "Uses razor-sharp lyricism to attack youth political apathy. Through Magamba Network, builds physical platforms training youth in alternative media literacy.",
+    "gallerySlots": 3,
+    "color": "#8F00FF"
+  },
+  {
+    "id": "cde-fatso",
+    "name": "Samm \"Cde Fatso\" Monro",
+    "field": "Performance Art & Festival Curation",
+    "category": "theatre",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Pioneer of political satire and performance art in Zimbabwe. Curates the Shoko Festival, providing a platform for underground slam poets and rebels to push raw reality into public consciousness. Age: 42.",
+    "socials": {
+      "instagram": "@cdefatso",
+      "twitter": "@cdefatso"
+    },
+    "tactical": "Directs the Shoko Festival, carving out independent physical spaces where underground slam poets can speak truth to power, bypassing corporate radio censorship.",
+    "gallerySlots": 4,
+    "color": "#FF4500"
+  },
+  {
+    "id": "xapa",
+    "name": "Xapa (The Poet)",
+    "field": "Vernacular Street Slam Poetry",
+    "category": "theatre",
+    "traps": [
+      "anti-drug",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Rising star in contemporary street-poetry and slam circuits. Uses intense vernacular Shona rhymes to target the harrowing emotional decay of young pill-poppers in high-density areas. Age: 27.",
+    "socials": {
+      "instagram": "@xapathepoet",
+      "youtube": "Xapa Poetry"
+    },
+    "tactical": "Writes aggressive rhythmic Shona poetry focusing explicitly on the psychological horrors of pill-popping (Mangemba) and street trauma in high-density areas.",
+    "gallerySlots": 2,
+    "color": "#DC143C"
+  },
+  {
+    "id": "daves-guzha",
+    "name": "Daves Guzha",
+    "field": "Independent Protest Theatre",
+    "category": "theatre",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Theatrical heavyweight using independent theater spaces like Theatre in the Park to stage raw critical plays that dismantle domestic toxicity and economic depression normalized by mainstream television soapies. Age: 48.",
+    "socials": {
+      "website": "theatreinthepark.co.zw",
+      "twitter": "@davesguzha"
+    },
+    "tactical": "Utilizes Theatre in the Park to produce controversial thought-provoking live plays breaking through the shallow escapism of television soapies.",
+    "gallerySlots": 3,
+    "color": "#0D98BA"
+  },
+  {
+    "id": "noviolet-bulawayo",
+    "name": "NoViolet Bulawayo",
+    "field": "Contemporary Fiction & Allegorical Novels",
+    "category": "literature",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Bulawayo / USA",
+    "bio": "Author of critically acclaimed \"We Need New Names\" and \"Glory.\" Masterfully traces how digital disconnect, political trauma, and religious manipulation impact the young Zimbabwean psyche. Age: 42.",
+    "socials": {
+      "instagram": "@novioletbulawayo",
+      "website": "novioletbulawayo.com"
+    },
+    "tactical": "Her books map out psychological fragmentation caused by political trauma, cyber-bullying, and religious manipulation.",
+    "gallerySlots": 3,
+    "color": "#4B0082"
+  },
+  {
+    "id": "tsitsi-dangarembga",
+    "name": "Tsitsi Dangarembga",
+    "field": "Psychological Realism & Feminist Literature",
+    "category": "literature",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Iconic novelist and filmmaker. Author of the \"Nervous Conditions\" trilogy. Writes long-form psychological mapping on how systemic societal cages condition women into compliance or violent breaking points. Age: 65.",
+    "socials": {
+      "instagram": "@tsitsidangarembga",
+      "twitter": "@tsitsidangarembga"
+    },
+    "tactical": "Writes complex character arcs detailing how institutional forces and societal cages break down or condition the human psyche.",
+    "gallerySlots": 4,
+    "color": "#C71585"
+  },
+  {
+    "id": "ignatius-mabasa",
+    "name": "Ignatius Mabasa",
+    "field": "Vernacular Shona Novel-Writing (Chinyakare)",
+    "category": "literature",
+    "traps": [
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Pioneer of modern Shona literature and storytelling. Aggressively writes novels in rich vernacular Shona to preserve deep linear analytical capacities of local youth. Age: 55.",
+    "socials": {
+      "facebook": "Ignatius Mabasa Books",
+      "website": "ignatiusmabasa.co.zw"
+    },
+    "tactical": "Writes critically acclaimed novels completely in rich multi-layered Shona. Preserves linguistic heritage and protects young readers from fragmented internet slang.",
+    "gallerySlots": 3,
+    "color": "#008000"
+  },
+  {
+    "id": "andrew-chatora",
+    "name": "Andrew Chatora",
+    "field": "Diaspora Realism Literature",
+    "category": "literature",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "UK / Zimbabwe",
+    "bio": "Contemporary novelist whose works like \"Diaspora Dreams\" and \"Unstoppable March of the Human Condition\" explicitly paint the ugly unglamorous realities of economic migration. Age: 45.",
+    "socials": {
+      "twitter": "@andrewchatora",
+      "website": "andrewchatora.com"
+    },
+    "tactical": "Writes raw novels exposing harsh exhausting realities of economic migration. Shatters fake hyper-luxurious \"abroad\" lifestyle tropes advertised on social media.",
+    "gallerySlots": 2,
+    "color": "#0F52BA"
+  },
+  {
+    "id": "zambezi-news",
+    "name": "Zambezi News",
+    "field": "Digital Satirical News Broadcasting",
+    "category": "film",
+    "traps": [
+      "anti-hopeium"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Groundbreaking satirical news show created by the Magamba Network. Functions as a direct parody of state propaganda and corporate media gaslighting, training viewers to look past media manipulation.",
+    "socials": {
+      "youtube": "Zambezi News",
+      "instagram": "@zambezinews"
+    },
+    "tactical": "Creates viral high-quality news parodies mimicking state and corporate media gaslighting. Trains viewers to dissect and question the media they consume daily.",
+    "gallerySlots": 4,
+    "color": "#FFBF00"
+  },
+  {
+    "id": "comic-pastor",
+    "name": "Prosper \"Comic Pastor\" Ngomashi",
+    "field": "Digital Sketch Comedy & Social Commentary",
+    "category": "film",
+    "traps": [
+      "anti-hopeium"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Digital content creator using comedic skits to comment on day-to-day survival struggles. Frequently targets the corruption of religious elite figures who hawk financial miracles (\"hopeium\"). Age: 36.",
+    "socials": {
+      "instagram": "@comicpastor",
+      "youtube": "Comic Pastor"
+    },
+    "tactical": "Uses comedic digital sketches to dissect the harsh economic climate. Parodies the \"hopeium\" industrial complex, lampooning fake prophets who financialize faith.",
+    "gallerySlots": 3,
+    "color": "#FF7F50"
+  },
+  {
+    "id": "bustop-tv",
+    "name": "Bustop TV (Samantha Kureya/Gonyeti)",
+    "field": "Street-Level Sketch Satire",
+    "category": "film",
+    "traps": [
+      "anti-drug",
+      "anti-hopeium"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Fiercely independent digital sketch comedy outfit focusing heavily on gender dynamics, mental health, and structural inequality. Gives ghetto youth a realistic digital mirror rather than an algorithmic fantasy.",
+    "socials": {
+      "instagram": "@bustoptv",
+      "youtube": "Bustop TV"
+    },
+    "tactical": "Produces hyper-localized digital skits focusing on women's rights, mental health, and structural inequalities.",
+    "gallerySlots": 3,
+    "color": "#8A2BE2"
+  },
+  {
+    "id": "carl-joshua-ncube",
+    "name": "Carl Joshua Ncube",
+    "field": "Stand-Up Comedy & Digital Wellness Strategy",
+    "category": "film",
+    "traps": [
+      "anti-hopeium",
+      "attention"
+    ],
+    "region": "Bulawayo / International",
+    "bio": "Veteran stand-up comedian and content builder using humor to unpack personal and national trauma. Frequently addresses mental wellness, showing vulnerability can be addressed constructively without chemical numbing. Age: 44.",
+    "socials": {
+      "instagram": "@carljoshuancube",
+      "twitter": "@carljoshuancube"
+    },
+    "tactical": "Uses humor to unpack severe national and personal trauma, utilizing digital media to hold workshops on mental health instead of chasing shock-value metrics.",
+    "gallerySlots": 3,
+    "color": "#00A86B"
+  },
+  {
+    "id": "freeman-hkd",
+    "name": "Freeman HKD",
+    "field": "Afro-Fusion / Conscious Music",
+    "category": "music",
+    "traps": [
+      "anti-drug"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Leading voice in the \"Simba Riri Mauri\" mass collaboration. Uses high-production Afro-Fusion to deliver messages of inner strength and sobriety.",
+    "socials": {
+      "instagram": "@freemanhkd",
+      "youtube": "Freeman HKD"
+    },
+    "tactical": "Hijacks mainstream hit format to deliver messages of mental strength through cross-genre collaboration.",
+    "gallerySlots": 3,
+    "color": "#FFD700"
+  },
+  {
+    "id": "saintfloew",
+    "name": "Saintfloew",
+    "field": "Hip-Hop / Recovery Advocate",
+    "category": "music",
+    "traps": [
+      "anti-drug"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Open about his own real-world rehab journey. Features prominently on \"Simba Riri Mauri,\" sending a powerful message of vulnerability and sobriety to the youth.",
+    "socials": {
+      "instagram": "@saintfloew",
+      "youtube": "Saintfloew"
+    },
+    "tactical": "Uses personal recovery story to demystify addiction and inspire sobriety through mainstream hip-hop platforms.",
+    "gallerySlots": 2,
+    "color": "#FF0000"
+  },
+  {
+    "id": "ricky-fire",
+    "name": "Ricky Fire",
+    "field": "Zimdancehall Pioneer",
+    "category": "music",
+    "traps": [
+      "anti-drug"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Legendary Zimdancehall pioneer who broke away from standard genre trends to drop songs like \"Mutoriro.\" Explicitly tells youth that meth is a future-killer.",
+    "socials": {
+      "instagram": "@rickyfirezw",
+      "youtube": "Ricky Fire"
+    },
+    "tactical": "Uses aggressive street slang to detail physical and mental decay caused by crystal meth, explicitly warning ghetto youth.",
+    "gallerySlots": 2,
+    "color": "#FF3B00"
+  },
+  {
+    "id": "winky-d",
+    "name": "Winky D (The Gaffa)",
+    "field": "Conscious Social Commentary / Zimdancehall",
+    "category": "music",
+    "traps": [
+      "anti-hopeium",
+      "anti-drug"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "The pinnacle of conscious social commentary in Zimbabwe. Through albums like \"Eureka Eureka,\" exposes how political corruption, poverty, and unemployment trap the youth.",
+    "socials": {
+      "instagram": "@winkydonline",
+      "youtube": "Winky D Official"
+    },
+    "tactical": "Shifts blame away from personal failures onto macro realities. Breaks the passive \"hopeium\" loop and encourages critical civic thinking.",
+    "gallerySlots": 4,
+    "color": "#800000"
+  },
+  {
+    "id": "maizon-tazvitya",
+    "name": "Maizon Tazvitya & The Ancient Tribe",
+    "field": "Afro-Jazz / Community Intervention",
+    "category": "music",
+    "traps": [
+      "anti-drug",
+      "attention"
+    ],
+    "region": "Harare, Zimbabwe",
+    "bio": "Afro-fusion singer, live performer, and academic. Runs localized anti-drug awareness concerts across Harare and academic institutions, structuring gigs as multi-sector intervention hubs.",
+    "socials": {
+      "instagram": "@maizontazvitya",
+      "facebook": "Maizon Tazvitya"
+    },
+    "tactical": "Brings government health officials, rehabilitation practitioners, and affected ghetto youth together under one roof with live Afro-jazz energy.",
+    "gallerySlots": 3,
+    "color": "#50C878"
+  },
+  {
+    "id": "kireni-zulu",
+    "name": "Kireni Zulu & Legends",
+    "field": "Marabi / Cross-Generational Music",
+    "category": "music",
+    "traps": [
+      "anti-drug",
+      "attention"
+    ],
+    "region": "Zimbabwe",
+    "bio": "Coordinated over 25 legendary yesteryear musicians including Albert Nyathi, Mitchell Jambo, Somandla Ndebele, and Busi Ncube for \"Regai Zvinodhaka.\"",
+    "socials": {
+      "website": "kirenizulu.co.zw",
+      "facebook": "Kireni Zulu"
+    },
+    "tactical": "Uses traditional rich instrumentation to connect modern disconnected youth back to cultural roots and ancestral wisdom.",
+    "gallerySlots": 4,
+    "color": "#CD7F32"
+  }
+]

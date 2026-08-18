@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ast-1",
+    "name": "Substance Use Screening",
+    "type": "risk",
+    "questions": [
+      { "text": "How often do you use alcohol or other substances?", "options": ["Never", "Once or twice", "Monthly", "Weekly", "Daily"] },
+      { "text": "Do you ever use substances to cope with stress?", "options": ["Never", "Rarely", "Sometimes", "Often", "Always"] },
+      { "text": "Has anyone expressed concern about your substance use?", "options": ["No", "Yes, once", "Yes, multiple times"] },
+      { "text": "Do you feel you need substances to have fun?", "options": ["Definitely not", "Probably not", "Maybe", "Probably yes", "Definitely yes"] },
+      { "text": "Have you ever tried to cut down but couldn't?", "options": ["Never tried", "Tried and succeeded", "Tried but failed"] }
+    ],
+    "riskLevels": {
+      "low": { "range": [0, 5], "message": "Low risk. Keep building healthy habits.", "color": "green" },
+      "moderate": { "range": [6, 12], "message": "Moderate risk. Consider talking to someone you trust.", "color": "amber" },
+      "high": { "range": [13, 20], "message": "High risk. Please reach out to a professional.", "color": "red" }
+    }
+  },
+  {
+    "id": "ast-2",
+    "name": "Mental Health Check",
+    "type": "mental",
+    "questions": [
+      { "text": "Over the last 2 weeks, how often have you felt down or hopeless?", "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"] },
+      { "text": "Over the last 2 weeks, how often have you had trouble sleeping?", "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"] },
+      { "text": "Over the last 2 weeks, how often have you felt tired?", "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"] },
+      { "text": "Over the last 2 weeks, how often have you lost interest in activities?", "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"] },
+      { "text": "Over the last 2 weeks, how often have you felt anxious or worried?", "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"] }
+    ],
+    "riskLevels": {
+      "low": { "range": [0, 4], "message": "You seem to be doing well. Keep it up!", "color": "green" },
+      "moderate": { "range": [5, 10], "message": "Some signs of concern. Consider talking to someone.", "color": "amber" },
+      "high": { "range": [11, 16], "message": "You may need support. Please reach out.", "color": "red" }
+    }
+  },
+  {
+    "id": "ast-3",
+    "name": "Peer Pressure Assessment",
+    "type": "peer",
+    "questions": [
+      { "text": "How often do friends offer you substances?", "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"] },
+      { "text": "Do you feel comfortable saying no to friends?", "options": ["Very comfortable", "Somewhat comfortable", "Neutral", "Somewhat uncomfortable", "Very uncomfortable"] },
+      { "text": "Have you ever used substances just to fit in?", "options": ["Never", "Once or twice", "Sometimes", "Often", "Always"] },
+      { "text": "Do your friends use substances regularly?", "options": ["None do", "Some do", "Most do", "All do"] },
+      { "text": "Would you lose friends if you refused to use substances?", "options": ["Definitely not", "Probably not", "Maybe", "Probably yes", "Definitely yes"] }
+    ],
+    "riskLevels": {
+      "low": { "range": [0, 5], "message": "Strong social boundaries. Well done!", "color": "green" },
+      "moderate": { "range": [6, 12], "message": "Some peer pressure vulnerability. Building skills will help.", "color": "amber" },
+      "high": { "range": [13, 20], "message": "High peer pressure risk. Consider expanding your social circle.", "color": "red" }
+    }
+  },
+  {
+    "id": "ast-4",
+    "name": "Wellbeing Check",
+    "type": "wellbeing",
+    "questions": [
+      { "text": "How would you rate your overall wellbeing this week?", "options": ["Very poor", "Poor", "Okay", "Good", "Excellent"] },
+      { "text": "How well are you sleeping?", "options": ["Very poorly", "Poorly", "Average", "Well", "Very well"] },
+      { "text": "How connected do you feel to family and friends?", "options": ["Very disconnected", "Disconnected", "Neutral", "Connected", "Very connected"] },
+      { "text": "How confident do you feel about the future?", "options": ["Very unconfident", "Unconfident", "Neutral", "Confident", "Very confident"] },
+      { "text": "How well are you managing daily stress?", "options": ["Very poorly", "Poorly", "Average", "Well", "Very well"] }
+    ],
+    "riskLevels": {
+      "low": { "range": [15, 20], "message": "Excellent wellbeing! Keep nurturing yourself.", "color": "green" },
+      "moderate": { "range": [8, 14], "message": "Room for improvement. Small changes can help.", "color": "amber" },
+      "high": { "range": [0, 7], "message": "Your wellbeing needs attention. Please seek support.", "color": "red" }
+    }
+  }
+]

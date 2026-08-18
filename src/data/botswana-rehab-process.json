@@ -1,0 +1,630 @@
+{
+  "metadata": {
+    "jurisdiction": "Botswana",
+    "subject": "Rehabilitation Infrastructure, Process, and Civil Committal Framework",
+    "generated": "2026-08-17",
+    "version": "1.0",
+    "last_major_reform": {
+      "act": "Mental Health Act",
+      "year": 2023,
+      "act_number": "Act No. 20 of 2023",
+      "repealed": "Mental Disorders Act (Cap. 63:02)"
+    }
+  },
+  "care_hierarchy": {
+    "overview": "Botswana operates a three-tier referral pyramid blending public tertiary facilities, community-based networks, and licensed private clinics.",
+    "tiers": [
+      {
+        "tier": 1,
+        "level": "Primary & Community Level",
+        "description": "Entry point for screening, basic counseling, and harm reduction",
+        "facilities": [
+          {
+            "name": "Local Health Posts & Clinics",
+            "type": "Public",
+            "function": "Initial assessment, brief intervention, referral coordination"
+          },
+          {
+            "name": "NGO Support Groups & Community Networks",
+            "type": "Non-Governmental",
+            "function": "Peer support, outreach, aftercare coordination"
+          },
+          {
+            "name": "Botswana Network for Mental Health (BONMEH)",
+            "type": "NGO",
+            "function": "Community-level support, relapse prevention networks"
+          },
+          {
+            "name": "Botswana Association for Psychosocial Rehabilitation (BAPR)",
+            "type": "NGO",
+            "function": "Day-care programs, family integration support, outpatient counseling"
+          }
+        ]
+      },
+      {
+        "tier": 2,
+        "level": "Secondary Tier (District Hospitals)",
+        "description": "Specialized treatment services with medical capacity",
+        "facilities": [
+          {
+            "name": "Sekgoma Memorial Hospital Rehabilitation Centre",
+            "location": "Serowe",
+            "type": "Public-Government",
+            "funding": "State-funded",
+            "bed_capacity": "Not specified",
+            "specialties": [
+              "Inpatient detoxification",
+              "Psychological therapy",
+              "Outpatient follow-ups",
+              "Medical stabilization"
+            ],
+            "services": [
+              "Acute withdrawal management",
+              "Psychosocial rehabilitation",
+              "Aftercare and reintegration"
+            ]
+          },
+          {
+            "name": "District Hospitals (General Services)",
+            "type": "Public",
+            "function": "Initial stabilization, medical detoxification, psychiatric assessments"
+          }
+        ]
+      },
+      {
+        "tier": 3,
+        "level": "Tertiary Referral Tier (Specialized Psychiatric Centers)",
+        "description": "Major psychiatric hospitals handling complex and forensic cases",
+        "facilities": [
+          {
+            "name": "Sbrana Psychiatric Hospital",
+            "location": "Lobatse",
+            "type": "Public Tertiary Referral Center",
+            "bed_capacity": "~300 beds",
+            "units": [
+              {
+                "name": "Acute Psychiatric Unit",
+                "function": "Emergency stabilization, acute psychosis management"
+              },
+              {
+                "name": "Forensic Unit",
+                "function": "Court-ordered assessments, criminal justice referrals"
+              },
+              {
+                "name": "Psychiatric Rehabilitation Unit",
+                "function": "Long-term recovery, dual-diagnosis treatment"
+              }
+            ],
+            "services": [
+              "Severe substance-induced psychosis management",
+              "Comorbid mental health and addiction treatment",
+              "Forensic psychiatric assessment",
+              "Long-term recovery programs"
+            ]
+          },
+          {
+            "name": "Princess Marina Hospital",
+            "location": "Gaborone",
+            "type": "Major Referral Hospital",
+            "unit": "Specialized Psychiatric Ward",
+            "function": "Emergency psychiatric stabilization, acute detoxification"
+          },
+          {
+            "name": "Nyangabgwe Referral Hospital",
+            "location": "Francistown",
+            "type": "Major Referral Hospital",
+            "unit": "Specialized Psychiatric Ward",
+            "function": "Emergency psychiatric stabilization, regional referrals"
+          }
+        ]
+      }
+    ]
+  },
+  "facility_types": [
+    {
+      "type": "Public Sector",
+      "description": "Government-funded, free or subsidized services",
+      "characteristics": [
+        "State-run psychiatric hospitals",
+        "Public hospital psychiatric wards",
+        "Free or minimal-cost detoxification",
+        "Regulated by Ministry of Health",
+        "Serves broader population"
+      ],
+      "examples": [
+        "Sbrana Psychiatric Hospital",
+        "Sekgoma Memorial Hospital Rehabilitation Centre",
+        "Princess Marina Hospital psychiatric ward",
+        "Nyangabgwe Referral Hospital psychiatric ward"
+      ]
+    },
+    {
+      "type": "Private & Non-Profit (Fee-Based)",
+      "description": "Licensed private wellness centers and community clinics offering fee-for-service care",
+      "characteristics": [
+        "Private inpatient programs",
+        "Short-to-medium-term stays (30–90 days typical)",
+        "Medical detoxification + psychotherapy (CBT)",
+        "Aftercare services",
+        "Operating under Ministry of Health licensing",
+        "Subject to Mental Health Board inspection standards"
+      ],
+      "examples": [
+        "Bosabelo Community Rehabilitation Centre",
+        "Private wellness clinics",
+        "Community-based rehabilitation centers"
+      ]
+    }
+  ],
+  "treatment_continuum": [
+    {
+      "phase": 1,
+      "name": "Medical Assessment & Detoxification",
+      "duration": "Days to weeks depending on substance and severity",
+      "objectives": [
+        "Initial medical and psychiatric assessment",
+        "Managing acute physical withdrawal symptoms",
+        "Stabilizing substance-induced psychosis",
+        "Clinical determination of comorbidity"
+      ],
+      "interventions": [
+        "Vital sign monitoring",
+        "Medical management of withdrawal",
+        "Pharmacological support (anti-anxiety, anti-seizure medications as indicated)",
+        "Psychiatric evaluation",
+        "Substance screening and drug urine testing"
+      ],
+      "settings": [
+        "Hospital inpatient ward",
+        "Dedicated detoxification center",
+        "Emergency psychiatric unit"
+      ]
+    },
+    {
+      "phase": 2,
+      "name": "Psychosocial Rehabilitation",
+      "duration": "Weeks to months",
+      "objectives": [
+        "Address psychological dependence",
+        "Restore social and occupational functioning",
+        "Build coping and relapse-prevention skills",
+        "Facilitate family reintegration"
+      ],
+      "interventions": [
+        "Individual counseling",
+        "Cognitive Behavioral Therapy (CBT)",
+        "Group therapy sessions",
+        "Family counseling and education",
+        "Life skills training",
+        "Vocational assessment and planning"
+      ],
+      "settings": [
+        "Inpatient rehabilitation programs",
+        "Day-care programs",
+        "Intensive outpatient programs (IOP)"
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Outpatient Aftercare & Community Integration",
+      "duration": "Months to years (ongoing)",
+      "objectives": [
+        "Maintain abstinence and prevent relapse",
+        "Support community and family reintegration",
+        "Coordinate long-term mental health care",
+        "Connect with peer and social support networks"
+      ],
+      "interventions": [
+        "Regular outpatient clinic check-ins",
+        "Ongoing individual or group therapy",
+        "Medication management for comorbid conditions",
+        "Harm reduction support",
+        "Peer support groups (e.g., mutual aid networks)",
+        "Community-based NGO referrals"
+      ],
+      "settings": [
+        "Community health clinics",
+        "NGO day-care programs",
+        "Peer support groups",
+        "Primary care facilities"
+      ]
+    }
+  ],
+  "statutory_governance": {
+    "primary_legislation": {
+      "act": "Mental Health Act",
+      "year": 2023,
+      "citation": "Act No. 20 of 2023",
+      "status": "Current",
+      "repealed_act": "Mental Disorders Act (Cap. 63:02)",
+      "key_principles": [
+        "Modernized patient rights framework",
+        "Independent oversight and appeals mechanisms",
+        "Least restrictive alternative principle",
+        "Protection against arbitrary detention"
+      ]
+    },
+    "supporting_legislation": [
+      {
+        "act": "Criminal Procedure and Evidence Act",
+        "citation": "Cap. 08:02",
+        "scope": "Governs forensic psychiatric committal, fitness to stand trial assessments"
+      },
+      {
+        "act": "Mental Health Act",
+        "citation": "Chapter 15:12",
+        "scope": "Civil committal procedures, involuntary admission, patient rights"
+      }
+    ],
+    "oversight_bodies": [
+      {
+        "name": "Mental Health Board",
+        "established_by": "Mental Health Act (2023)",
+        "function": [
+          "Regulate and accredit mental health facilities (public and private)",
+          "Set national standards for seclusion, restraint use, and patient care",
+          "Conduct mandatory inspections of all mental health facilities",
+          "Monitor compliance with Good Practices in psychiatric care",
+          "Approve and monitor clinical trial protocols in mental health"
+        ],
+        "powers": [
+          "Facility licensing and accreditation",
+          "Standards-setting",
+          "Inspection and enforcement",
+          "Complaint investigation"
+        ]
+      },
+      {
+        "name": "Mental Health Tribunal",
+        "established_by": "Mental Health Act (2023)",
+        "function": [
+          "Independent administrative appeals body for involuntary committal reviews",
+          "Hear patient and representative grievances and discharge appeals",
+          "Prevent unlawful or arbitrary detention",
+          "Review reception orders and detention legality",
+          "Assess compliance with least restrictive alternative principles"
+        ],
+        "who_can_appeal": [
+          "The detained individual",
+          "Relatives or family members",
+          "Nominated representative or legal guardian",
+          "Caregiver"
+        ],
+        "jurisdiction": "All involuntary reception orders must be submitted for mandatory legal review"
+      },
+      {
+        "name": "Ministry of Health",
+        "function": [
+          "Overall regulation and policy direction",
+          "Licensing of facilities",
+          "Oversight of public sector facilities",
+          "Coordination with referral networks"
+        ]
+      }
+    ]
+  },
+  "admission_pathways": [
+    {
+      "pathway": "Voluntary Admission",
+      "legal_basis": "Mental Health Act (2023)",
+      "criteria": [
+        "Individual has legal capacity to make healthcare decisions",
+        "Individual recognizes their need for mental health or addiction treatment",
+        "Individual applies directly to a recognized mental health or rehabilitation facility"
+      ],
+      "process": [
+        "Individual presents to facility or primary care provider",
+        "Brief clinical assessment performed",
+        "Voluntary admission consent documentation completed",
+        "Facility intake and orientation"
+      ],
+      "discharge": [
+        "Individual can request discharge at any time",
+        "Subject to brief medical evaluation to ensure they do not present immediate danger to self or others",
+        "If clinically stable, discharge is typically granted within 24–48 hours"
+      ],
+      "rights": [
+        "Full autonomy over treatment decisions",
+        "Right to refuse specific treatments (except in emergency)",
+        "Right to leave facility at any time (subject to safety evaluation)"
+      ]
+    },
+    {
+      "pathway": "Emergency Urgency Order (Emergency Involuntary Committal)",
+      "legal_basis": "Mental Health Act (2023)",
+      "criteria": [
+        "Individual suffers from severe mental illness or substance-induced state",
+        "Individual presents imminent risk of harm to themselves or others",
+        "Individual lacks insight or refuses voluntary care",
+        "No time for extended court/administrative procedures"
+      ],
+      "who_can_initiate": [
+        {
+          "role": "Relative or family member",
+          "requirements": "Direct knowledge of individual's condition"
+        },
+        {
+          "role": "Caregiver or support person",
+          "requirements": "Direct knowledge and responsibility for individual"
+        },
+        {
+          "role": "Nominated representative",
+          "requirements": "Legal designation as representative or attorney"
+        },
+        {
+          "role": "Police officer",
+          "requirements": "Rank of Sergeant or higher; witnessed dangerous behavior or credible report"
+        }
+      ],
+      "process": [
+        "Initiator contacts mental health facility, police, or emergency services",
+        "Registered medical practitioner or mental health professional examines individual",
+        "Medical certificate issued confirming need for emergency institutionalization",
+        "Individual transported to designated psychiatric facility",
+        "Emergency admission order issued (no court approval initially required)"
+      ],
+      "duration": {
+        "initial": "Up to 72 hours to 14 days under initial temporary order",
+        "extension": "District Commissioner can extend or revoke based on formal medical re-evaluation"
+      },
+      "review_mechanism": "Must be converted to Reception Order or discharged within the short-term window"
+    },
+    {
+      "pathway": "Civil Reception Order (Long-Term Involuntary Committal)",
+      "legal_basis": "Mental Health Act (2023)",
+      "criteria": [
+        "Individual suffers from severe mental illness or substance-induced incapacity",
+        "Individual lacks insight or refuses voluntary treatment",
+        "Individual poses continuing risk to self or others",
+        "Treatment cannot be safely delivered in less restrictive setting"
+      ],
+      "who_can_initiate": [
+        {
+          "role": "Close relative",
+          "requirement": "Knowledge of individual within preceding 48 hours to 14 days"
+        },
+        {
+          "role": "Caregiver or support person",
+          "requirement": "Ongoing responsibility for individual's welfare"
+        },
+        {
+          "role": "Nominated representative",
+          "requirement": "Legal designation; may include attorney or healthcare proxy"
+        }
+      ],
+      "process": [
+        "Initiator submits formal written application to District Commissioner (DC) or designated magistrate",
+        "Supporting clinical report from a registered medical officer attached (must confirm mental illness or substance incapacity)",
+        "DC or judicial officer reviews application and medical report",
+        "If satisfied, official issues Reception Order",
+        "Reception Order grants legal authority to detain and treat individual at designated facility",
+        "Law enforcement assistance utilized if necessary to transport non-compliant patients"
+      ],
+      "duration": {
+        "initial": "Up to 30 days",
+        "renewal": "Renewable only upon formal medical re-evaluation and new supporting clinical evidence"
+      },
+      "mandatory_review": "All involuntary Reception Orders must be submitted to Mental Health Tribunal for mandatory legal review (automatic, not requiring appeal)",
+      "rights_safeguards": [
+        "Individual retains right to appeal to Mental Health Tribunal",
+        "Tribunal reviews legality of detention and compliance with least restrictive alternative principle",
+        "Tribunal can order discharge if detention deemed unlawful or unjustified"
+      ]
+    },
+    {
+      "pathway": "Forensic Committal (Criminal Justice System)",
+      "legal_basis": "Criminal Procedure and Evidence Act (Cap. 08:02)",
+      "criteria": [
+        "Individual is accused of a criminal offense",
+        "Psychiatric or medical evaluation determines individual is unfit to stand trial",
+        "Unfitness is due to severe mental illness, drug-induced psychosis, or severe intellectual disability"
+      ],
+      "process": [
+        "Court (High Court or Magistrates Court) orders psychiatric evaluation",
+        "Registered forensic psychiatrist or medical officer conducts fitness assessment",
+        "If found unfit, court issues judicial committal order",
+        "Individual transferred to designated psychiatric facility (typically Sbrana Hospital)"
+      ],
+      "duration": "Until fitness is restored OR as ordered by court (potentially indefinite until rehabilitation)",
+      "location": "Sbrana Psychiatric Hospital or other designated forensic psychiatric unit",
+      "treatment_objective": "Medical and psychiatric care aimed at restoring fitness to stand trial or managing long-term incapacity"
+    }
+  ],
+  "patient_protections_and_rights": {
+    "principle": "Least Restrictive Alternative",
+    "definition": "Care must be delivered in the setting that imposes the minimum possible restriction on individual's liberty while meeting clinical treatment needs.",
+    "statutory_basis": "Mental Health Act (2023)",
+    "specific_rights": [
+      {
+        "right": "Right to Nominated Representative",
+        "description": "Any individual can legally appoint a representative or healthcare proxy to make decisions or advocate on their behalf if they lose mental capacity."
+      },
+      {
+        "right": "Advance Directives",
+        "description": "Individuals can write binding advance directives specifying treatment preferences, refusals, and care instructions before losing mental capacity."
+      },
+      {
+        "right": "Mental Health Tribunal Appeal",
+        "description": "Involuntarily detained individuals (and their representatives) have automatic and mandatory access to independent Mental Health Tribunal review of detention legality."
+      },
+      {
+        "right": "Right to Discharge Request",
+        "description": "Voluntarily admitted individuals can request discharge at any time; involuntary patients can petition for discharge through formal processes."
+      },
+      {
+        "right": "Protection Against Arbitrary Detention",
+        "description": "Mental Health Tribunal reviews all civil reception orders; no indefinite detention without ongoing medical justification and periodic re-evaluation."
+      },
+      {
+        "right": "Confidentiality and Dignity",
+        "description": "Patient information protected under medical confidentiality; care administered with respect for dignity and human rights."
+      }
+    ]
+  },
+  "civil_committal_comparison_table": {
+    "table_description": "Quick reference for involuntary admission mechanisms",
+    "rows": [
+      {
+        "mechanism": "Emergency Urgency Order",
+        "initiator": "Relative, caregiver, nominated representative, police (Sergeant+)",
+        "key_requirements": "Imminent danger to self or others; examination by medical practitioner",
+        "approver": "Medical practitioner (initial); District Commissioner (if extended)",
+        "duration": "72 hours to 14 days initially",
+        "tribunal_review": "Required if extended",
+        "renewal": "Convert to Reception Order or discharge"
+      },
+      {
+        "mechanism": "Civil Reception Order",
+        "initiator": "Relative, caregiver, nominated representative",
+        "key_requirements": "Application to DC/magistrate; clinical report confirming mental illness or incapacity",
+        "approver": "District Commissioner or designated judicial officer",
+        "duration": "Up to 30 days; renewable on re-evaluation",
+        "tribunal_review": "Mandatory for all reception orders",
+        "renewal": "Requires new medical assessment and clinical report"
+      },
+      {
+        "mechanism": "Forensic Committal",
+        "initiator": "Court (High Court or Magistrates)",
+        "key_requirements": "Criminal accusation; psychiatric evaluation; unfitness to stand trial",
+        "approver": "Judicial order from court",
+        "duration": "Until fitness restored or as ordered by court",
+        "tribunal_review": "Subject to ongoing medical and judicial oversight",
+        "renewal": "Fitness re-assessments as mandated by court"
+      }
+    ]
+  },
+  "facility_standards_and_compliance": {
+    "regulatory_framework": "Mental Health Board Standards (2023+)",
+    "compliance_requirements": [
+      {
+        "domain": "Facility Licensing",
+        "standards": [
+          "All public and private mental health facilities must be licensed by Ministry of Health",
+          "License renewal based on compliance inspections",
+          "Facilities must maintain staff qualifications and training"
+        ]
+      },
+      {
+        "domain": "Patient Seclusion & Restraint",
+        "standards": [
+          "Seclusion and restraint use limited to emergency situations",
+          "Mental Health Board sets standards for permissible duration and conditions",
+          "Documentation and reporting requirements for all seclusion/restraint episodes",
+          "Regular review to ensure appropriateness"
+        ]
+      },
+      {
+        "domain": "Clinical Care Standards",
+        "standards": [
+          "Good Manufacturing and Distribution Practices (GMP/GDP) for medications",
+          "Evidence-based treatment protocols (e.g., CBT, motivational interviewing)",
+          "Integrated medical and psychiatric care for comorbidities",
+          "Regular clinical review and assessment"
+        ]
+      },
+      {
+        "domain": "Mandatory Inspections",
+        "standards": [
+          "Mental Health Board conducts unannounced inspections",
+          "Public facilities inspected at least annually",
+          "Private facilities inspected based on license conditions",
+          "Compliance reports published and communicated to stakeholders"
+        ]
+      },
+      {
+        "domain": "Patient Safety & Rights Documentation",
+        "standards": [
+          "Patient rights posted visibly in all facilities",
+          "Grievance and complaint procedures available and publicized",
+          "Record-keeping and confidentiality protocols",
+          "Access to legal representation and advocacy"
+        ]
+      }
+    ]
+  },
+  "referral_coordination": {
+    "overview": "Botswana rehabilitation relies on structured referral pathways between primary care, secondary district services, and tertiary specialists.",
+    "referral_triggers": [
+      {
+        "scenario": "Acute substance withdrawal or overdose",
+        "pathway": "Primary clinic/emergency → Princess Marina Hospital (Gaborone) or Nyangabgwe (Francistown) → Sbrana if complicated by psychosis"
+      },
+      {
+        "scenario": "Substance-induced psychosis requiring stabilization",
+        "pathway": "District hospital → Sbrana Psychiatric Hospital (acute/forensic unit)"
+      },
+      {
+        "scenario": "Chronic addiction requiring structured rehabilitation",
+        "pathway": "Primary clinic → Sekgoma Rehabilitation Centre (Serowe) or licensed private facility"
+      },
+      {
+        "scenario": "Forensic psychiatric assessment (criminal case)",
+        "pathway": "Court order → Sbrana Hospital (forensic unit)"
+      },
+      {
+        "scenario": "Long-term aftercare and relapse prevention",
+        "pathway": "Sbrana/Sekgoma discharge → BAPR day-care or community NGO → Primary care clinic"
+      }
+    ]
+  },
+  "key_contact_information": {
+    "note": "Contact details should be maintained in separate app database; these are organizational entities as of 2026",
+    "facilities": [
+      {
+        "name": "Sbrana Psychiatric Hospital",
+        "location": "Lobatse",
+        "type": "Tertiary Referral",
+        "contact_type": "Public sector (Ministry of Health)"
+      },
+      {
+        "name": "Sekgoma Memorial Hospital Rehabilitation Centre",
+        "location": "Serowe",
+        "type": "Government-Funded Rehabilitation",
+        "contact_type": "Public sector (Ministry of Health)"
+      },
+      {
+        "name": "Princess Marina Hospital",
+        "location": "Gaborone",
+        "type": "Emergency & Stabilization",
+        "contact_type": "Public sector (Ministry of Health)"
+      },
+      {
+        "name": "Nyangabgwe Referral Hospital",
+        "location": "Francistown",
+        "type": "Emergency & Stabilization",
+        "contact_type": "Public sector (Ministry of Health)"
+      },
+      {
+        "name": "Bosabelo Community Rehabilitation Centre",
+        "type": "Private/Community-Based",
+        "contact_type": "Private sector (fee-based)"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Botswana Network for Mental Health (BONMEH)",
+        "type": "NGO",
+        "function": "Community support networks, peer advocacy"
+      },
+      {
+        "name": "Botswana Association for Psychosocial Rehabilitation (BAPR)",
+        "type": "NGO",
+        "function": "Day-care programs, family support, outpatient counseling"
+      }
+    ],
+    "regulatory": [
+      {
+        "name": "Mental Health Board",
+        "function": "Facility accreditation, standards, inspections"
+      },
+      {
+        "name": "Mental Health Tribunal",
+        "function": "Appeals, detention review, patient rights protection"
+      },
+      {
+        "name": "Ministry of Health",
+        "function": "Overall policy, licensing, public sector coordination"
+      }
+    ]
+  }
+}

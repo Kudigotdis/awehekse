@@ -1,0 +1,10 @@
+[
+  { "id": "shona", "name": "Shona", "speakers": "~11 million", "region": "Zimbabwe, Mozambique" },
+  { "id": "ndebele", "name": "Ndebele", "speakers": "~2 million", "region": "Zimbabwe" },
+  { "id": "english", "name": "English", "speakers": "Official language", "region": "Zimbabwe" },
+  { "id": "chewa", "name": "Chewa/Chichewa", "speakers": "~1.5 million", "region": "Zimbabwe, Malawi" },
+  { "id": "tonga", "name": "Tonga", "speakers": "~200,000", "region": "Zimbabwe" },
+  { "id": "shangaan", "name": "Shangaan/Tsonga", "speakers": "~300,000", "region": "Zimbabwe, South Africa" },
+  { "id": "venda", "name": "Venda", "speakers": "~100,000", "region": "Zimbabwe, South Africa" },
+  { "id": "sotho", "name": "Sotho", "speakers": "~50,000", "region": "Zimbabwe, Lesotho" }
+]

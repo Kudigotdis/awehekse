@@ -1,0 +1,2522 @@
+[
+  {
+    "rehab_id": "rhb_highlands_halfway_home",
+    "name": "Highlands Halfway Home",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#1F618D",
+    "initials": "HH",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "",
+      "city": ""
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+2638644210999"
+      ],
+      "whatsapp": "+2638644210999",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_mandipa_hope_rehabilitation",
+    "name": "Mandipa Hope Rehabilitation",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#C0392B",
+    "initials": "MH",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "",
+      "city": ""
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263776991153",
+        "+263776991155"
+      ],
+      "whatsapp": "+263776991153",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_gateway_mental_health_rehabilitation",
+    "name": "Gateway Mental Health Rehabilitation",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#1E8449",
+    "initials": "GM",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "",
+      "city": ""
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263788080001"
+      ],
+      "whatsapp": "+263788080001",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_tov_nation_center_for_addiction_and_recovery_support",
+    "name": "Aweh Ekse! – Center for Addiction and Recovery Support",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#A6D608",
+    "initials": "TN",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "",
+      "city": ""
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263779372907",
+        "+263780018724"
+      ],
+      "whatsapp": "+263779372907",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_ruwa_rehabilitation_centre",
+    "name": "Ruwa Rehabilitation Centre",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#7D3C98",
+    "initials": "RR",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Ruwa",
+      "city": "Ruwa"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263273790238"
+      ],
+      "whatsapp": "+263273790238",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_serenity_mind_centre",
+    "name": "Serenity Mind Centre",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#89CFF0",
+    "initials": "SM",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "",
+      "city": ""
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263716825245"
+      ],
+      "whatsapp": "+263716825245",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_tirivanhu_rehabilitation",
+    "name": "Tirivanhu Rehabilitation",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#D2001F",
+    "initials": "TR",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "",
+      "city": ""
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263773593014"
+      ],
+      "whatsapp": "+263773593014",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_healthy_lifestyle_institute",
+    "name": "Healthy Lifestyle Institute",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#E67E22",
+    "initials": "HL",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Kwekwe",
+      "city": "Kwekwe"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263718243754"
+      ],
+      "whatsapp": "+263718243754",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_mubatirapamwe_trust",
+    "name": "Mubatirapamwe Trust",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#40E0D0",
+    "initials": "MT",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Mount Pleasant Heights, Harare",
+      "city": "Harare"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263772379751",
+        "+263775436685"
+      ],
+      "whatsapp": "+263772379751",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "Christine / Coach Divine",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_care_addictions_rehab",
+    "name": "Care Addictions Rehab",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#7F8C8D",
+    "initials": "CA",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Bulawayo",
+      "city": "Bulawayo"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263775424284"
+      ],
+      "whatsapp": "+263775424284",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_for_youths_by_youths",
+    "name": "For Youths By Youths",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#1F618D",
+    "initials": "FY",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Harare & Mashonaland West",
+      "city": "Harare & Mashonaland West"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263775462468",
+        "+263773238941"
+      ],
+      "whatsapp": "+263775462468",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_healing_rain_rehab",
+    "name": "Healing Rain Rehab",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#C0392B",
+    "initials": "HR",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Vumba",
+      "city": "Vumba"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263779308145"
+      ],
+      "whatsapp": "+263779308145",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_beatrice_rehabilitation_centre",
+    "name": "Beatrice Rehabilitation Centre",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#1E8449",
+    "initials": "BR",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Harare",
+      "city": "Harare"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_tariro_rehabilitation_centre",
+    "name": "Tariro Rehabilitation Centre",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#A6D608",
+    "initials": "TR",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Harare",
+      "city": "Harare"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_active_youth_zimbabwe",
+    "name": "Active Youth Zimbabwe",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#7D3C98",
+    "initials": "AY",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "25693 Pumula South, Bulawayo",
+      "city": "Bulawayo"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263779728662",
+        "+263786047733"
+      ],
+      "whatsapp": "+263779728662",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_youth_with_a_mission_ywam",
+    "name": "Youth With A Mission (YWAM)",
+    "tagline": "Rehabilitation & Recovery Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#89CFF0",
+    "initials": "YW",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Rusape",
+      "city": "Rusape"
+    },
+    "affiliation": {
+      "body": "",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [
+        "+263774702407"
+      ],
+      "whatsapp": "+263774702407",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_sally_mugabe_psychiatric_unit",
+    "name": "Sally Mugabe Psychiatric Unit",
+    "tagline": "Government Psychiatric & Mental Health Facility",
+    "facility_type": "Government Psychiatric Ward",
+    "accent_color": "#D2001F",
+    "initials": "SM",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Harare",
+      "city": "Harare"
+    },
+    "affiliation": {
+      "body": "Ministry of Health and Child Care (MOHCC)",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_parirenyatwa_annex_psychiatric_unit",
+    "name": "Parirenyatwa Annex Psychiatric Unit",
+    "tagline": "Government Psychiatric & Mental Health Facility",
+    "facility_type": "Government Psychiatric Ward",
+    "accent_color": "#E67E22",
+    "initials": "PA",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Harare",
+      "city": "Harare"
+    },
+    "affiliation": {
+      "body": "Ministry of Health and Child Care (MOHCC)",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_ingutsheni_psychiatric_hospital",
+    "name": "Ingutsheni Psychiatric Hospital",
+    "tagline": "Government Psychiatric & Mental Health Facility",
+    "facility_type": "Government Psychiatric Ward",
+    "accent_color": "#40E0D0",
+    "initials": "IP",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Bulawayo",
+      "city": "Bulawayo"
+    },
+    "affiliation": {
+      "body": "Ministry of Health and Child Care (MOHCC)",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+    "rehab_id": "rhb_ngomahuru_hospital_and_halfway_house",
+    "name": "Ngomahuru Hospital and Halfway House",
+    "tagline": "Government Psychiatric & Mental Health Facility",
+    "facility_type": "Government Psychiatric Ward",
+    "accent_color": "#7F8C8D",
+    "initials": "NH",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Masvingo",
+      "city": "Masvingo"
+    },
+    "affiliation": {
+      "body": "Ministry of Health and Child Care (MOHCC)",
+      "license_number": "",
+      "accreditation_type": ""
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [],
+    "programmes_offered": [],
+    "tags": {
+      "substances": [],
+      "conditioning": [],
+      "mental_health": []
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "USD",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Urine Drug Screening (UDS)",
+        "frequency": "2–3x / week (random)",
+        "purpose": "Detects illicit substances; ensures compliance"
+      },
+      {
+        "practice": "Vitals & Physical Checks",
+        "frequency": "Every 2–4 hrs (detox) / daily (rehab)",
+        "purpose": "Monitors BP, heart rate, withdrawal symptoms"
+      },
+      {
+        "practice": "Individual Therapy (CBT/DBT)",
+        "frequency": "1–3x / week",
+        "purpose": "One-on-one psychological processing"
+      },
+      {
+        "practice": "Group Therapy Sessions",
+        "frequency": "1–2x daily",
+        "purpose": "Peer-led relapse prevention & coping"
+      },
+      {
+        "practice": "Psychiatric Evaluations",
+        "frequency": "Weekly / bi-weekly",
+        "purpose": "Reviews medication, manages dual diagnosis"
+      },
+      {
+        "practice": "12-Step / Support Meetings",
+        "frequency": "3–5x / week",
+        "purpose": "Long-term community building"
+      },
+      {
+        "practice": "Family Therapy / Counseling",
+        "frequency": "Every 1–2 weeks",
+        "purpose": "Repairs family support systems"
+      },
+      {
+        "practice": "Random Room & Belongings Search",
+        "frequency": "Unscheduled",
+        "purpose": "Eliminates contraband or smuggled substances"
+      }
+    ],
+    "country": "ZW"
+  },
+  {
+  "rehab_id": "rhb_sbrana_psychiatric_hospital",
+  "name": "Sbrana Psychiatric Hospital",
+  "tagline": "National Tertiary Referral Psychiatric Centre",
+  "facility_type": "Psychiatric Hospital",
+  "accent_color": "#6C3483",
+  "initials": "SP",
+  "logo_url": null,
+  "premises_photo": null,
+  "gallery": [],
+  "location": {
+    "text": "Plot 8199, Boswela Tlou, Lobatse, Botswana",
+    "city": "Lobatse"
+  },
+    "affiliation": {
+      "body": "Ministry of Health, Botswana",
+      "license_number": "MoH-BW-001",
+      "accreditation_type": "Government Tertiary Referral"
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": 300,
+      "room_types": ["Acute Psychiatric Unit", "Forensic Unit", "Rehabilitation Unit"]
+    },
+    "facilities": [
+      "24/7 Emergency Psychiatric Unit",
+      "Forensic Assessment Unit",
+      "Long-term Recovery Ward",
+      "Dual Diagnosis Treatment",
+      "Pharmacy"
+    ],
+    "programmes_offered": [
+      "Acute Psychiatric Stabilization",
+      "Forensic Psychiatric Assessment",
+      "Severe Substance-Induced Psychosis Management",
+      "Comorbid Mental Health and Addiction Treatment",
+      "Long-term Recovery Programs"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cocaine", "Cannabis", "Alcohol", "Heroin", "Prescription Drugs"],
+      "conditioning": [],
+      "mental_health": ["Schizophrenia", "Bipolar Disorder", "Severe Depression", "Forensic Psychiatric Cases"]
+    },
+    "staff": [],
+  "contact": {
+    "phone": ["+267 530 5500"],
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "app_link": "",
+    "contact_person": "",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "tiktok": ""
+    }
+  },
+  "cost_structure": {
+    "currency": "BWP",
+    "intake_deposit": 0,
+    "daily_rate": 0,
+    "full_28day_program": 0,
+    "breakdown": []
+  },
+  "protocols": [
+    {
+      "practice": "Emergency Stabilization",
+      "frequency": "24/7",
+      "purpose": "Acute psychosis management and emergency psychiatric care"
+    },
+    {
+      "practice": "Forensic Psychiatric Assessment",
+      "frequency": "As required by court",
+      "purpose": "Court-ordered assessments and criminal justice referrals"
+    }
+  ],
+  "country": "BW"
+},
+  {
+    "rehab_id": "rhb_sekgoma_memorial_hospital",
+    "name": "Sekgoma Memorial Hospital Rehabilitation Centre",
+    "tagline": "Government-Funded Rehabilitation Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#1A5276",
+    "initials": "SM",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Serowe, Botswana",
+      "city": "Serowe"
+    },
+    "affiliation": {
+      "body": "Ministry of Health, Botswana",
+      "license_number": "MoH-BW-002",
+      "accreditation_type": "Government Secondary Facility"
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": ["Inpatient Ward"]
+    },
+    "facilities": [
+      "Medical Detoxification Unit",
+      "Counseling Rooms",
+      "Group Therapy Hall",
+      "Outpatient Clinic"
+    ],
+    "programmes_offered": [
+      "Inpatient Detoxification",
+      "Psychological Therapy",
+      "Outpatient Follow-ups",
+      "Medical Stabilization",
+      "Psychosocial Rehabilitation",
+      "Aftercare and Reintegration"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cannabis", "Alcohol", "Prescription Drugs"],
+      "conditioning": [],
+      "mental_health": ["Substance-Induced Psychosis", "Dual Diagnosis"]
+    },
+    "staff": [],
+    "contact": {
+      "phone": ["+267 463 0000"],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "BWP",
+      "intake_deposit": 0,
+      "daily_rate": 0,
+      "full_28day_program": 0,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Medical Detoxification",
+        "frequency": "As needed",
+        "purpose": "Safe withdrawal management with medical supervision"
+      },
+      {
+        "practice": "Psychosocial Rehabilitation",
+        "frequency": "Daily",
+        "purpose": "Restore social and occupational functioning"
+      }
+    ],
+    "country": "BW"
+  },
+  {
+  "rehab_id": "rhb_princess_marina_hospital",
+  "name": "Princess Marina Hospital",
+  "tagline": "Major Referral Hospital - Psychiatric Unit",
+  "facility_type": "Hospital",
+  "accent_color": "#2E86C1",
+  "initials": "PM",
+  "logo_url": null,
+  "premises_photo": null,
+  "gallery": [],
+  "location": {
+    "text": "P.O. Box 258, Hospital Way, Gaborone, Botswana",
+    "city": "Gaborone"
+  },
+    "affiliation": {
+      "body": "Ministry of Health, Botswana",
+      "license_number": "MoH-BW-003",
+      "accreditation_type": "Government Major Referral"
+    },
+    "accommodation": {
+      "offers_lodging": false,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [
+      "Emergency Psychiatric Unit",
+      "Detoxification Ward",
+      "Assessment Clinics"
+    ],
+    "programmes_offered": [
+      "Emergency Psychiatric Stabilization",
+      "Acute Detoxification",
+      "Psychiatric Assessments",
+      "Referral Coordination"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cocaine", "Cannabis", "Alcohol", "Heroin"],
+      "conditioning": [],
+      "mental_health": ["Acute Psychosis", "Emergency Psychiatric Care"]
+    },
+    "staff": [],
+    "contact": {
+    "phone": ["+267 362 1400", "+267 362 2780"],
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "app_link": "",
+    "contact_person": "",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "tiktok": ""
+    }
+  },
+  "cost_structure": {
+    "currency": "BWP",
+    "intake_deposit": 0,
+    "daily_rate": 0,
+    "full_28day_program": 0,
+    "breakdown": []
+  },
+  "protocols": [
+    {
+      "practice": "Emergency Psychiatric Assessment",
+      "frequency": "24/7",
+      "purpose": "Immediate stabilization and triage"
+    },
+    {
+      "practice": "Referral Coordination",
+      "frequency": "As needed",
+      "purpose": "Transfer to Sbrana for complex cases"
+    }
+  ],
+  "country": "BW"
+},
+  {
+  "rehab_id": "rhb_nyangabgwe_referral_hospital",
+  "name": "Nyangabgwe Referral Hospital",
+  "tagline": "Major Referral Hospital - Mental Health Ward",
+  "facility_type": "Hospital",
+  "accent_color": "#148F77",
+  "initials": "NR",
+  "logo_url": null,
+  "premises_photo": null,
+  "gallery": [],
+  "location": {
+    "text": "Plot 2523, Marang Road, Francistown, Botswana",
+    "city": "Francistown"
+  },
+    "affiliation": {
+      "body": "Ministry of Health, Botswana",
+      "license_number": "MoH-BW-004",
+      "accreditation_type": "Government Major Referral"
+    },
+    "accommodation": {
+      "offers_lodging": false,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [
+      "Emergency Psychiatric Unit",
+      "Regional Referral Services"
+    ],
+    "programmes_offered": [
+      "Emergency Psychiatric Stabilization",
+      "Regional Referrals",
+      "Psychiatric Assessments"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cannabis", "Alcohol"],
+      "conditioning": [],
+      "mental_health": ["Acute Psychosis", "Emergency Psychiatric Care"]
+    },
+    "staff": [],
+    "contact": {
+    "phone": ["+267 244 1100"],
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "app_link": "",
+    "contact_person": "",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "tiktok": ""
+    }
+  },
+  "cost_structure": {
+    "currency": "BWP",
+    "intake_deposit": 0,
+    "daily_rate": 0,
+    "full_28day_program": 0,
+    "breakdown": []
+  },
+  "protocols": [
+    {
+      "practice": "Emergency Psychiatric Assessment",
+      "frequency": "24/7",
+      "purpose": "Immediate stabilization for northern region"
+    },
+    {
+      "practice": "Referral to Sbrana",
+      "frequency": "As needed",
+      "purpose": "Transfer for complex forensic or long-term cases"
+    }
+  ],
+  "country": "BW"
+},
+  {
+    "rehab_id": "rhb_bosabelo_community_rehab",
+    "name": "Bosabelo Community Rehabilitation Centre",
+    "tagline": "Private Community-Based Rehabilitation",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#D4AC0D",
+    "initials": "BC",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Gaborone, Botswana",
+      "city": "Gaborone"
+    },
+    "affiliation": {
+      "body": "Private / Community-Based",
+      "license_number": "",
+      "accreditation_type": "Private Licensed Facility"
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": ["Shared Ward", "Private Room"]
+    },
+    "facilities": [
+      "Counseling Rooms",
+      "Group Therapy Hall",
+      "Family Visitation Area",
+      "Life Skills Training Room"
+    ],
+    "programmes_offered": [
+      "Inpatient Rehabilitation",
+      "Cognitive Behavioral Therapy (CBT)",
+      "Family Counseling",
+      "Aftercare Services",
+      "Life Skills Training"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cannabis", "Alcohol", "Prescription Drugs"],
+      "conditioning": [],
+      "mental_health": ["Dual Diagnosis", "Relapse Prevention"]
+    },
+    "staff": [],
+    "contact": {
+      "phone": [],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "BWP",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Individual Counseling",
+        "frequency": "Weekly",
+        "purpose": "Address psychological dependence"
+      },
+      {
+        "practice": "Group Therapy",
+        "frequency": "2-3 times weekly",
+        "purpose": "Peer support and shared recovery experiences"
+      }
+    ],
+    "country": "BW"
+  },
+  {
+    "rehab_id": "rhb_bosasnet",
+    "name": "BOSASNet",
+    "tagline": "Botswana Substance Abuse Support Network",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#27AE60",
+    "initials": "BN",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Plot 1867, Ext 4, Gaborone, Botswana",
+      "city": "Gaborone"
+    },
+    "affiliation": {
+      "body": "Non-Governmental Organisation",
+      "license_number": "",
+      "accreditation_type": "NGO / Non-Profit"
+    },
+    "accommodation": {
+      "offers_lodging": false,
+      "total_beds": null,
+      "room_types": []
+    },
+    "facilities": [
+      "Outpatient Counselling Rooms",
+      "Group Therapy Hall",
+      "Family Support Area"
+    ],
+    "programmes_offered": [
+      "Outpatient Counselling",
+      "Substance Abuse Screening",
+      "Family Support Groups",
+      "Prevention Education"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cannabis", "Alcohol", "Prescription Drugs"],
+      "conditioning": [],
+      "mental_health": ["Dual Diagnosis", "Relapse Prevention"]
+    },
+    "staff": [],
+    "contact": {
+      "phone": ["+267 395 3120"],
+      "whatsapp": "",
+      "email": "info.bosasnet@gmail.com",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "BWP",
+      "intake_deposit": 0,
+      "daily_rate": 0,
+      "full_28day_program": 0,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Outpatient Counselling",
+        "frequency": "Weekly",
+        "purpose": "Individual and group substance abuse counselling"
+      },
+      {
+        "practice": "Family Support Groups",
+        "frequency": "Bi-weekly",
+        "purpose": "Family education and support for recovery"
+      },
+      {
+        "practice": "Prevention Education",
+        "frequency": "Ongoing",
+        "purpose": "Community awareness and substance abuse prevention"
+      }
+    ],
+    "country": "BW"
+  },
+  {
+    "rehab_id": "rhb_silence_they_speak",
+    "name": "Silence They Speak (STS)",
+    "tagline": "Community Rehabilitation Centre",
+    "facility_type": "Rehab Centre",
+    "accent_color": "#8E44AD",
+    "initials": "ST",
+    "logo_url": null,
+    "premises_photo": null,
+    "gallery": [],
+    "location": {
+      "text": "Kweneng District, Molepolole, Botswana",
+      "city": "Molepolole"
+    },
+    "affiliation": {
+      "body": "Community / Private",
+      "license_number": "",
+      "accreditation_type": "Community Licensed Facility"
+    },
+    "accommodation": {
+      "offers_lodging": true,
+      "total_beds": null,
+      "room_types": ["Shared Ward"]
+    },
+    "facilities": [
+      "Counselling Rooms",
+      "Group Therapy Hall",
+      "Youth Programme Area"
+    ],
+    "programmes_offered": [
+      "Addiction Counselling",
+      "Youth Rehabilitation Programs",
+      "Community Reintegration"
+    ],
+    "tags": {
+      "substances": ["Crystal Methamphetamine", "Cannabis", "Alcohol"],
+      "conditioning": [],
+      "mental_health": ["Dual Diagnosis", "Relapse Prevention", "Youth Mental Health"]
+    },
+    "staff": [],
+    "contact": {
+      "phone": ["+267 71 888 880"],
+      "whatsapp": "",
+      "email": "",
+      "website": "",
+      "app_link": "",
+      "contact_person": "",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "tiktok": ""
+      }
+    },
+    "cost_structure": {
+      "currency": "BWP",
+      "intake_deposit": null,
+      "daily_rate": null,
+      "full_28day_program": null,
+      "breakdown": []
+    },
+    "protocols": [
+      {
+        "practice": "Addiction Counselling",
+        "frequency": "Weekly",
+        "purpose": "Individual and group therapy for substance dependence"
+      },
+      {
+        "practice": "Youth Programs",
+        "frequency": "Ongoing",
+        "purpose": "Age-specific rehabilitation for young adults"
+      },
+      {
+        "practice": "Community Reintegration",
+        "frequency": "Post-treatment",
+        "purpose": "Support transition back into community life"
+      }
+    ],
+    "country": "BW"
+  }
+]

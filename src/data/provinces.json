@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prov-1",
+    "name": "Harare",
+    "capital": "Harare",
+    "provinces": ["Harare"]
+  },
+  {
+    "id": "prov-2",
+    "name": "Bulawayo",
+    "capital": "Bulawayo",
+    "provinces": ["Bulawayo"]
+  },
+  {
+    "id": "prov-3",
+    "name": "Manicaland",
+    "capital": "Mutare",
+    "provinces": ["Manicaland"]
+  },
+  {
+    "id": "prov-4",
+    "name": "Mashonaland Central",
+    "capital": "Bindura",
+    "provinces": ["Mashonaland Central"]
+  },
+  {
+    "id": "prov-5",
+    "name": "Mashonaland East",
+    "capital": "Marondera",
+    "provinces": ["Mashonaland East"]
+  },
+  {
+    "id": "prov-6",
+    "name": "Mashonaland West",
+    "capital": "Chinhoyi",
+    "provinces": ["Mashonaland West"]
+  },
+  {
+    "id": "prov-7",
+    "name": "Masvingo",
+    "capital": "Masvingo",
+    "provinces": ["Masvingo"]
+  },
+  {
+    "id": "prov-8",
+    "name": "Matabeleland North",
+    "capital": "Lupane",
+    "provinces": ["Matabeleland North"]
+  },
+  {
+    "id": "prov-9",
+    "name": "Matabeleland South",
+    "capital": "Gwanda",
+    "provinces": ["Matabeleland South"]
+  },
+  {
+    "id": "prov-10",
+    "name": "Midlands",
+    "capital": "Gweru",
+    "provinces": ["Midlands"]
+  }
+]

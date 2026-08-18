@@ -1,0 +1,1025 @@
+{
+  "substances": [
+    {
+      "id": "crystal_meth",
+      "name": "Crystal Meth / Tik",
+      "zone": "Uppers",
+      "desc": "Synthetic stimulant. Euphoria, no sleep, paranoia.",
+      "hook": "Floods brain with dopamine. Crash is brutal.",
+      "step": "Don't stop alone. Talk to a medical Pro + Addiction Counselor."
+    },
+    {
+      "id": "cocaine",
+      "name": "Cocaine & Crack",
+      "zone": "Uppers",
+      "desc": "15min intense high then crash. Expensive.",
+      "hook": "Tricks brain into thinking you need it to feel normal.",
+      "step": "Tell someone you trust. Book a Rehab Assessment."
+    },
+    {
+      "id": "khat",
+      "name": "Khat / Mairungi",
+      "zone": "Uppers",
+      "desc": "Leaf chewed for mild stimulant.",
+      "hook": "Makes you talkative, kills appetite.",
+      "step": "Track chewing days. Swap with water + walk."
+    },
+    {
+      "id": "energy_drinks",
+      "name": "Energy Drinks / High-Caffeine",
+      "zone": "Uppers",
+      "desc": "200mg+ caffeine. Red Bull, Monster.",
+      "hook": "Fake energy, then anxiety and sleep problems.",
+      "step": "Cut to 1 per day. Replace with water + sleep."
+    },
+    {
+      "id": "heroin",
+      "name": "Heroin / Nyaope / Whoonga",
+      "zone": "Downers",
+      "desc": "Painkillers mixed. Numb \"warm\" feeling.",
+      "hook": "Numbs pain fast. Body dependent in days. OD risk high.",
+      "step": "Medical emergency. Call Pro for Rehab Assessment. Never quit cold turkey."
+    },
+    {
+      "id": "codeine",
+      "name": "Cough Syrup / Codeine / Lean",
+      "zone": "Downers",
+      "desc": "Cough medicine abused for \"high\".",
+      "hook": "Legal but addictive. Damages liver.",
+      "step": "Count bottles per week. Tell GP. Taper with medical help."
+    },
+    {
+      "id": "benzos",
+      "name": "Benzos / Valium / Sedatives",
+      "zone": "Downers",
+      "desc": "Anxiety/sleep pills without script.",
+      "hook": "Feels like \"off switch\" for stress. Dangerous with alcohol.",
+      "step": "Don't mix with alcohol. See Doctor for safe taper."
+    },
+    {
+      "id": "inhalants",
+      "name": "Inhalants / Glue / Petrol",
+      "zone": "Downers",
+      "desc": "Sniffing household chemicals for dizziness.",
+      "hook": "Cheap, fast high but causes brain damage and death.",
+      "step": "Remove access. Urgent help from counselor + medical Pro."
+    },
+    {
+      "id": "alcohol",
+      "name": "Alcohol & Spirits",
+      "zone": "Downers",
+      "desc": "Beer, wine, chibuku, spirits. Depresses brain.",
+      "hook": "Social, legal, numbs stress. Body needs more.",
+      "step": "Track \"dry days\". If shakes without it, see Doctor."
+    },
+    {
+      "id": "cannabis",
+      "name": "Cannabis / Mbanje / Weed",
+      "zone": "Other",
+      "desc": "Smoked or eaten. Calm or anxiety/psychosis.",
+      "hook": "Relaxing but kills motivation with daily use.",
+      "step": "Try 7 days off. Talk to counselor if hard."
+    },
+    {
+      "id": "vaping",
+      "name": "Vaping & E-Cigarettes",
+      "zone": "Other",
+      "desc": "Nicotine salts and flavors. More addictive than cigarettes.",
+      "hook": "Designed to be more addictive. Hides in pocket.",
+      "step": "Count pods per week. Switch to nicotine gum with Doctor."
+    },
+    {
+      "id": "tobacco",
+      "name": "Tobacco / Cigarettes / Shisha",
+      "zone": "Other",
+      "desc": "Burned tobacco with 7000+ chemicals.",
+      "hook": "Nicotine withdrawal makes you crave every 1-2 hours.",
+      "step": "Pick quit date. Use patches/gum. Tell friends."
+    },
+    {
+      "id": "psychedelics",
+      "name": "Psychedelics / Mushrooms / LSD",
+      "zone": "Other",
+      "desc": "Change perception and thinking for hours.",
+      "hook": "Can feel spiritual but triggers anxiety and psychosis.",
+      "step": "Don't use alone. If bad thoughts, seek medical help."
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar / Ultra-Processed Foods",
+      "zone": "Other",
+      "desc": "Chips, sweets, fast food. Impossible to stop at 1.",
+      "hook": "Sugar spikes dopamine like drugs. Crashes and cravings.",
+      "step": "Track 3 days of eating. Swap 1 snack for fruit/nuts."
+    },
+    {
+      "id": "otc",
+      "name": "OTC Painkillers / Supplements",
+      "zone": "Other",
+      "desc": "Taken above label. Seems \"safe\".",
+      "hook": "Damages organs over time.",
+      "step": "Never exceed dose. Ask pharmacist for safer options."
+    },
+    {
+      "id": "prescription_stimulants",
+      "name": "Prescription Stimulants",
+      "zone": "Uppers",
+      "desc": "Ritalin, Adderall without script.",
+      "hook": "Focus + energy. Can lead to dependency.",
+      "step": "See Doctor. Get proper assessment."
+    },
+    {
+      "id": "steroids",
+      "name": "Steroids",
+      "zone": "Other",
+      "desc": "Muscle drugs. Body image.",
+      "hook": "Feeds body dysmorphia.",
+      "step": "Gym trainer + Doctor."
+    },
+    {
+      "id": "nitrous",
+      "name": "Nitrous Oxide / Whippets",
+      "zone": "Other",
+      "desc": "Quick laugh. Brain risk.",
+      "hook": "Cheap and accessible.",
+      "step": "Stop — brain damage risk."
+    },
+    {
+      "id": "kratom",
+      "name": "Kratom",
+      "zone": "Other",
+      "desc": "Herbal opioid. Pain relief.",
+      "hook": "Can cause dependency.",
+      "step": "Taper with Pro."
+    },
+    {
+      "id": "hallucinogens",
+      "name": "Hallucinogens (PCP etc)",
+      "zone": "Other",
+      "desc": "Escape from reality.",
+      "hook": "Psychiatric risk.",
+      "step": "Psychiatric help."
+    },
+    {
+      "id": "club_drugs",
+      "name": "Club Drugs (Ecstasy, GHB)",
+      "zone": "Other",
+      "desc": "Party drugs.",
+      "hook": "Social scene. Risk of OD.",
+      "step": "Medical help if sick."
+    },
+    {
+      "id": "synthetic_cannabinoids",
+      "name": "Synthetic Cannabinoids (K2, Spice)",
+      "zone": "Other",
+      "desc": "Cheap weed substitute.",
+      "hook": "Unpredictable effects.",
+      "step": "ER if sick."
+    },
+    {
+      "id": "gas",
+      "name": "GAS / Petrol Sniffing",
+      "zone": "Other",
+      "desc": "Same as inhalants.",
+      "hook": "Cheap and accessible.",
+      "step": "Urgent help."
+    },
+    {
+      "id": "betel_nut",
+      "name": "Betel Nut",
+      "zone": "Other",
+      "desc": "Mild stimulant. Social.",
+      "hook": "Socially accepted.",
+      "step": "Track use. Talk to Pro."
+    },
+    {
+      "id": "other_substance",
+      "name": "Other Substance",
+      "zone": "Other",
+      "desc": "Describe it.",
+      "hook": "Unknown risks.",
+      "step": "Talk to Pro."
+    }
+  ],
+  "conditioning": [
+    {
+      "id": "social_media",
+      "name": "Social Media / TikTok / IG / FB",
+      "desc": "Apps designed for endless scrolling.",
+      "hook": "Every scroll gives dopamine. Real life feels boring.",
+      "step": "Set 1hr daily limit. Delete app on weekends."
+    },
+    {
+      "id": "rage_bait",
+      "name": "Algorithmic Rage-Bait",
+      "desc": "News and videos designed to make you angry.",
+      "hook": "Anger = energy = more scrolling. Warps worldview.",
+      "step": "Mute angry accounts. Follow calm pages."
+    },
+    {
+      "id": "gaming",
+      "name": "Online Gaming / Loot Boxes",
+      "desc": "Games with rewards, ranks, gambling-style purchases.",
+      "hook": "Brain loves \"level up\". Can take 6+ hours.",
+      "step": "Set timer. No gaming before duties done."
+    },
+    {
+      "id": "porn",
+      "name": "Pornography",
+      "desc": "Sexual content on phone. Free and private.",
+      "hook": "Huge dopamine hit. Real relationships feel dull.",
+      "step": "Use app blockers. Talk to same-gender counselor."
+    },
+    {
+      "id": "dating_apps",
+      "name": "Dating & Hookup Apps",
+      "desc": "Tinder, Bumble. Swipe for validation.",
+      "hook": "Brain addicted to \"match\". Rejection pain.",
+      "step": "Limit to 20min/day. Meet in public only."
+    },
+    {
+      "id": "ecommerce",
+      "name": "Impulse E-Commerce / Temu / Shein",
+      "desc": "Shopping apps with endless cheap stuff.",
+      "hook": "Buying gives rush. Parcels = dopamine. Debt.",
+      "step": "24hr wait rule before buying. Uninstall app."
+    },
+    {
+      "id": "gambling",
+      "name": "Gambling & Sports Betting",
+      "desc": "Bet on sports with Ecocash. \"House always wins\".",
+      "hook": "\"Near miss\" feels like you almost won. Chasing losses.",
+      "step": "Self-exclude. Give Ecocash to trusted person for 30 days."
+    },
+    {
+      "id": "forex",
+      "name": "Forex & Crypto Trading",
+      "desc": "Apps marketed as \"investment\". Work like gambling.",
+      "hook": "Promise of \"get rich\". You lose to \"gurus\".",
+      "step": "Stop paying for signals. Only invest what you can lose."
+    },
+    {
+      "id": "tv",
+      "name": "Television / Reality TV / Drama",
+      "desc": "Shows that normalize substances and violence.",
+      "hook": "4hrs disappears. Fake life looks normal.",
+      "step": "1 show per night max. No TV in bedroom."
+    },
+    {
+      "id": "radio_ads",
+      "name": "Radio / Music Ads",
+      "desc": "Alcohol and betting ads between songs.",
+      "hook": "You hear it 20x/day. Triggers craving.",
+      "step": "Switch to offline music/podcasts."
+    },
+    {
+      "id": "music",
+      "name": "Music as Conditioning",
+      "desc": "Songs that glorify drugs, money, violence.",
+      "hook": "You memorize it. Shapes what you think is \"cool\".",
+      "step": "Make playlist of positive music for 7 days."
+    },
+    {
+      "id": "other_conditioning",
+      "name": "Other Conditioning",
+      "desc": "Anything else you scroll/watch that controls you.",
+      "hook": "If you can't stop, it's conditioning you.",
+      "step": "Name it. Track time. Talk to someone."
+    }
+  ],
+  "mental_health": [
+    {
+      "id": "depression",
+      "name": "Depression",
+      "cat": "Mood",
+      "desc": "Empty, no motivation for 2+ weeks.",
+      "hook": "Brain lies: \"nothing will help\".",
+      "step": "Talk to someone today. Book counselor. Move body 10min."
+    },
+    {
+      "id": "bipolar",
+      "name": "Bipolar Disorder",
+      "cat": "Mood",
+      "desc": "High energy/mania weeks, then deep depression.",
+      "hook": "Mania feels good so you skip treatment.",
+      "step": "See Psychiatrist. Mood tracking helps."
+    },
+    {
+      "id": "persistent_depression",
+      "name": "Persistent Depressive Disorder",
+      "cat": "Mood",
+      "desc": "Low mood most days for 2+ years.",
+      "hook": "You think \"this is just me\".",
+      "step": "Therapy + possible medication. You can feel better."
+    },
+    {
+      "id": "seasonal_affective",
+      "name": "Seasonal Affective Disorder",
+      "cat": "Mood",
+      "desc": "Depression that comes in certain months.",
+      "hook": "Less light = less brain chemicals.",
+      "step": "Morning sunlight + talk therapy."
+    },
+    {
+      "id": "gad",
+      "name": "Generalized Anxiety Disorder (GAD)",
+      "cat": "Anxiety",
+      "desc": "Worry about everything all day for 6+ months.",
+      "hook": "Brain thinks worry = control.",
+      "step": "Breathing + CBT. Counselor can teach tools."
+    },
+    {
+      "id": "social_anxiety",
+      "name": "Social Anxiety Disorder",
+      "cat": "Anxiety",
+      "desc": "Extreme fear of being judged or embarrassed.",
+      "hook": "Avoiding people makes fear stronger.",
+      "step": "Start small. Therapist can do exposure work."
+    },
+    {
+      "id": "panic",
+      "name": "Panic Disorder",
+      "cat": "Anxiety",
+      "desc": "Sudden heart racing, can't breathe, fear of dying.",
+      "hook": "Fear of next attack causes more panic.",
+      "step": "Learn ground technique. See Doctor to rule out heart."
+    },
+    {
+      "id": "phobias",
+      "name": "Phobias",
+      "cat": "Anxiety",
+      "desc": "Extreme fear of 1 thing: heights, spiders, etc.",
+      "hook": "Avoiding keeps fear alive.",
+      "step": "Therapist can help face it slowly."
+    },
+    {
+      "id": "agoraphobia",
+      "name": "Agoraphobia",
+      "cat": "Anxiety",
+      "desc": "Fear of leaving home or crowds.",
+      "hook": "Home feels \"safe\" but life shrinks.",
+      "step": "Start with 5min outside. Therapist support."
+    },
+    {
+      "id": "ptsd",
+      "name": "PTSD",
+      "cat": "Trauma",
+      "desc": "Flashbacks/nightmares after trauma. Always on edge.",
+      "hook": "Brain stuck in \"danger mode\".",
+      "step": "Trauma therapist. EMDR helps many."
+    },
+    {
+      "id": "cptsd",
+      "name": "Complex PTSD",
+      "cat": "Trauma",
+      "desc": "From long-term trauma like abuse. Numb + relationship issues.",
+      "hook": "Affects how you see self and others.",
+      "step": "Long-term therapy. You are not broken."
+    },
+    {
+      "id": "acute_stress",
+      "name": "Acute Stress Disorder",
+      "cat": "Trauma",
+      "desc": "Shock symptoms in first month after trauma.",
+      "hook": "Normal reaction but needs support.",
+      "step": "Talk, rest, support. Usually improves."
+    },
+    {
+      "id": "adjustment",
+      "name": "Adjustment Disorder",
+      "cat": "Trauma",
+      "desc": "Too much stress reaction to life change.",
+      "hook": "Feels like \"I can't cope\".",
+      "step": "Counseling + problem solving."
+    },
+    {
+      "id": "grief",
+      "name": "Grief and Bereavement",
+      "cat": "Trauma",
+      "desc": "Deep sadness after loss.",
+      "hook": "Pain comes in waves.",
+      "step": "Talk about them. Grief group helps."
+    },
+    {
+      "id": "self_harm",
+      "name": "Non-Suicidal Self-Injury",
+      "cat": "Self-Harm",
+      "desc": "Hurting self to feel relief: cutting, burning.",
+      "hook": "Pain gives brief control when emotions are big.",
+      "step": "Tell trusted adult NOW. Therapist + safety plan.",
+      "crisis": true
+    },
+    {
+      "id": "suicidal_ideation",
+      "name": "Suicidal Ideation",
+      "cat": "Self-Harm",
+      "desc": "Thoughts of \"better off gone\".",
+      "hook": "Depression lies and says there's no way out.",
+      "step": "TALK NOW. Call 999 or 116. You are not alone.",
+      "crisis": true
+    },
+    {
+      "id": "suicide_attempt",
+      "name": "Suicide Attempt",
+      "cat": "Self-Harm",
+      "desc": "Tried to end life.",
+      "hook": "Pain felt unbearable.",
+      "step": "Medical help NOW. Then therapy. You deserve to live.",
+      "crisis": true
+    },
+    {
+      "id": "anorexia",
+      "name": "Anorexia Nervosa",
+      "cat": "Eating",
+      "desc": "Extreme fear of weight. Starving self.",
+      "hook": "Feels like control when life is chaos.",
+      "step": "Doctor + Therapist + Dietician team."
+    },
+    {
+      "id": "bulimia",
+      "name": "Bulimia Nervosa",
+      "cat": "Eating",
+      "desc": "Binge eat then purge with vomit/laxatives.",
+      "hook": "Shame cycle. Damages teeth and heart.",
+      "step": "Tell Doctor. Therapy works well."
+    },
+    {
+      "id": "binge_eating",
+      "name": "Binge Eating Disorder",
+      "cat": "Eating",
+      "desc": "Eating large amounts, can't stop, then guilt.",
+      "hook": "Food used to numb feelings.",
+      "step": "Therapist + regular meals. Not about willpower."
+    },
+    {
+      "id": "arfid",
+      "name": "ARFID",
+      "cat": "Eating",
+      "desc": "Fear of food texture/taste. Very limited diet.",
+      "hook": "Not about weight. About sensory fear.",
+      "step": "Occupational therapist + dietician."
+    },
+    {
+      "id": "orthorexia",
+      "name": "Orthorexia",
+      "cat": "Eating",
+      "desc": "Obsession with \"clean\" eating only.",
+      "hook": "Feels healthy but isolates you.",
+      "step": "Therapist to find balance."
+    },
+    {
+      "id": "adhd",
+      "name": "ADHD",
+      "cat": "Neuro",
+      "desc": "Brain struggles with focus, sitting still, finishing.",
+      "hook": "Not laziness. Brain wiring.",
+      "step": "Assessment. Tools + meds can help a lot."
+    },
+    {
+      "id": "autism",
+      "name": "Autism Spectrum Disorder (ASD)",
+      "cat": "Neuro",
+      "desc": "Brain processes social and sensory info differently.",
+      "hook": "World can feel loud and confusing.",
+      "step": "Assessment. Therapy for skills."
+    },
+    {
+      "id": "learning_disorder",
+      "name": "Learning Disorders",
+      "cat": "Neuro",
+      "desc": "Brain struggles with reading, math despite effort.",
+      "hook": "School feels impossible.",
+      "step": "Educational assessment + support."
+    },
+    {
+      "id": "intellectual_disability",
+      "name": "Intellectual Disability",
+      "cat": "Neuro",
+      "desc": "Brain needs more support to learn daily skills.",
+      "hook": "Needs patience and right support.",
+      "step": "Support services + family help."
+    },
+    {
+      "id": "ocd",
+      "name": "OCD",
+      "cat": "OCD",
+      "desc": "Intrusive thoughts + rituals to feel safe.",
+      "hook": "Ritual gives 5min relief but makes it worse.",
+      "step": "ERP therapy. Very effective."
+    },
+    {
+      "id": "bdd",
+      "name": "Body Dysmorphic Disorder (BDD)",
+      "cat": "OCD",
+      "desc": "Obsessed that 1 body part is ugly.",
+      "hook": "Social media makes it worse.",
+      "step": "Therapist. Limit mirrors/filters."
+    },
+    {
+      "id": "hoarding",
+      "name": "Hoarding Disorder",
+      "cat": "OCD",
+      "desc": "Can't throw things away. Home gets blocked.",
+      "hook": "Fear \"I might need this\".",
+      "step": "Therapist + small steps to declutter."
+    },
+    {
+      "id": "trichotillomania",
+      "name": "Trichotillomania",
+      "cat": "OCD",
+      "desc": "Pulling hair out when stressed.",
+      "hook": "Tension → pull → relief cycle.",
+      "step": "Therapist. Habit reversal training."
+    },
+    {
+      "id": "excoriation",
+      "name": "Excoriation Disorder",
+      "cat": "OCD",
+      "desc": "Picking skin until it bleeds.",
+      "hook": "Anxiety relief but causes scars.",
+      "step": "Therapist + keep hands busy."
+    },
+    {
+      "id": "bpd",
+      "name": "Borderline Personality Disorder (BPD)",
+      "cat": "Personality",
+      "desc": "Intense emotions, fear of abandonment.",
+      "hook": "Relationships feel like life or death.",
+      "step": "DBT therapy. It helps a lot."
+    },
+    {
+      "id": "npd",
+      "name": "Narcissistic Personality Disorder (NPD)",
+      "cat": "Personality",
+      "desc": "Need admiration, lack empathy.",
+      "hook": "Covers deep shame.",
+      "step": "Therapy. Hard but possible."
+    },
+    {
+      "id": "aspd",
+      "name": "Antisocial Personality Disorder",
+      "cat": "Personality",
+      "desc": "Break rules, no remorse.",
+      "hook": "Learned survival pattern.",
+      "step": "Specialized therapy + legal help."
+    },
+    {
+      "id": "avoidant_pd",
+      "name": "Avoidant Personality Disorder",
+      "cat": "Personality",
+      "desc": "Extreme shyness, fear rejection.",
+      "hook": "Avoiding = lonely but \"safe\".",
+      "step": "Therapy to build confidence."
+    },
+    {
+      "id": "schizophrenia",
+      "name": "Schizophrenia",
+      "cat": "Psychotic",
+      "desc": "Hearing voices, delusions for 6+ months.",
+      "hook": "Brain chemistry issue. Not \"madness\".",
+      "step": "Psychiatrist + medication + support."
+    },
+    {
+      "id": "schizoaffective",
+      "name": "Schizoaffective Disorder",
+      "cat": "Psychotic",
+      "desc": "Schizophrenia + mood disorder together.",
+      "hook": "Both psychosis and depression/mania.",
+      "step": "Psychiatrist. Treatment helps."
+    },
+    {
+      "id": "brief_psychotic",
+      "name": "Brief Psychotic Disorder",
+      "cat": "Psychotic",
+      "desc": "Sudden psychosis after stress, lasts <1 month.",
+      "hook": "Stress overload.",
+      "step": "Psychiatric help. Often recovers."
+    },
+    {
+      "id": "substance_psychosis",
+      "name": "Substance-Induced Psychosis",
+      "cat": "Psychotic",
+      "desc": "Drugs cause hallucinations/paranoia.",
+      "hook": "Substance changes brain.",
+      "step": "Stop substance + medical help."
+    },
+    {
+      "id": "somatic",
+      "name": "Somatic Symptom Disorder",
+      "cat": "Other",
+      "desc": "Body pain but no medical cause.",
+      "hook": "Stress manifests physically.",
+      "step": "Doctor + Therapist."
+    },
+    {
+      "id": "did",
+      "name": "Dissociative Identity Disorder (DID)",
+      "cat": "Other",
+      "desc": "Multiple \"parts\".",
+      "hook": "Trauma response.",
+      "step": "Trauma therapist."
+    },
+    {
+      "id": "depersonalization",
+      "name": "Depersonalization/Derealization",
+      "cat": "Other",
+      "desc": "Feel unreal or world unreal.",
+      "hook": "Trauma/anxiety response.",
+      "step": "Grounding + therapy."
+    },
+    {
+      "id": "insomnia",
+      "name": "Insomnia Disorder",
+      "cat": "Other",
+      "desc": "Can't sleep 3+ nights/week.",
+      "hook": "Anxiety cycle.",
+      "step": "Sleep hygiene + CBT."
+    },
+    {
+      "id": "hypersomnia",
+      "name": "Hypersomnia",
+      "cat": "Other",
+      "desc": "Sleeping too much.",
+      "hook": "Underlying condition.",
+      "step": "Doctor to check cause."
+    },
+    {
+      "id": "delayed_sleep",
+      "name": "Delayed Sleep Phase",
+      "cat": "Other",
+      "desc": "Can't sleep before 3am.",
+      "hook": "Circadian rhythm off.",
+      "step": "Light + schedule."
+    },
+    {
+      "id": "academic_stress",
+      "name": "Academic Stress Disorder",
+      "cat": "Other",
+      "desc": "School stress overwhelming.",
+      "hook": "Pressure to perform.",
+      "step": "Tutor + counselor."
+    },
+    {
+      "id": "unemployment_depression",
+      "name": "Unemployment Depression",
+      "cat": "Other",
+      "desc": "Depression from no job.",
+      "hook": "Loss of purpose.",
+      "step": "Skills + support group."
+    },
+    {
+      "id": "substance_mood",
+      "name": "Substance-Induced Mood Disorder",
+      "cat": "Other",
+      "desc": "Drugs cause depression/anxiety.",
+      "hook": "Chemical imbalance.",
+      "step": "Stop + help."
+    },
+    {
+      "id": "cultural_distress",
+      "name": "Cultural/Spiritual Distress",
+      "cat": "Other",
+      "desc": "Conflict with beliefs/culture.",
+      "hook": "Identity crisis.",
+      "step": "Elder + counselor."
+    }
+  ],
+  "professionals": [
+    {
+      "id": "pro_1",
+      "name": "Dr. Jane Doe",
+      "title": "Psychologist",
+      "clinic": "Harare Central Clinic",
+      "phone": "+263 77 123 4567",
+      "whatsapp": "+263 77 123 4567",
+      "fee": 15,
+      "city": "Harare",
+      "area": "Central",
+      "lat": -17.8252,
+      "lng": 31.0335,
+      "formats": [
+        "in_person",
+        "whatsapp",
+        "video"
+      ],
+      "languages": [
+        "English",
+        "Shona"
+      ],
+      "ageGroups": [
+        "13_17",
+        "18_25",
+        "26_35"
+      ],
+      "urgency": 2,
+      "rating": 4.8,
+      "verified": true,
+      "tags": {
+        "substances": [
+          "vaping",
+          "alcohol",
+          "cannabis",
+          "tobacco"
+        ],
+        "conditioning": [
+          "social_media",
+          "gaming",
+          "porn",
+          "gambling"
+        ],
+        "mental_health": [
+          "social_anxiety",
+          "depression",
+          "gad",
+          "ptsd",
+          "adhd"
+        ]
+      }
+    },
+    {
+      "id": "pro_2",
+      "name": "Mr. Tafadzwa",
+      "title": "Addiction Counselor",
+      "clinic": "Community Health Center",
+      "phone": "+263 77 234 5678",
+      "whatsapp": "+263 77 234 5678",
+      "fee": 0,
+      "city": "Harare",
+      "area": "Mbare",
+      "lat": -17.8352,
+      "lng": 31.0435,
+      "formats": [
+        "in_person",
+        "phone",
+        "whatsapp"
+      ],
+      "languages": [
+        "English",
+        "Shona",
+        "Ndebele"
+      ],
+      "ageGroups": [
+        "13_17",
+        "18_25",
+        "26_35",
+        "36_plus"
+      ],
+      "urgency": 3,
+      "rating": 4.5,
+      "verified": true,
+      "tags": {
+        "substances": [
+          "alcohol",
+          "cannabis",
+          "vaping",
+          "tobacco",
+          "sugar"
+        ],
+        "conditioning": [
+          "social_media",
+          "gaming",
+          "gambling"
+        ],
+        "mental_health": [
+          "depression",
+          "anxiety",
+          "gad",
+          "self_harm"
+        ]
+      }
+    },
+    {
+      "id": "pro_3",
+      "name": "Dr. Sarah Moyo",
+      "title": "Psychiatrist",
+      "clinic": "Hillbrow Medical",
+      "phone": "+263 77 345 6789",
+      "whatsapp": "+263 77 345 6789",
+      "fee": 35,
+      "city": "Harare",
+      "area": "Borrowdale",
+      "lat": -17.8052,
+      "lng": 31.0635,
+      "formats": [
+        "in_person",
+        "video"
+      ],
+      "languages": [
+        "English",
+        "Shona"
+      ],
+      "ageGroups": [
+        "18_25",
+        "26_35",
+        "36_plus"
+      ],
+      "urgency": 5,
+      "rating": 4.9,
+      "verified": true,
+      "tags": {
+        "substances": [
+          "crystal_meth",
+          "heroin",
+          "alcohol",
+          "benzos"
+        ],
+        "conditioning": [
+          "gambling",
+          "forex"
+        ],
+        "mental_health": [
+          "bipolar",
+          "schizophrenia",
+          "depression",
+          "suicidal_ideation"
+        ]
+      }
+    },
+    {
+      "id": "pro_4",
+      "name": "Ms. Tendai",
+      "title": "Youth Counselor",
+      "clinic": "Youth Wellness Hub",
+      "phone": "+263 77 456 7890",
+      "whatsapp": "+263 77 456 7890",
+      "fee": 10,
+      "city": "Harare",
+      "area": "Chitungwiza",
+      "lat": -17.8452,
+      "lng": 31.0535,
+      "formats": [
+        "in_person",
+        "whatsapp",
+        "phone"
+      ],
+      "languages": [
+        "English",
+        "Shona",
+        "Ndebele"
+      ],
+      "ageGroups": [
+        "under_13",
+        "13_17",
+        "18_25"
+      ],
+      "urgency": 1,
+      "rating": 4.3,
+      "verified": true,
+      "tags": {
+        "substances": [
+          "vaping",
+          "alcohol",
+          "cannabis",
+          "tobacco",
+          "energy_drinks"
+        ],
+        "conditioning": [
+          "social_media",
+          "gaming",
+          "porn",
+          "dating_apps"
+        ],
+        "mental_health": [
+          "depression",
+          "anxiety",
+          "social_anxiety",
+          "self_harm",
+          "adhd",
+          "academic_stress"
+        ]
+      }
+    },
+    {
+      "id": "pro_5",
+      "name": "Dr. Farai",
+      "title": "Clinical Psychologist",
+      "clinic": "Mind Matters",
+      "phone": "+263 77 567 8901",
+      "whatsapp": "+263 77 567 8901",
+      "fee": 20,
+      "city": "Harare",
+      "area": "Avondale",
+      "lat": -17.8152,
+      "lng": 31.0235,
+      "formats": [
+        "in_person",
+        "video",
+        "whatsapp"
+      ],
+      "languages": [
+        "English",
+        "Shona"
+      ],
+      "ageGroups": [
+        "18_25",
+        "26_35"
+      ],
+      "urgency": 3,
+      "rating": 4.7,
+      "verified": true,
+      "tags": {
+        "substances": [
+          "alcohol",
+          "cannabis",
+          "vaping"
+        ],
+        "conditioning": [
+          "social_media",
+          "porn",
+          "gambling",
+          "ecommerce"
+        ],
+        "mental_health": [
+          "depression",
+          "gad",
+          "panic",
+          "ptsd",
+          "bpd",
+          "ocd"
+        ]
+      }
+    }
+  ],
+  "rehab_facilities": [
+    {
+      "id": "rf1",
+      "name": "Harare Central Rehab",
+      "type": "Government",
+      "city": "Harare",
+      "area": "Central",
+      "phone": "+263 24 123 4567",
+      "desc": "Inpatient and outpatient programs. Sliding scale fees.",
+      "image": "H"
+    },
+    {
+      "id": "rf2",
+      "name": "Serenity Recovery Centre",
+      "type": "Private",
+      "city": "Harare",
+      "area": "Borrowdale",
+      "phone": "+263 24 234 5678",
+      "desc": "Luxury inpatient rehab with 28-day programs. Holistic approach.",
+      "image": "S"
+    },
+    {
+      "id": "rf3",
+      "name": "Hope House",
+      "type": "NGO",
+      "city": "Harare",
+      "area": "Mbare",
+      "phone": "+263 24 345 6789",
+      "desc": "Faith-based free rehab for men. 6-month residential.",
+      "image": "H"
+    },
+    {
+      "id": "rf4",
+      "name": "Bulawayo Wellness Clinic",
+      "type": "Government",
+      "city": "Bulawayo",
+      "area": "Central",
+      "phone": "+263 29 456 7890",
+      "desc": "Outpatient counseling and detox referral.",
+      "image": "B"
+    },
+    {
+      "id": "rf5",
+      "name": "The Bridge Rehab",
+      "type": "Private",
+      "city": "Harare",
+      "area": "Chitungwiza",
+      "phone": "+263 24 567 8901",
+      "desc": "Dual diagnosis rehab. Accepts insurance.",
+      "image": "B"
+    },
+    {
+      "id": "rf6",
+      "name": "Mutare Recovery Centre",
+      "type": "Government",
+      "city": "Mutare",
+      "area": "Central",
+      "phone": "+263 20 678 9012",
+      "desc": "Inpatient detox and rehab. Referral required.",
+      "image": "M"
+    },
+    {
+      "id": "rf7",
+      "name": "New Dawn Rehab",
+      "type": "Private",
+      "city": "Harare",
+      "area": "Avondale",
+      "phone": "+263 24 789 0123",
+      "desc": "Women-only rehab. Trauma-informed care.",
+      "image": "N"
+    },
+    {
+      "id": "rf8",
+      "name": "Gweru Mental Health Unit",
+      "type": "Government",
+      "city": "Gweru",
+      "area": "Central",
+      "phone": "+263 54 890 1234",
+      "desc": "Psychiatric inpatient with addiction wing.",
+      "image": "G"
+    }
+  ]
+}

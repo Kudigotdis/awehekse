@@ -1,0 +1,122 @@
+[
+  {
+    "id": "badge-first-checkin",
+    "name": "First Steps",
+    "icon": "🌱",
+    "desc": "Complete your first daily check-in",
+    "category": "Mood",
+    "criteria": { "type": "checkin_count", "value": 1 }
+  },
+  {
+    "id": "badge-week-streak",
+    "name": "Week Warrior",
+    "icon": "🔥",
+    "desc": "7-day check-in streak",
+    "category": "Mood",
+    "criteria": { "type": "streak", "value": 7 }
+  },
+  {
+    "id": "badge-month-streak",
+    "name": "Monthly Master",
+    "icon": "👑",
+    "desc": "30-day check-in streak",
+    "category": "Mood",
+    "criteria": { "type": "streak", "value": 30 }
+  },
+  {
+    "id": "badge-first-journal",
+    "name": "Dear Diary",
+    "icon": "📓",
+    "desc": "Write your first journal entry",
+    "category": "Mood",
+    "criteria": { "type": "journal_count", "value": 1 }
+  },
+  {
+    "id": "badge-safety-plan",
+    "name": "Safety First",
+    "icon": "🛡️",
+    "desc": "Create your safety plan",
+    "category": "Safety",
+    "criteria": { "type": "safety_plan", "value": 1 }
+  },
+  {
+    "id": "badge-first-poll",
+    "name": "Honest Voice",
+    "icon": "🗳️",
+    "desc": "Complete your first honesty poll",
+    "category": "Polls",
+    "criteria": { "type": "poll_count", "value": 1 }
+  },
+  {
+    "id": "badge-5-polls",
+    "name": "Truth Teller",
+    "icon": "✋",
+    "desc": "Complete 5 honesty polls",
+    "category": "Polls",
+    "criteria": { "type": "poll_count", "value": 5 }
+  },
+  {
+    "id": "badge-habit-tracker",
+    "name": "Habit Watcher",
+    "icon": "📊",
+    "desc": "Track habits for a full week",
+    "category": "Habits",
+    "criteria": { "type": "habit_days", "value": 7 }
+  },
+  {
+    "id": "badge-ckn-perfect",
+    "name": "Fact Master",
+    "icon": "🔍",
+    "desc": "Score 10/10 on Chokwadi Kana Nhema",
+    "category": "Games",
+    "criteria": { "type": "game_score", "game": "ckn", "value": 10 }
+  },
+  {
+    "id": "badge-ku-finish",
+    "name": "Life Chooser",
+    "icon": "⚖️",
+    "desc": "Complete a Kuenzanisa Upenyu game",
+    "category": "Games",
+    "criteria": { "type": "game_finish", "game": "ku" }
+  },
+  {
+    "id": "badge-bc-speed",
+    "name": "Quick Spotter",
+    "icon": "🎯",
+    "desc": "Score 10+ on Bata Chiratidzo",
+    "category": "Games",
+    "criteria": { "type": "game_score", "game": "bc", "value": 10 }
+  },
+  {
+    "id": "badge-first-campaign",
+    "name": "Campaign Starter",
+    "icon": "📢",
+    "desc": "Create your first campaign",
+    "category": "Campaign",
+    "criteria": { "type": "campaign_count", "value": 1 }
+  },
+  {
+    "id": "badge-explorer",
+    "name": "Knowledge Seeker",
+    "icon": "📚",
+    "desc": "Read 10 articles from the Information Hub",
+    "category": "Learning",
+    "criteria": { "type": "articles_read", "value": 10 }
+  },
+  {
+    "id": "badge-substance-free-7",
+    "name": "Clean Week",
+    "icon": "✅",
+    "desc": "7 consecutive substance-free days logged",
+    "category": "Habits",
+    "criteria": { "type": "substance_free_streak", "value": 7 }
+  },
+  {
+    "id": "badge-substance-free-30",
+    "name": "Clean Month",
+    "icon": "🏆",
+    "desc": "30 consecutive substance-free days logged",
+    "category": "Habits",
+    "criteria": { "type": "substance_free_streak", "value": 30 }
+  }
+]

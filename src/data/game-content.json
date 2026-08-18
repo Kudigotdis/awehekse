@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ckn-1",
+    "text": "Alcohol is not a drug because it is legal.",
+    "truth": false,
+    "explanation": "Alcohol is a psychoactive drug. Legal status does not determine whether something is a drug."
+  },
+  {
+    "id": "ckn-2",
+    "text": "Most people who try marijuana become addicted.",
+    "truth": false,
+    "explanation": "Research shows about 9% of marijuana users develop dependence, lower than many other substances."
+  },
+  {
+    "id": "ckn-3",
+    "text": "Tobacco kills half of all long-term users.",
+    "truth": true,
+    "explanation": "Half of all long-term tobacco users die from smoking-related causes."
+  },
+  {
+    "id": "ckn-4",
+    "text": "You can get addicted on the first use.",
+    "truth": false,
+    "explanation": "While some substances can hook quickly, most addictions develop over repeated use."
+  },
+  {
+    "id": "ckn-5",
+    "text": "Peer pressure is the biggest risk factor for teen substance use.",
+    "truth": true,
+    "explanation": "Peer pressure and social environment are major factors in teen substance initiation."
+  },
+  {
+    "id": "ckn-6",
+    "text": "Exercise can help reduce cravings.",
+    "truth": true,
+    "explanation": "Physical activity releases endorphins and can help manage withdrawal symptoms."
+  },
+  {
+    "id": "ckn-7",
+    "text": "Hookah is safer than cigarettes.",
+    "truth": false,
+    "explanation": "Hookah smoking carries many of the same health risks as cigarette smoking."
+  },
+  {
+    "id": "ckn-8",
+    "text": "Recovery means you never struggle again.",
+    "truth": false,
+    "explanation": "Recovery is a journey. Setbacks can happen but do not mean failure."
+  },
+  {
+    "id": "ckn-9",
+    "text": "Methamphetamine can be prescribed by a doctor.",
+    "truth": true,
+    "explanation": "Methamphetamine (Desoxyn) is FDA-approved for ADHD and obesity in rare cases."
+  },
+  {
+    "id": "ckn-10",
+    "text": "You cannot help someone who does not want help.",
+    "truth": true,
+    "explanation": "Motivation is essential for recovery, but support and education can plant seeds."
+  }
+]

@@ -1,0 +1,409 @@
+{
+  "categories": [
+    {
+      "id": "substances",
+      "label": "Addictive Substances",
+      "color": "#C0392B",
+      "zones": [
+        {
+          "id": "z1",
+          "label": "Zone 1 — Uppers",
+          "items": [
+            {
+              "id": "s01",
+              "name": "Crystal Methamphetamine (Mutoriro / Tik)"
+            },
+            {
+              "id": "s02",
+              "name": "Cocaine & Crack Cocaine"
+            },
+            {
+              "id": "s03",
+              "name": "Khat / Mairungi"
+            },
+            {
+              "id": "s04",
+              "name": "Energy Drinks & High-Caffeine Products"
+            }
+          ]
+        },
+        {
+          "id": "z2",
+          "label": "Zone 2 — Downers",
+          "items": [
+            {
+              "id": "s05",
+              "name": "Heroin & Street-Cut Opiates (Nyaope / Whoonga)"
+            },
+            {
+              "id": "s06",
+              "name": "Prescription Cough Syrups (Bronco / Codeine)"
+            },
+            {
+              "id": "s07",
+              "name": "Sedatives & Dissociatives (Benzos / Mandrax)"
+            },
+            {
+              "id": "s08",
+              "name": "Inhalants & Industrial Solvents (Glue / Petrol / Genkem)"
+            },
+            {
+              "id": "s09",
+              "name": "Alcohol & Illicit Spirits (Musombodia / Kachasu)"
+            }
+          ]
+        },
+        {
+          "id": "z34",
+          "label": "Zone 3 & 4 — Other Chemical & Ambient",
+          "items": [
+            {
+              "id": "s10",
+              "name": "Cannabis / Mbanje / Skunk"
+            },
+            {
+              "id": "s11",
+              "name": "Vaping & E-Cigarettes"
+            },
+            {
+              "id": "s12",
+              "name": "Combustible Tobacco, Shisha & Snuff (Bute)"
+            },
+            {
+              "id": "s13",
+              "name": "Psychedelics (Mushrooms / Acid)"
+            },
+            {
+              "id": "s14",
+              "name": "Ultra-Processed Foods & High-Sugar"
+            },
+            {
+              "id": "s15",
+              "name": "OTCs & Lifestyle Supplements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditioning",
+      "label": "Conditioning Contents",
+      "color": "#7D3C98",
+      "zones": [
+        {
+          "id": "digital",
+          "label": "Digital Behavioral Loops",
+          "items": [
+            {
+              "id": "c16",
+              "name": "Social Media Algorithms (TikTok / IG / Twitter)"
+            },
+            {
+              "id": "c17",
+              "name": "Algorithmic Rage-Bait & Outrage Farming"
+            },
+            {
+              "id": "c18",
+              "name": "Online Gaming & Microtransactions"
+            },
+            {
+              "id": "c19",
+              "name": "Pornography & Hyper-Sexualized Media"
+            },
+            {
+              "id": "c20",
+              "name": "Dating & Hookup Apps"
+            },
+            {
+              "id": "c21",
+              "name": "Impulse E-Commerce & Haul Culture (Temu / Shein)"
+            },
+            {
+              "id": "c22",
+              "name": "Gambling & Sports Betting (Aviator / Mabhetis)"
+            },
+            {
+              "id": "c23",
+              "name": "Forex & Crypto Trading Schemes"
+            }
+          ]
+        },
+        {
+          "id": "traditional",
+          "label": "Traditional Media",
+          "items": [
+            {
+              "id": "c24",
+              "name": "Television & Scripted Reality Bingeing"
+            },
+            {
+              "id": "c25",
+              "name": "Radio & Commercial Advertising Loops"
+            },
+            {
+              "id": "c26",
+              "name": "Music as Behavioral Conditioning (Drill / Subliminals)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mental_health",
+      "label": "Mental Health & Behavioral Distress",
+      "color": "#1F618D",
+      "zones": [
+        {
+          "id": "mood",
+          "label": "Mood & Anxiety",
+          "items": [
+            {
+              "id": "m27",
+              "name": "Major Depressive Disorder (Kurova nepfungwa)"
+            },
+            {
+              "id": "m28",
+              "name": "Bipolar Disorder (Type I & II)"
+            },
+            {
+              "id": "m29",
+              "name": "Persistent Depressive Disorder (Dysthymia)"
+            },
+            {
+              "id": "m30",
+              "name": "Seasonal Affective Disorder (SAD)"
+            },
+            {
+              "id": "m31",
+              "name": "Generalized Anxiety Disorder (Mapangachini)"
+            },
+            {
+              "id": "m32",
+              "name": "Social Anxiety Disorder"
+            },
+            {
+              "id": "m33",
+              "name": "Panic Disorder & Panic Attacks"
+            },
+            {
+              "id": "m34",
+              "name": "Specific Phobias"
+            },
+            {
+              "id": "m35",
+              "name": "Agoraphobia"
+            }
+          ]
+        },
+        {
+          "id": "trauma",
+          "label": "Trauma & Stress-Related",
+          "items": [
+            {
+              "id": "m36",
+              "name": "Post-Traumatic Stress Disorder (PTSD)"
+            },
+            {
+              "id": "m37",
+              "name": "Complex PTSD (C-PTSD)"
+            },
+            {
+              "id": "m38",
+              "name": "Acute Stress Disorder"
+            },
+            {
+              "id": "m39",
+              "name": "Adjustment Disorder"
+            },
+            {
+              "id": "m40",
+              "name": "Grief and Bereavement"
+            }
+          ]
+        },
+        {
+          "id": "selfharm",
+          "label": "Self-Harm & Suicidal Crisis",
+          "items": [
+            {
+              "id": "m41",
+              "name": "Non-Suicidal Self-Injury (NSSI / Cutting)"
+            },
+            {
+              "id": "m42",
+              "name": "Suicidal Ideation"
+            },
+            {
+              "id": "m43",
+              "name": "Suicide Attempt Recovery"
+            }
+          ]
+        },
+        {
+          "id": "eating",
+          "label": "Eating Disorders",
+          "items": [
+            {
+              "id": "m44",
+              "name": "Anorexia Nervosa"
+            },
+            {
+              "id": "m45",
+              "name": "Bulimia Nervosa"
+            },
+            {
+              "id": "m46",
+              "name": "Binge Eating Disorder"
+            },
+            {
+              "id": "m47",
+              "name": "ARFID (Avoidant/Restrictive Food Intake Disorder)"
+            },
+            {
+              "id": "m48",
+              "name": "Orthorexia Nervosa"
+            }
+          ]
+        },
+        {
+          "id": "neuro",
+          "label": "Focus & Neurodevelopmental",
+          "items": [
+            {
+              "id": "m49",
+              "name": "ADHD (Attention Deficit Hyperactivity Disorder)"
+            },
+            {
+              "id": "m50",
+              "name": "Autism Spectrum Disorder (ASD)"
+            },
+            {
+              "id": "m51",
+              "name": "Learning Disorders (Dyslexia, Dyscalculia)"
+            },
+            {
+              "id": "m52",
+              "name": "Intellectual Disability"
+            }
+          ]
+        },
+        {
+          "id": "ocd",
+          "label": "OCD & Related Disorders",
+          "items": [
+            {
+              "id": "m53",
+              "name": "Obsessive-Compulsive Disorder (OCD)"
+            },
+            {
+              "id": "m54",
+              "name": "Body Dysmorphic Disorder (BDD)"
+            },
+            {
+              "id": "m55",
+              "name": "Hoarding Disorder"
+            },
+            {
+              "id": "m56",
+              "name": "Trichotillomania (Hair Pulling)"
+            },
+            {
+              "id": "m57",
+              "name": "Excoriation Disorder (Skin Picking)"
+            }
+          ]
+        },
+        {
+          "id": "personality",
+          "label": "Personality Disorders",
+          "items": [
+            {
+              "id": "m58",
+              "name": "Borderline Personality Disorder (BPD)"
+            },
+            {
+              "id": "m59",
+              "name": "Narcissistic Personality Disorder (NPD)"
+            },
+            {
+              "id": "m60",
+              "name": "Antisocial Personality Disorder"
+            },
+            {
+              "id": "m61",
+              "name": "Avoidant Personality Disorder"
+            }
+          ]
+        },
+        {
+          "id": "psychotic",
+          "label": "Psychotic Disorders",
+          "items": [
+            {
+              "id": "m62",
+              "name": "Schizophrenia"
+            },
+            {
+              "id": "m63",
+              "name": "Schizoaffective Disorder"
+            },
+            {
+              "id": "m64",
+              "name": "Brief Psychotic Disorder"
+            },
+            {
+              "id": "m65",
+              "name": "Substance-Induced Psychosis"
+            }
+          ]
+        },
+        {
+          "id": "somatic",
+          "label": "Somatic, Dissociative, Sleep & Socio-Cultural",
+          "items": [
+            {
+              "id": "m66",
+              "name": "Somatic Symptom Disorder"
+            },
+            {
+              "id": "m67",
+              "name": "Dissociative Identity Disorder (DID)"
+            },
+            {
+              "id": "m68",
+              "name": "Depersonalization / Derealization Disorder"
+            },
+            {
+              "id": "m69",
+              "name": "Insomnia Disorder"
+            },
+            {
+              "id": "m70",
+              "name": "Hypersomnia"
+            },
+            {
+              "id": "m71",
+              "name": "Delayed Sleep Phase Disorder"
+            },
+            {
+              "id": "m72",
+              "name": "Academic Stress Disorder"
+            },
+            {
+              "id": "m73",
+              "name": "Unemployment Depression (Ma1)"
+            },
+            {
+              "id": "m74",
+              "name": "Substance-Induced Mood Disorder"
+            },
+            {
+              "id": "m75",
+              "name": "Cultural & Spiritual Distress"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "lesson-1",
+    "title": "Understanding Substance Abuse",
+    "pillar": "Knowledge",
+    "grade": "Form 1-2",
+    "duration": "45 min",
+    "objectives": [
+      "Define substance abuse and distinguish between use, misuse, and abuse",
+      "Identify common substances of abuse in Zimbabwe",
+      "Explain short-term and long-term effects on health"
+    ],
+    "materials": ["Whiteboard and markers", "Printed Myth-Fact cards", "Student worksheet"],
+    "activities": [
+      { "time": "5 min", "activity": "Warm-up: Ask 'What do you know about drugs?' — write responses on board" },
+      { "time": "10 min", "activity": "Mini-lecture: Types of substances and how they affect the brain" },
+      { "time": "15 min", "activity": "Group work: Sort Myth-Fact cards into true and false" },
+      { "time": "10 min", "activity": "Discussion: Why do people start using substances?" },
+      { "time": "5 min", "activity": "Reflection: Students write one thing they learned" }
+    ],
+    "assessment": "Worksheet completion + class discussion participation"
+  },
+  {
+    "id": "lesson-2",
+    "title": "Peer Pressure Skills",
+    "pillar": "Life Skills",
+    "grade": "Form 2-4",
+    "duration": "60 min",
+    "objectives": [
+      "Recognise different forms of peer pressure",
+      "Practice assertive refusal techniques",
+      "Develop personal strategies for resisting pressure"
+    ],
+    "materials": ["Scenario cards", "Role-play props", "Student journal"],
+    "activities": [
+      { "time": "10 min", "activity": "Ice-breaker: 'Never have I ever' (non-substance version)" },
+      { "time": "15 min", "activity": "Scenario reading: Students read aloud different peer pressure situations" },
+      { "time": "20 min", "activity": "Role-play: Practice saying NO in pairs using the STOP technique" },
+      { "time": "10 min", "activity": "Strategy building: Create personal refusal scripts" },
+      { "time": "5 min", "activity": "Journal reflection: Write about a time you faced pressure" }
+    ],
+    "assessment": "Role-play demonstration + journal entry"
+  },
+  {
+    "id": "lesson-3",
+    "title": "My Mental Health Matters",
+    "pillar": "Wellbeing",
+    "grade": "Form 1-4",
+    "duration": "45 min",
+    "objectives": [
+      "Identify signs of mental health challenges",
+      "Reduce stigma around mental health",
+      "Know where to seek help"
+    ],
+    "materials": ["Feelings chart", "Resource list", "Reflection worksheet"],
+    "activities": [
+      { "time": "5 min", "activity": "Check-in: How are you feeling right now? Point to the chart" },
+      { "time": "15 min", "activity": "Video or story: A young person's mental health journey" },
+      { "time": "15 min", "activity": "Discussion: What affects mental health? Brainstorm factors" },
+      { "time": "10 min", "activity": "Resource mapping: Where can you get help in your area?" }
+    ],
+    "assessment": "Reflection worksheet + class participation"
+  },
+  {
+    "id": "lesson-4",
+    "title": "Building Healthy Habits",
+    "pillar": "Habits",
+    "grade": "Form 1-3",
+    "duration": "40 min",
+    "objectives": [
+      "Understand how habits form",
+      "Identify one positive habit to build",
+      "Create a 7-day habit plan"
+    ],
+    "materials": ["Habit loop diagram", "Planner worksheet", "Timer"],
+    "activities": [
+      { "time": "5 min", "activity": "Discussion: What's one habit you do every day without thinking?" },
+      { "time": "10 min", "activity": "Teach the habit loop: Cue → Routine → Reward" },
+      { "time": "15 min", "activity": "Activity: Map your own habits using the habit loop" },
+      { "time": "10 min", "activity": "Planning: Create a 7-day plan for one new positive habit" }
+    ],
+    "assessment": "Habit plan completion + 7-day check-in"
+  }
+]

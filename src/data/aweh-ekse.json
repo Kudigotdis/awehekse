@@ -1,0 +1,1399 @@
+{
+  "mission": {
+    "title": "Aweh Ekse! - Mission & Values",
+    "subtitle": "Educate, Equidistant & Connect",
+    "splash": "\"Aweh Ekse! Educates everyone, equidistantly, and connects communities to end addiction, unmask conditioning, and build better brains in Zimbabwe and across SADC.\"",
+    "accordions": [
+      {
+        "title": "1. EDUCATE",
+        "subtitle": "Knowledge • Library, Dictionary, Insights",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Educating the entire ecosystem that shapes a young person's brain without shame or jargon."
+          },
+          {
+            "type": "card",
+            "heading": "Young People (Ages 13–25)",
+            "text": "\"Better Brains\" education. Plain language and real data showing how substances and algorithms hijack the developing prefrontal cortex."
+          },
+          {
+            "type": "para",
+            "text": "\"Better Brains\" education. Plain language and real data showing how substances and algorithms hijack the developing prefrontal cortex."
+          },
+          {
+            "type": "card",
+            "heading": "Parents, Teachers & Community",
+            "text": "Actionable tools to recognize early warning signs, initiate tough conversations, and stop stigma."
+          },
+          {
+            "type": "para",
+            "text": "Actionable tools to recognize early warning signs, initiate tough conversations, and stop stigma."
+          },
+          {
+            "type": "card",
+            "heading": "Health & Legal Professionals",
+            "text": "A verified Library & Dictionary with clinical, cultural, and SADC-specific context. Pro Cards for doctors, lawyers, and counselors."
+          },
+          {
+            "type": "para",
+            "text": "A verified Library & Dictionary with clinical, cultural, and SADC-specific context. Pro Cards for doctors, lawyers, and counselors."
+          },
+          {
+            "type": "card",
+            "heading": "Policymakers, NGOs & Donors",
+            "text": "Anonymized data, SMART campaign reports, and real impact metrics proving what works."
+          },
+          {
+            "type": "para",
+            "text": "Anonymized data, SMART campaign reports, and real impact metrics proving what works."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Library",
+              "Dictionary",
+              "Did You Know",
+              "Insights"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. EQUIDISTANT",
+        "subtitle": "Independence • Fact-Checking, Zero Ads",
+        "image": "",
+        "blocks": [
+          {
+            "type": "callout",
+            "text": "No Bias. No Industry Money. No Favorites. We stand in the middle to guarantee transparent and uncompromised truth."
+          },
+          {
+            "type": "card",
+            "heading": "Zero Industry Funding",
+            "text": "We do not take funding from alcohol, tobacco, gambling, pharma, or social media corporations."
+          },
+          {
+            "type": "para",
+            "text": "We do not take funding from alcohol, tobacco, gambling, pharma, or social media corporations."
+          },
+          {
+            "type": "card",
+            "heading": "Equal Visibility",
+            "text": "Rehabs, schools, and clinics receive equal platform visibility without pay-to-win bias."
+          },
+          {
+            "type": "para",
+            "text": "Rehabs, schools, and clinics receive equal platform visibility without pay-to-win bias."
+          },
+          {
+            "type": "card",
+            "heading": "Unapologetic Reality",
+            "text": "We rate alcohol as dangerous as heroin, and social media algorithms as addictive as nicotine."
+          },
+          {
+            "type": "para",
+            "text": "We rate alcohol as dangerous as heroin, and social media algorithms as addictive as nicotine."
+          },
+          {
+            "type": "quote",
+            "heading": "Our Stance",
+            "text": "\"Not pro-government. Not anti-government. Not pro-industry. Not anti-religion. We are pro-brain. Pro-truth. Pro-recovery.\""
+          },
+          {
+            "type": "para",
+            "text": "\"Not pro-government. Not anti-government. Not pro-industry. Not anti-religion. We are pro-brain. Pro-truth. Pro-recovery.\""
+          },
+          {
+            "type": "chips",
+            "items": [
+              "No Ads Policy",
+              "Transparent Funding",
+              "Fact-Checked"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. CONNECT",
+        "subtitle": "Action • HELP!, Pro Cards, Events",
+        "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=800&q=80",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "People to Help (HELP! Flow)",
+            "text": "Routes individuals to the right Professional, Rehab, Doctor, Lawyer, or Pastor in their area in under 60 seconds."
+          },
+          {
+            "type": "para",
+            "text": "Routes individuals to the right Professional, Rehab, Doctor, Lawyer, or Pastor in their area in under 60 seconds."
+          },
+          {
+            "type": "card",
+            "heading": "Professionals to Each Other",
+            "text": "The $20/month Pro Directory breaks down traditional silos between health, law, education, and faith sectors."
+          },
+          {
+            "type": "para",
+            "text": "The $20/month Pro Directory breaks down traditional silos between health, law, education, and faith sectors."
+          },
+          {
+            "type": "card",
+            "heading": "Communities to Campaigns",
+            "text": "Schools, NGOs, and churches run and report on community awareness campaigns from a single dashboard."
+          },
+          {
+            "type": "para",
+            "text": "Schools, NGOs, and churches run and report on community awareness campaigns from a single dashboard."
+          },
+          {
+            "type": "card",
+            "heading": "Data to Decisions",
+            "text": "Anonymous poll data and booking logs reveal real SADC substance trends rather than headline rumors."
+          },
+          {
+            "type": "para",
+            "text": "Anonymous poll data and booking logs reveal real SADC substance trends rather than headline rumors."
+          },
+          {
+            "type": "callout",
+            "text": "Direct Connections Made: • Connects a person in Bulawayo cutting at 11pm to a verified counselor. • Connects a teacher in Mutare needing lesson plans directly to the Library. • Connects a donor in Harare to a school running \"Cost Counts\"."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "HELP!",
+              "Pro Cards",
+              "Events",
+              "Polls",
+              "Rehab Directory"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "THE PROMISE BEHIND THE NAME",
+        "subtitle": "Ethos • Unmask, Unplug, Unlearn",
+        "image": "",
+        "blocks": [
+          {
+            "type": "quote",
+            "heading": "\"Aweh\" = We see you.\"Ekse\" = Now let’s do something about it.",
+            "text": "\"Aweh\" = We see you.\"Ekse\" = Now let’s do something about it."
+          },
+          {
+            "type": "para",
+            "text": "We are not here to lecture. We are here to Unmask the lies, Unplug the loops, and Unlearn the conditioning stealing a generation."
+          },
+          {
+            "type": "callout",
+            "text": "\"Until every Zimbabwean has the truth, the tools, and the people they need to choose a better brain, our work is not done.\""
+          }
+        ]
+      },
+      {
+        "title": "FULL MISSION (\"ABOUT US\")",
+        "subtitle": "Background • Ending Misinformation",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Silence and misinformation are the most dangerous drugs of all."
+          },
+          {
+            "type": "para",
+            "text": "Right now in Zimbabwe and across SADC, there is no single, trusted, central source of information about Addictive Substances, Conditioning Contents, and Mental Health."
+          },
+          {
+            "type": "card",
+            "heading": "The Current Reality",
+            "text": "• Young people get half-truths from TikTok. • Parents get fear from WhatsApp forwards. • Teachers get no training. • Health professionals have no central directory. • Rehabs remain hidden. • Police, pastors, and counselors work in isolation. • Harmful industries remain the loudest voices in the room."
+          },
+          {
+            "type": "para",
+            "text": "• Young people get half-truths from TikTok. • Parents get fear from WhatsApp forwards. • Teachers get no training. • Health professionals have no central directory. • Rehabs remain hidden. • Police, pastors, and counselors work in isolation. • Harmful industries remain the loudest voices in the room."
+          },
+          {
+            "type": "callout",
+            "text": "That ends here."
+          }
+        ]
+      }
+    ]
+  },
+  "unvertising": {
+    "title": "Aweh Ekse! - Unvertising Framework",
+    "subtitle": "Anti-Conditioning Strategy for Substances & Media",
+    "splash": "",
+    "accordions": [
+      {
+        "title": "1. UNVERTISING FOUNDATION",
+        "subtitle": "Definition, Core Purposes & Strategy Pillars",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Unvertising is an unconventional strategy that strips away traditional manipulative advertising elements in favor of radical transparency and real-time utility."
+          },
+          {
+            "type": "para",
+            "text": "Advertising: Turns your attention toward a corporate product, lifestyle illusion, or addictive loop. Unvertising: Turns your attention away from the trap, exposing the financial drain and psychological manipulation."
+          },
+          {
+            "type": "card",
+            "heading": "1. Trust Building",
+            "text": "Establishes immediate credibility by ditching corporate jargon, airbrushed models, and hype."
+          },
+          {
+            "type": "para",
+            "text": "Establishes immediate credibility by ditching corporate jargon, airbrushed models, and hype."
+          },
+          {
+            "type": "card",
+            "heading": "2. Friction Elimination",
+            "text": "Gives youth raw facts and instant utility without forcing them through sales funnels."
+          },
+          {
+            "type": "para",
+            "text": "Gives youth raw facts and instant utility without forcing them through sales funnels."
+          },
+          {
+            "type": "card",
+            "heading": "3. Fatigue Relief",
+            "text": "Gives audiences a break from constant digital noise, sponsored posts, and aggressive calls-to-action."
+          },
+          {
+            "type": "para",
+            "text": "Gives audiences a break from constant digital noise, sponsored posts, and aggressive calls-to-action."
+          },
+          {
+            "type": "card",
+            "heading": "4. Community Alignment",
+            "text": "Builds authentic grassroots solidarity by respecting consumer intelligence and cultural context."
+          },
+          {
+            "type": "para",
+            "text": "Builds authentic grassroots solidarity by respecting consumer intelligence and cultural context."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Transparency",
+              "Anti-Hype",
+              "Frictionless",
+              "Street Trust"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. TACTICAL CAMPAIGN CONCEPTS",
+        "subtitle": "Receipt Invoice, Ingredient Label & Guerrilla Text",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Unvertising media must look like raw data, plain-text warnings, or whistleblowing memos."
+          },
+          {
+            "type": "card",
+            "heading": "Nutrition Label Fact Check",
+            "text": "Promised: Luxury cars, status, zero stress. Conditioning Hid: High manufacturing costs, chemical depression, real debt. Reality Check: You are buying a product designed to keep your mind occupied so you don't build real equity."
+          },
+          {
+            "type": "para",
+            "text": "Promised: Luxury cars, status, zero stress. Conditioning Hid: High manufacturing costs, chemical depression, real debt. Reality Check: You are buying a product designed to keep your mind occupied so you don't build real equity."
+          },
+          {
+            "type": "para",
+            "text": "\"Drugs cost money. Addiction is expensive. Who convinced us that being broke and dependent was a hustle? Aweh Ekse! Wake up to the programming.\""
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Receipt Invoice",
+              "Ingredient Label",
+              "Guerrilla Stencil"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. 3 DECONDITIONING PILLARS & NEUROSCIENCE",
+        "subtitle": "Unmask, Unplug, Unlearn & Biological Threshold",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "1. UNMASK (Media Literacy)",
+            "text": "Exposing how algorithms, targeted digital ads, and glamorized media exploit the brain's dopamine system. Decoding coded drug slang and double-entendres in music videos."
+          },
+          {
+            "type": "para",
+            "text": "Exposing how algorithms, targeted digital ads, and glamorized media exploit the brain's dopamine system. Decoding coded drug slang and double-entendres in music videos."
+          },
+          {
+            "type": "card",
+            "heading": "2. UNPLUG (Environment Purge)",
+            "text": "Systematically purging physical and digital triggers. Muting toxic social media accounts and physically avoiding drug hubs and high-risk social spaces."
+          },
+          {
+            "type": "para",
+            "text": "Systematically purging physical and digital triggers. Muting toxic social media accounts and physically avoiding drug hubs and high-risk social spaces."
+          },
+          {
+            "type": "card",
+            "heading": "3. UNLEARN (Behavioral Rewiring)",
+            "text": "Reversing mental associations that claim chemical escape is needed for stress. Replacing toxic habits with real-world community action and healthy coping mechanisms."
+          },
+          {
+            "type": "para",
+            "text": "Reversing mental associations that claim chemical escape is needed for stress. Replacing toxic habits with real-world community action and healthy coping mechanisms."
+          },
+          {
+            "type": "para",
+            "text": "The Prefrontal Cortex (impulse control & planning) is under active construction and does not fully mature until age 25. Whichever chemical or digital loop is run repeatedly during this phase becomes hardwired through myelination."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Unmask",
+              "Unplug",
+              "Unlearn",
+              "Age 25 Threshold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. MEDIA CONDITIONING ECOSYSTEM",
+        "subtitle": "TV, TikTok, Instagram, Radio & Dead Internet Bots",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Modern media operates as an interconnected psychological conditioning engine designed to weaponize insecurity for commercial profit."
+          },
+          {
+            "type": "card",
+            "heading": "1. Television",
+            "text": "Bypasses critical thinking by embedding toxic relationship dynamics, unfaithfulness, and desensitizing violence into high-emotion soap opera narrative arcs."
+          },
+          {
+            "type": "para",
+            "text": "Bypasses critical thinking by embedding toxic relationship dynamics, unfaithfulness, and desensitizing violence into high-emotion soap opera narrative arcs."
+          },
+          {
+            "type": "card",
+            "heading": "2. Social Media Dopamine Traps",
+            "text": "• TikTok: Short-form video loops shatter human attention spans. • Instagram: Manufactured aesthetic perfection triggers body dysmorphia & depression. • X / Twitter: Rewards cruelty, outrage, and unchecked adult content. • Facebook: Amplifies polarizing rage-bait echo chambers."
+          },
+          {
+            "type": "para",
+            "text": "• TikTok: Short-form video loops shatter human attention spans. • Instagram: Manufactured aesthetic perfection triggers body dysmorphia & depression. • X / Twitter: Rewards cruelty, outrage, and unchecked adult content. • Facebook: Amplifies polarizing rage-bait echo chambers."
+          },
+          {
+            "type": "card",
+            "heading": "3. Radio Background Programmer",
+            "text": "Heavy rotation forces familiarity (Mere Exposure Effect). Listeners naturally mistake audio repetition for cultural correctness and safety."
+          },
+          {
+            "type": "para",
+            "text": "Heavy rotation forces familiarity (Mere Exposure Effect). Listeners naturally mistake audio repetition for cultural correctness and safety."
+          },
+          {
+            "type": "para",
+            "text": "Much of digital consensus is an automated lie. Automated bot networks artificially inflate views, spam comments, and fabricate fake viral trends to gaslight real humans into adopting toxic behavioral traits."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "TikTok Dopamine",
+              "Mere Exposure",
+              "Bot Matrix",
+              "Dead Internet"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. ZIM MUSIC GENRES & SOVEREIGNTY",
+        "subtitle": "Zimdancehall, Zim Hip Hop, Gospel & Deprogramming",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "Coded Slang Weaponization",
+            "text": "Calling crystal meth \"Mutoriro\" or \"Dombo\" strips away clinical horror, turning lethal chemicals into trendy pop-culture tokens."
+          },
+          {
+            "type": "para",
+            "text": "Calling crystal meth \"Mutoriro\" or \"Dombo\" strips away clinical horror, turning lethal chemicals into trendy pop-culture tokens."
+          },
+          {
+            "type": "card",
+            "heading": "Lethal Drug Mixtures",
+            "text": "Zim Hip Hop normalizes codeine (\"Lean\") & Xanax for emotional numbness. Zimdancehall frames Meth (\"Guka\") as necessary fuel for physical stamina."
+          },
+          {
+            "type": "para",
+            "text": "Zim Hip Hop normalizes codeine (\"Lean\") & Xanax for emotional numbness. Zimdancehall frames Meth (\"Guka\") as necessary fuel for physical stamina."
+          },
+          {
+            "type": "para",
+            "text": "• Enforce Asymmetrical Consumption: Treat social media strictly as a tool for production, turning off algorithmic feeds. • Practice Digital Hygiene: Purge feeds of accounts promoting cruelty or chemical numbness. • Expose the Bot Illusion: Consciously remember the Bot Matrix when viewing viral outrage."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Mutoriro",
+              "Guka / Lean",
+              "Hopeium",
+              "Sovereignty"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cost-counts": {
+    "title": "Aweh Ekse! - Cost Counts",
+    "subtitle": "The Money Truth Nobody Talks About",
+    "splash": "",
+    "accordions": [
+      {
+        "title": "1. THE REAL MATH & COST CALCULATOR",
+        "subtitle": "Chapter 1 • ZW Math: Vapes, Beer, Data & Hidden Taxes",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Average formal salary in ZW: ~$250–$400/month. Average student allowance: ~$30–$100/month. Here is what addiction actually costs:"
+          },
+          {
+            "type": "para",
+            "text": "If you start at 18 spending $200/month on substances and data, by age 25 you have burned $16,800. That is a car, a house deposit, or 4 years of university fees."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Vape $1800/yr",
+              "Beer $3600/yr",
+              "Data Tax $600/yr",
+              "Hidden Fees"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. WHO PROFITS FROM YOU",
+        "subtitle": "Chapter 2 • 5 Target Industries & The Golden Customer",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "1. Alcohol Industry (\"The Social Tax\")",
+            "text": "Sells volume. Targets 18–35 males. Cheap beer ($1.50) requires 6 to feel it ($9). Sponsors soccer & music festivals."
+          },
+          {
+            "type": "para",
+            "text": "Sells volume. Targets 18–35 males. Cheap beer ($1.50) requires 6 to feel it ($9). Sponsors soccer & music festivals."
+          },
+          {
+            "type": "card",
+            "heading": "2. Tobacco & Vape Industry (\"The Replacement Plan\")",
+            "text": "Needs new youth customers as older smokers die. Flavours like mango/strawberry sold right next to sweets at school tuckshops."
+          },
+          {
+            "type": "para",
+            "text": "Needs new youth customers as older smokers die. Flavours like mango/strawberry sold right next to sweets at school tuckshops."
+          },
+          {
+            "type": "card",
+            "heading": "3. Betting & Gambling (\"The Poverty Tax\")",
+            "text": "House wins 5–10% of all bets. Targets underemployed men with Ecocash 1-click payments. Displays winners, hides losers."
+          },
+          {
+            "type": "para",
+            "text": "House wins 5–10% of all bets. Targets underemployed men with Ecocash 1-click payments. Displays winners, hides losers."
+          },
+          {
+            "type": "card",
+            "heading": "4. Social Media & Big Tech (\"Attention Economy\")",
+            "text": "Sells your attention. 1M youth spending $30/mo data = $30 Million/month to Telcos & Big Tech platforms."
+          },
+          {
+            "type": "para",
+            "text": "Sells your attention. 1M youth spending $30/mo data = $30 Million/month to Telcos & Big Tech platforms."
+          },
+          {
+            "type": "card",
+            "heading": "5. Conditioning Content (Porn, Forex \"Signals\")",
+            "text": "Free first teaser → $20/month \"VIP Signal Group\" subscriptions promising instant wealth or status."
+          },
+          {
+            "type": "para",
+            "text": "Free first teaser → $20/month \"VIP Signal Group\" subscriptions promising instant wealth or status."
+          },
+          {
+            "type": "para",
+            "text": "Age 18–25, Urban, $50–$300/month allowance. Why? Has allowance money, phone, data, Ecocash, lives near shops, and their brain's PFC brakes aren't done yet. Hooking them at 18 yields 40+ years of lifetime spending."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Golden Customer",
+              "1-Click Ecocash",
+              "Vape Flavours",
+              "VIP Signals"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. THE DATA TRAP & SIGNAL MAP",
+        "subtitle": "Chapter 3 • Why Bundles Are The Gateway in Cities",
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Phone addiction is not a rural problem—it is an urban consumer trap. To be addicted to scrolling, betting apps, or porn, you need 4G Signal + $40/month in Data Bundles."
+          },
+          {
+            "type": "card",
+            "heading": "4 Reasons Data Traps Are Worse Than Drugs",
+            "text": "1. Legal & Parent-Funded: Parents send \"$20 for school data\". 2. 24/7 & Private: Lives in your bedroom at 2am. 3. Algorithmic Push: App sends notifications to pull you back. 4. Lifetime Dependency: You can't quit data because you need WhatsApp for school/work."
+          },
+          {
+            "type": "para",
+            "text": "1. Legal & Parent-Funded: Parents send \"$20 for school data\". 2. 24/7 & Private: Lives in your bedroom at 2am. 3. Algorithmic Push: App sends notifications to pull you back. 4. Lifetime Dependency: You can't quit data because you need WhatsApp for school/work."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Data Pipeline",
+              "4G Urban Map",
+              "Tech Neck",
+              "$600/yr Scroll"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. THE POVERTY LOOP & ESCAPE",
+        "subtitle": "Chapter 4 • The 4-Step Cycle & 1% Break Rule",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "1. Stressor: No job, school stress, relationship anxiety. 2. Cheap Escape: Spend $5 on beer, vape, data, or bet. 3. The Cost: Now $5 poorer + hangover + missed work. 4. Coping with Cost: Feel ashamed & stressed → Spend $5 to feel better again. LOOP REPEATS."
+          },
+          {
+            "type": "card",
+            "heading": "Type 1: Allowance Loop (Ages 16–22)",
+            "text": "Receives $100 allowance → $40 data, $30 vapes, $20 bets → Broke by week 3 → Borrow & scroll to cope."
+          },
+          {
+            "type": "para",
+            "text": "Receives $100 allowance → $40 data, $30 vapes, $20 bets → Broke by week 3 → Borrow & scroll to cope."
+          },
+          {
+            "type": "card",
+            "heading": "Type 2: Hustle Loop (Ages 18–30)",
+            "text": "Earns $100 gig money → $50 data to \"hustle online\", $30 beer to \"network\", $20 bets to \"get lucky\" → $0 capital left to start real business."
+          },
+          {
+            "type": "para",
+            "text": "Earns $100 gig money → $50 data to \"hustle online\", $30 beer to \"network\", $20 bets to \"get lucky\" → $0 capital left to start real business."
+          },
+          {
+            "type": "card",
+            "heading": "Type 3: Family Loop (Ages 25–40)",
+            "text": "$400 salary → $100 alcohol for stress → Can't pay school fees → Borrow from loan sharks → High interest stress."
+          },
+          {
+            "type": "para",
+            "text": "$400 salary → $100 alcohol for stress → Can't pay school fees → Borrow from loan sharks → High interest stress."
+          },
+          {
+            "type": "para",
+            "text": "Don't quit 100% instantly. Reduce 1% each week: • Spend $20 this week instead of $25. • Scroll 3 hrs/day instead of 4 hrs. • Save $5/week in an automated lock box."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "4-Step Cycle",
+              "Allowance Loop",
+              "Hustle Loop",
+              "1% Rule"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. THE MARKETING MACHINE & TOOLS",
+        "subtitle": "Chapter 5 • Influencer Tactics & In-App Cost Calculator",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "1. Influencer Marketing",
+            "text": "Local TikTokers & IG celebs paid to show vapes, betting bonus codes, or club tables as \"lifestyle goals\"."
+          },
+          {
+            "type": "para",
+            "text": "Local TikTokers & IG celebs paid to show vapes, betting bonus codes, or club tables as \"lifestyle goals\"."
+          },
+          {
+            "type": "card",
+            "heading": "2. Lifestyle Association",
+            "text": "Associating alcohol with \"real men & soccer success\", and vapes with \"tech-savvy cool youth\"."
+          },
+          {
+            "type": "para",
+            "text": "Associating alcohol with \"real men & soccer success\", and vapes with \"tech-savvy cool youth\"."
+          },
+          {
+            "type": "card",
+            "heading": "3. Gamification & Near Misses",
+            "text": "Betting apps showing \"Cash Out\" and \"You almost won!\" to trick the brain into feeling a win."
+          },
+          {
+            "type": "para",
+            "text": "Betting apps showing \"Cash Out\" and \"You almost won!\" to trick the brain into feeling a win."
+          },
+          {
+            "type": "card",
+            "heading": "4. Free Teasers & Upsells",
+            "text": "Free forex signal previews → $20 VIP group. Free porn → Paid subscriptions."
+          },
+          {
+            "type": "para",
+            "text": "Free forex signal previews → $20 VIP group. Free porn → Paid subscriptions."
+          },
+          {
+            "type": "card",
+            "heading": "5. Flavour & Tech Design",
+            "text": "Sleek vape pods with sweet fruit flavours sold next to sweets at tuckshops."
+          },
+          {
+            "type": "para",
+            "text": "Sleek vape pods with sweet fruit flavours sold next to sweets at tuckshops."
+          },
+          {
+            "type": "card",
+            "heading": "6. Algorithmic Retargeting",
+            "text": "Click a betting link once → ads follow you on Facebook, Instagram, and web browsers 24/7."
+          },
+          {
+            "type": "para",
+            "text": "Click a betting link once → ads follow you on Facebook, Instagram, and web browsers 24/7."
+          },
+          {
+            "type": "card",
+            "heading": "7. Misdirection & Class Blame",
+            "text": "Pushing the lie that \"addiction is a poor person's choice\" so middle-class parents don't audit phone data bills."
+          },
+          {
+            "type": "para",
+            "text": "Pushing the lie that \"addiction is a poor person's choice\" so middle-class parents don't audit phone data bills."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Influencer Ads",
+              "Cost Calc",
+              "Ecocash Pause",
+              "Opt-Out"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "better-brains": {
+    "title": "Aweh Ekse! - Better Brains",
+    "subtitle": "Why Substances & Content Hit Harder Under 25",
+    "splash": "",
+    "accordions": [
+      {
+        "title": "THE BIG PICTURE: CAR ANALOGY",
+        "subtitle": "Science • Limbic Engine vs PFC Brakes",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Ages 13–18: Ferrari Engine installed (Limbic System = Feelings, Rewards, Risk). Ages 18–25: Installing Brakes + GPS (Prefrontal Cortex PFC = Logic, Planning, Control). At ~25: The car is complete."
+          },
+          {
+            "type": "para",
+            "text": "Under 25 = Full gas, half brakes. Adulthood feeling late is biology, not laziness."
+          },
+          {
+            "type": "card",
+            "heading": "1. Reward Hijack is 10x Stronger",
+            "text": "Teen dopamine is 2–3x more sensitive. Drugs/vapes dump 10x more dopamine. The brain logs it as \"LIFE OR DEATH SURVIVAL\"."
+          },
+          {
+            "type": "para",
+            "text": "Teen dopamine is 2–3x more sensitive. Drugs/vapes dump 10x more dopamine. The brain logs it as \"LIFE OR DEATH SURVIVAL\"."
+          },
+          {
+            "type": "card",
+            "heading": "2. Learning & Memory Get Rewired",
+            "text": "The Hippocampus is growing. Alcohol, weed, and benzos create fewer new brain cells. Party = Drug = Fun becomes a permanent wire."
+          },
+          {
+            "type": "para",
+            "text": "The Hippocampus is growing. Alcohol, weed, and benzos create fewer new brain cells. Party = Drug = Fun becomes a permanent wire."
+          },
+          {
+            "type": "card",
+            "heading": "3. The \"Brakes\" Aren't Wired Yet",
+            "text": "The PFC can't say \"wait\" fast enough. Impulsivity is incomplete hardware wiring, not personal weakness."
+          },
+          {
+            "type": "para",
+            "text": "The PFC can't say \"wait\" fast enough. Impulsivity is incomplete hardware wiring, not personal weakness."
+          },
+          {
+            "type": "card",
+            "heading": "4. Body Processes Drugs Differently",
+            "text": "Liver breakdown enzymes aren't full speed. Teens have less body water, concentrating alcohol and THC higher for longer."
+          },
+          {
+            "type": "para",
+            "text": "Liver breakdown enzymes aren't full speed. Teens have less body water, concentrating alcohol and THC higher for longer."
+          },
+          {
+            "type": "card",
+            "heading": "5. Mental Health Window is Open",
+            "text": "75% of mental illnesses start by age 24. Cannabis + genetic risk brings schizophrenia onset 2–3 years earlier."
+          },
+          {
+            "type": "para",
+            "text": "75% of mental illnesses start by age 24. Cannabis + genetic risk brings schizophrenia onset 2–3 years earlier."
+          },
+          {
+            "type": "card",
+            "heading": "6. Conditioning Content Hits Same Circuit",
+            "text": "Infinite scroll, porn, sports betting, and rage-bait trigger the exact same limbic reward loop as nicotine and cocaine."
+          },
+          {
+            "type": "para",
+            "text": "Infinite scroll, porn, sports betting, and rage-bait trigger the exact same limbic reward loop as nicotine and cocaine."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Ferrari Engine",
+              "PFC Brakes",
+              "Dopamine 10x",
+              "Under 25"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CHAPTER 1: MECHANISM",
+        "subtitle": "Biology • Pruning, Myelination & Dopamine",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "Team 1: Limbic System (\"Gas Pedal\")",
+            "text": "Matures: ~12–13. • Amygdala: Feelings, fear, alarm on full blast. • Nucleus Accumbens: Craves novelty, likes, vapes, bets, scrolls."
+          },
+          {
+            "type": "para",
+            "text": "Matures: ~12–13. • Amygdala: Feelings, fear, alarm on full blast. • Nucleus Accumbens: Craves novelty, likes, vapes, bets, scrolls."
+          },
+          {
+            "type": "card",
+            "heading": "Team 2: Prefrontal Cortex PFC (\"The CEO / Brakes\")",
+            "text": "Matures: LAST (~25). • Jobs: \"Wait, what are consequences?\", \"Is this worth it?\", \"Control your mouth\", \"Plan for next week\"."
+          },
+          {
+            "type": "para",
+            "text": "Matures: LAST (~25). • Jobs: \"Wait, what are consequences?\", \"Is this worth it?\", \"Control your mouth\", \"Plan for next week\"."
+          },
+          {
+            "type": "para",
+            "text": "Scans prove white matter (myelin) in the PFC increases every year until mid-20s. The last wires to connect are CEO to Emotions. Average completion: Girls ~22–24 | Boys ~24–26."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Synaptic Pruning",
+              "Myelination",
+              "Amygdala",
+              "fMRI Proof"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CHAPTER 2: DEMOGRAPHICS",
+        "subtitle": "Risk Profile • Waves, Gender & Zim/SADC Context",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "Gender Timing Differences",
+            "text": "Girls (~22–24 PFC): Faster jump from first use to dependence (\"telescoping\"). Higher alcohol sensitivity. Boys (~24–26 PFC): Higher binge drinking, cannabis, and risk-taking. Less likely to ask for help early."
+          },
+          {
+            "type": "para",
+            "text": "Girls (~22–24 PFC): Faster jump from first use to dependence (\"telescoping\"). Higher alcohol sensitivity. Boys (~24–26 PFC): Higher binge drinking, cannabis, and risk-taking. Less likely to ask for help early."
+          },
+          {
+            "type": "para",
+            "text": "• Substances: Cheap GTL beer, Broncleer (codeine syrup), Mutoriro (crystal meth), vapes. • Conditioning: Betting shops on every corner targeting 18–25 males. Data bundles for 24/7 TikTok & gambling. • Pressure: Youth unemployment stress, 7am school sleep deprivation."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Wave 3 Storm",
+              "Broncleer",
+              "Mutoriro",
+              "SADC Context"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PROTECTION PLAYBOOK",
+        "subtitle": "6 Rules • Delay, Dose, Sleep & Action",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Protection must be stronger because brain risk is higher until 25."
+          },
+          {
+            "type": "card",
+            "heading": "1. DELAY",
+            "text": "Every year you wait = lower lifetime risk. \"Not never. Just not now.\" Waiting until 21 cuts addiction risk by 50%; waiting to 25 cuts it by 70%."
+          },
+          {
+            "type": "para",
+            "text": "Every year you wait = lower lifetime risk. \"Not never. Just not now.\" Waiting until 21 cuts addiction risk by 50%; waiting to 25 cuts it by 70%."
+          },
+          {
+            "type": "card",
+            "heading": "2. DOSE",
+            "text": "Bingeing causes brain injury. 4+ drinks = teen damage threshold. 1 vape pod = nicotine of 20 cigarettes."
+          },
+          {
+            "type": "para",
+            "text": "Bingeing causes brain injury. 4+ drinks = teen damage threshold. 1 vape pod = nicotine of 20 cigarettes."
+          },
+          {
+            "type": "card",
+            "heading": "3. SLEEP 8–10 HOURS",
+            "text": "Sleep is when synaptic pruning and myelin repair happen. No sleep = brain cannot repair construction work."
+          },
+          {
+            "type": "para",
+            "text": "Sleep is when synaptic pruning and myelin repair happen. No sleep = brain cannot repair construction work."
+          },
+          {
+            "type": "card",
+            "heading": "4. MOVE & EAT",
+            "text": "Exercise builds PFC connections. Proper nutrition stabilizes mood so you don't use on an empty stomach or tired brain."
+          },
+          {
+            "type": "para",
+            "text": "Exercise builds PFC connections. Proper nutrition stabilizes mood so you don't use on an empty stomach or tired brain."
+          },
+          {
+            "type": "card",
+            "heading": "5. CHECK FAMILY HISTORY",
+            "text": "Addiction is 40–60% genetic. If family members struggle, your personal risk is multiplied."
+          },
+          {
+            "type": "para",
+            "text": "Addiction is 40–60% genetic. If family members struggle, your personal risk is multiplied."
+          },
+          {
+            "type": "card",
+            "heading": "6. GET HELP EARLY",
+            "text": "Talk before it's a crisis. Quitting at 20 does far less long-term damage than quitting at 40 because the brain is still plastic."
+          },
+          {
+            "type": "para",
+            "text": "Talk before it's a crisis. Quitting at 20 does far less long-term damage than quitting at 40 because the brain is still plastic."
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Delay to 25",
+              "8-10h Sleep",
+              "Dose Control",
+              "Early Help"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "APP TOOLS & RISK CHECKER",
+        "subtitle": "Interactive • 24hr Pause, Consequence Wheel & Risk Calc",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "How \"Better Brains\" lives inside the Aweh Ekse! Mobile App:"
+          },
+          {
+            "type": "para",
+            "text": "Input age, gender, location, and substance/content use for a personalized brain protection report."
+          },
+          {
+            "type": "para",
+            "text": "An in-app tool to lock decisions for 24 hours before buying, vaping, betting, or posting."
+          },
+          {
+            "type": "para",
+            "text": "Visualizer mapping out: \"If I do X now → What happens in 1 week, 1 year, and 5 years?\""
+          },
+          {
+            "type": "chips",
+            "items": [
+              "Risk Calc",
+              "24hr Pause",
+              "Consequence Wheel",
+              "HELP! Link"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endless-exposure": {
+    "title": "Endless Exposure — Aweh Ekse Campaign",
+    "subtitle": "The Storm Never Stops. Build Shelter.",
+    "splash": "",
+    "accordions": [
+      {
+        "title": "🧠 The Core Idea",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "callout",
+            "text": "For a 16‑year‑old in Harare: Wakes up to TikTok, walks past alcohol ads, hears songs about lean, sees betting ads at school, gets WhatsApp forwards, and falls asleep scrolling. That’s not 100 repetitions. That’s 1 continuous exposure."
+          },
+          {
+            "type": "para",
+            "text": "Endless Exposure is living inside a system that delivers addictive substances and conditioning content 24/7, with no off‑switch."
+          },
+          {
+            "type": "para",
+            "text": "You don't have to seek it out. It finds you — in your pocket, on your street, in your music, in your classroom."
+          }
+        ]
+      },
+      {
+        "title": "⚡ Why It’s More Dangerous Than Repetition",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "compare",
+            "label": "",
+            "left": "",
+            "right": ""
+          },
+          {
+            "type": "compare",
+            "label": "",
+            "left": "",
+            "right": ""
+          },
+          {
+            "type": "compare",
+            "label": "",
+            "left": "",
+            "right": ""
+          },
+          {
+            "type": "compare",
+            "label": "",
+            "left": "",
+            "right": ""
+          },
+          {
+            "type": "callout",
+            "text": "🧬 Neuroscience: The brain needs downtime to reset dopamine. Without it: anxiety, numbness, poor decisions, and the belief that \"this is just life.\""
+          },
+          {
+            "type": "para",
+            "text": "Repetition trains you. Endless Exposure breaks you down."
+          }
+        ]
+      },
+      {
+        "title": "📡 The 5 Channels in SADC",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Tap each channel to select & see details. Your audit will only include selected channels."
+          }
+        ]
+      },
+      {
+        "title": "🔍 Exposure Audit",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "\"In the last 24 hours, where could you NOT escape?\""
+          }
+        ]
+      },
+      {
+        "title": "🌅 Digital Sunset",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Auto DND 9pm–6am. Delete 1 app for 7 days. Grayscale mode after 8pm. Charge phone outside bedroom."
+          },
+          {
+            "type": "para",
+            "text": "Map low‑ad walking routes to school. Partner for Ad‑Free Zones."
+          },
+          {
+            "type": "para",
+            "text": "Curated playlists without substance lyrics. Afro‑soul, Gospel, Instrumental."
+          },
+          {
+            "type": "para",
+            "text": "Link hustle to skills, not betting. Financial counselors available."
+          }
+        ]
+      },
+      {
+        "title": "📢 Key Messages",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Youth \"You’re not lazy. You’re exhausted.\""
+          },
+          {
+            "type": "para",
+            "text": "Parents \"Give them quiet.\""
+          },
+          {
+            "type": "para",
+            "text": "Hard Truth \"They made the world addictive. We’re making places that aren’t.\""
+          }
+        ]
+      },
+      {
+        "title": "💎 The Deep Truth",
+        "subtitle": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "callout",
+            "text": "Aweh Ekse proves a quiet, boring, non‑addictive life is still possible."
+          },
+          {
+            "type": "para",
+            "text": "Reduced Repetition asks \"How do we do less?\" Endless Exposure asks \"How do we exist at all?\""
+          },
+          {
+            "type": "para",
+            "text": "Win Condition \"I had 1 hour of peace.\""
+          }
+        ]
+      }
+    ]
+  },
+  "reduce-repetition": {
+    "title": "Aweh Ekse! — Reduced Repetition App",
+    "subtitle": "Neuroscience & Exposure Control App",
+    "splash": "",
+    "accordions": [
+      {
+        "title": "1. Why Repetition is the Real Drug",
+        "subtitle": "Pillar Deep Dive",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "Neuroscience & Prefrontal Cortex",
+            "text": ""
+          },
+          {
+            "type": "heading",
+            "text": "Brain Exposure Stages:"
+          },
+          {
+            "type": "para",
+            "text": "Your prefrontal cortex (especially under age 25) learns through repetition. Industries engineer environments to exploit this mechanism."
+          },
+          {
+            "type": "para",
+            "text": "Hebbian Learning: \"Neurons that fire together, wire together.\""
+          },
+          {
+            "type": "para",
+            "text": "Result: You don’t choose the substance. Repetition chose it for you."
+          },
+          {
+            "type": "para",
+            "text": "• 1st Exposure: Brain alert: \"Is this safe?\""
+          },
+          {
+            "type": "para",
+            "text": "• 3rd–7th: Resistance drops: \"This is normal.\""
+          },
+          {
+            "type": "para",
+            "text": "• 20th+: Baseline set: \"Part of my world.\""
+          },
+          {
+            "type": "para",
+            "text": "• 100th+: Brain rewires. Cravings take over."
+          },
+          {
+            "type": "callout",
+            "text": "Result: You don’t choose the substance. Repetition chose it for you."
+          }
+        ]
+      },
+      {
+        "title": "2. The 4 Repetition Types We Target",
+        "subtitle": "Target Matrix",
+        "image": "",
+        "blocks": []
+      },
+      {
+        "title": "3. Repetition Tracker & Pattern Breaker",
+        "subtitle": "Interactive App",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "Tool A: Repetition Tracker",
+            "text": ""
+          },
+          {
+            "type": "card",
+            "heading": "Tool B: Pattern Breaker",
+            "text": ""
+          },
+          {
+            "type": "para",
+            "text": "Tap to log exposures seen today:"
+          },
+          {
+            "type": "para",
+            "text": "Set a habit replacement for your trigger time:"
+          }
+        ]
+      },
+      {
+        "title": "4. Key Messaging & Hard Truths",
+        "subtitle": "Campaign Copy",
+        "image": "",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Pillar Links:"
+          },
+          {
+            "type": "para",
+            "text": "Primary: REDUCED REPETITION. Less Exposure. More Control."
+          },
+          {
+            "type": "para",
+            "text": "Youth: They repeat it 100 times so you don’t question it once. Break the loop."
+          },
+          {
+            "type": "para",
+            "text": "Hard Truth: Heroin is dangerous. But repetition is what makes it normal."
+          },
+          {
+            "type": "para",
+            "text": "• Cost Counts: Every repetition costs money, time, & brain cells."
+          },
+          {
+            "type": "para",
+            "text": "• Better Brains: Under-25 brains wire 3x faster—and can unlearn 3x faster."
+          },
+          {
+            "type": "callout",
+            "text": "Primary: REDUCED REPETITION. Less Exposure. More Control."
+          },
+          {
+            "type": "callout",
+            "text": "Youth: They repeat it 100 times so you don’t question it once. Break the loop."
+          },
+          {
+            "type": "callout",
+            "text": "Hard Truth: Heroin is dangerous. But repetition is what makes it normal."
+          }
+        ]
+      },
+      {
+        "title": "5. Environment Design Over Willpower",
+        "subtitle": "Deep Truth",
+        "image": "",
+        "blocks": [
+          {
+            "type": "card",
+            "heading": "The Environmental Truth",
+            "text": ""
+          },
+          {
+            "type": "para",
+            "text": "Reduced Repetition isn’t about willpower. It’s about environment design."
+          },
+          {
+            "type": "para",
+            "text": "You cannot \"just say no\" to something you see 50 times a day. But you CAN change what you see 50 times a day."
+          },
+          {
+            "type": "para",
+            "text": "Aweh Ekse’s Job: Give people tools to edit their environment, not just fight cravings."
+          },
+          {
+            "type": "callout",
+            "text": "You cannot \"just say no\" to something you see 50 times a day. But you CAN change what you see 50 times a day."
+          }
+        ]
+      }
+    ]
+  },
+  "communication": {
+    "title": "Communicate & Conversate · Aweh Ekse",
+    "subtitle": "",
+    "splash": "",
+    "accordions": [
+      {
+        "title": "Text to Start",
+        "subtitle": "Copy-paste WhatsApp starters. Emojis optional.",
+        "image": "",
+        "blocks": [
+          {
+            "type": "starter",
+            "text": "Hey, saw this on Aweh Ekse and thought of you. Can I send it?"
+          },
+          {
+            "type": "starter",
+            "text": "No pressure, but if you ever wanna talk about [topic], I'm a safe space."
+          },
+          {
+            "type": "starter",
+            "text": "Ekse, you've been on my mind. You good? I'm here."
+          }
+        ]
+      },
+      {
+        "title": "Setting the Scene",
+        "subtitle": "Where & when to talk so it lands.",
+        "image": "",
+        "blocks": [
+          {
+            "type": "scene",
+            "label": "",
+            "text": ""
+          },
+          {
+            "type": "scene",
+            "label": "",
+            "text": ""
+          },
+          {
+            "type": "scene",
+            "label": "",
+            "text": ""
+          },
+          {
+            "type": "scene",
+            "label": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "title": "Talking Points",
+        "subtitle": "If they say X, you say Y. Backed by Library data.",
+        "image": "",
+        "blocks": []
+      },
+      {
+        "title": "Talking Point Generator AI",
+        "subtitle": "Select topic + who, get a 4‑point script in seconds.",
+        "image": "",
+        "blocks": []
+      },
+      {
+        "title": "Listen 2×",
+        "subtitle": "#1 reason kids don't talk: adults lecture. We teach listening.",
+        "image": "",
+        "blocks": [
+          {
+            "type": "method",
+            "title": "The 2× Listening Method",
+            "text": "LISTEN 1 — To Understand: Don't fix. Don't preach. Just hear. Reflect: \"What I'm hearing is you feel pressured. Did I get that right?\" Validate: \"That makes sense. Anyone would feel that way.\" Silence Counter: wait 5 seconds after they stop. LISTEN 2 — For the Ask: Under the words, what are they really asking? \"I'm so stressed\" → Help me cope \"Everyone vapes\" → Am I normal? \"I'm fine\" → Are you safe to tell?"
+          }
+        ]
+      },
+      {
+        "title": "Don'ts → Do's",
+        "subtitle": "Swipe or tap to flip through.",
+        "image": "",
+        "blocks": [
+          {
+            "type": "dodont",
+            "dont": "\"Just say no\"",
+            "do": "\"What makes it hard to say no?\""
+          },
+          {
+            "type": "dodont",
+            "dont": "\"You're grounded\"",
+            "do": "\"Let's figure this out together\""
+          },
+          {
+            "type": "dodont",
+            "dont": "\"I told you so\"",
+            "do": "\"Thank you for telling me\""
+          },
+          {
+            "type": "dodont",
+            "dont": "\"You'll be fine\"",
+            "do": "\"That sounds really hard. Tell me more.\""
+          },
+          {
+            "type": "dodont",
+            "dont": "\"Why did you do that?\"",
+            "do": "\"What was going on for you?\""
+          }
+        ]
+      },
+      {
+        "title": "Practice Mode bot",
+        "subtitle": "Pick a scenario, type your response. The bot scores you.",
+        "image": "",
+        "blocks": []
+      }
+    ]
+  },
+  "about": {
+    "title": "About Aweh Ekse!",
+    "subtitle": "The flagship campaign",
+    "splash": "",
+    "accordions": []
+  }
+}

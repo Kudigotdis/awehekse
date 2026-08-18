@@ -1,0 +1,146 @@
+[
+ {
+  "id": 1,
+  "claim": "\"Vaping is just safe water vapor that has no health risks.\"",
+  "isTrue": false,
+  "category": "substance",
+  "mechanism": "Chemical Exposure",
+  "explanation": "Vape aerosol contains nicotine, heavy metals, and carcinogens like formaldehyde. It's not water vapor — it causes lung inflammation, addiction, and cardiovascular strain. The \"safe water vapor\" myth is a tobacco industry marketing tactic."
+ },
+ {
+  "id": 2,
+  "claim": "\"Alcohol acts as a chemical stimulant in the brain.\"",
+  "isTrue": false,
+  "category": "substance",
+  "mechanism": "Depressant",
+  "explanation": "Alcohol is a central nervous system depressant — it enhances GABA activity to slow brain function. While it may initially lower inhibitions, it impairs motor control, cognition, and leads to dependency with chronic use."
+ },
+ {
+  "id": 3,
+  "claim": "\"Algorithmic feed recommendations are designed to trigger dopamine variable rewards.\"",
+  "isTrue": true,
+  "category": "conditioning",
+  "mechanism": "Variable Loop",
+  "explanation": "Social media algorithms use variable reward schedules — unpredictable notifications, likes, and content — to keep users scrolling. This hijacks dopamine pathways, creating compulsive checking and attention fragmentation."
+ },
+ {
+  "id": 4,
+  "claim": "\"Crystal methamphetamine is physically addictive and causes severe dental decay.\"",
+  "isTrue": true,
+  "category": "substance",
+  "mechanism": "Upper",
+  "explanation": "Methamphetamine releases massive dopamine surges, causing extreme euphoria and addiction. Chronic use leads to \"meth mouth\" — severe tooth decay from dry mouth, teeth grinding, and neglect of oral hygiene."
+ },
+ {
+  "id": 5,
+  "claim": "\"Gambling addiction only affects people with pre-existing financial problems.\"",
+  "isTrue": false,
+  "category": "conditioning",
+  "mechanism": "Variable Loop",
+  "explanation": "Gambling addiction crosses all socio-economic groups. It's driven by variable reward schedules that hijack dopamine pathways — anyone can develop compulsive loss-chasing behavior, leading to severe debt and depression."
+ },
+ {
+  "id": 6,
+  "claim": "\"Depression is simply a sign of personal weakness or laziness.\"",
+  "isTrue": false,
+  "category": "mental",
+  "mechanism": "Mood Disruption",
+  "explanation": "Depression is a clinical mood disorder involving neurochemical imbalances, genetic factors, and environmental triggers. It's not a character flaw — it requires proper treatment and compassion, not judgment."
+ },
+ {
+  "id": 7,
+  "claim": "\"Inhalants like glue and petrol can cause irreversible brain damage and sudden death.\"",
+  "isTrue": true,
+  "category": "substance",
+  "mechanism": "Depressant",
+  "explanation": "Inhalants rapidly depress the central nervous system. Chronic use causes permanent brain damage, memory loss, liver failure, and can trigger sudden fatal cardiac arrhythmia — even in first-time users."
+ },
+ {
+  "id": 8,
+  "claim": "\"Social media feeds are purely chronological and not psychologically engineered.\"",
+  "isTrue": false,
+  "category": "conditioning",
+  "mechanism": "Variable Loop",
+  "explanation": "Feeds are algorithmically curated using machine learning to maximize engagement. They prioritize content that triggers emotional reactions — anger, envy, fear — to keep users scrolling through variable reward loops."
+ },
+ {
+  "id": 9,
+  "claim": "\"Cannabis is completely harmless because it's a plant and non-addictive.\"",
+  "isTrue": false,
+  "category": "substance",
+  "mechanism": "Ambient",
+  "explanation": "While cannabis has medicinal uses, high-THC strains carry real risks: impaired memory and motivation, increased anxiety, respiratory harm, and in vulnerable individuals, psychosis or dependency (about 9% of users become addicted)."
+ },
+ {
+  "id": 10,
+  "claim": "\"Heroin use can lead to fatal respiratory depression even in small doses.\"",
+  "isTrue": true,
+  "category": "substance",
+  "mechanism": "Depressant",
+  "explanation": "Heroin binds to mu-opioid receptors, suppressing the brain's respiratory drive. Overdose causes breathing to slow dangerously — even stop. This is the leading cause of death among opioid users."
+ },
+ {
+  "id": 11,
+  "claim": "\"Body dysmorphic disorder (BDD) is just vanity or being overly concerned with appearance.\"",
+  "isTrue": false,
+  "category": "mental",
+  "mechanism": "Obsessive-Compulsive",
+  "explanation": "BDD is a severe obsessive-compulsive related disorder where individuals fixate on perceived flaws, often unseen to others. It causes compulsive mirror-checking, skin-picking, and significant distress — it's not vanity."
+ },
+ {
+  "id": 12,
+  "claim": "\"Loot boxes in video games are psychologically similar to slot machines.\"",
+  "isTrue": true,
+  "category": "conditioning",
+  "mechanism": "Variable Loop",
+  "explanation": "Loot boxes use variable reward schedules — unpredictable rare items — to trigger dopamine bursts. This mimics gambling mechanics, leading to compulsive spending and has been linked to problem gambling in youth."
+ },
+ {
+  "id": 13,
+  "claim": "\"Schizophrenia is a split personality disorder with multiple distinct identities.\"",
+  "isTrue": false,
+  "category": "mental",
+  "mechanism": "Psychotic",
+  "explanation": "Schizophrenia is often confused with Dissociative Identity Disorder. It primarily involves hallucinations, delusions, and disorganized thinking — not multiple personalities. It's a severe psychotic disorder requiring medical treatment."
+ },
+ {
+  "id": 14,
+  "claim": "\"Codeine-based cough syrups (Lean) can cause severe constipation and respiratory depression.\"",
+  "isTrue": true,
+  "category": "substance",
+  "mechanism": "Depressant",
+  "explanation": "Codeine is an opioid that slows gut motility (causing severe constipation) and depresses the respiratory system. Mixed with alcohol or other depressants, it dramatically increases fatal overdose risk."
+ },
+ {
+  "id": 15,
+  "claim": "\"FOMO (Fear Of Missing Out) is a natural response to social media algorithms, not a mental health issue.\"",
+  "isTrue": true,
+  "category": "conditioning",
+  "mechanism": "Variable Loop",
+  "explanation": "FOMO is driven by algorithmic feeds showing others' curated highlight reels. It creates social comparison anxiety and validation dependence. While not a clinical disorder, it's a real psychological stressor."
+ },
+ {
+  "id": 16,
+  "claim": "\"Cocaine is a performance-enhancing drug that improves focus and memory in the long term.\"",
+  "isTrue": false,
+  "category": "substance",
+  "mechanism": "Upper",
+  "explanation": "Cocaine may briefly boost alertness, but it severely impairs cognition with chronic use. It causes memory problems, paranoia, cardiovascular damage, and addiction — far from a safe cognitive enhancer."
+ },
+ {
+  "id": 17,
+  "claim": "\"Khat (Mairungi) is a traditional stimulant that increases alertness and suppresses appetite.\"",
+  "isTrue": true,
+  "category": "substance",
+  "mechanism": "Upper",
+  "explanation": "Khat contains cathinone, a stimulant that increases energy and alertness while suppressing appetite. However, chronic use leads to hypertension, mouth ulcers, sleep disruption, and dependency."
+ },
+ {
+  "id": 18,
+  "claim": "\"Anxiety disorders are merely a sign of stress and not a treatable medical condition.\"",
+  "isTrue": false,
+  "category": "mental",
+  "mechanism": "Anxiety",
+  "explanation": "Anxiety disorders — GAD, panic disorder, social anxiety — are clinical conditions with neurobiological roots. They are highly treatable through therapy and medication, not just \"stress\" that one should \"toughen up\" from."
+ }
+]

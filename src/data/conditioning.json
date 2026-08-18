@@ -1,0 +1,12 @@
+[
+  { "id": "social-media", "name": "Social Media Feeds", "icon": "📱", "shortDesc": "Endless scrolling that conditions attention, mood and self-worth.", "effects": ["Attention span", "Comparison", "FOMO", "Sleep loss"] },
+  { "id": "advertising", "name": "Alcohol & Tobacco Ads", "icon": "📺", "shortDesc": "Glamorised imagery that normalises drinking and smoking.", "effects": ["Normalisation", "Cravings", "Brand loyalty"] },
+  { "id": "music-videos", "name": "Music Videos & Lyrics", "icon": "🎶", "shortDesc": "Content that glamorises drugs, violence and party culture.", "effects": ["Normalisation", "Desensitisation", "Identity shaping"] },
+  { "id": "gambling", "name": "Betting & Gambling", "icon": "🎰", "shortDesc": "Easy-access betting apps engineered for repeat play.", "effects": ["Financial loss", "Addiction", "Debt cycles"] },
+  { "id": "peer-media", "name": "Peer Pressure Media", "icon": "🗣️", "shortDesc": "Challenges, dares and trends that pressure imitation.", "effects": ["Risk-taking", "Conformity", "Status chasing"] },
+  { "id": "gaming", "name": "Addictive Gaming", "icon": "🎮", "shortDesc": "Games designed with reward loops that hook young players.", "effects": ["Time loss", "Reward hijack", "Sleep disruption"] },
+  { "id": "porn", "name": "Pornography", "icon": "🚫", "shortDesc": "Content that rewires expectations and relationships.", "effects": ["Unrealistic expectations", "Desensitisation", "Relationship harm"] },
+  { "id": "influencers", "name": "Influencer Culture", "icon": "🌟", "shortDesc": "Aspirational content that sells lifestyle over truth.", "effects": ["Materialism", "Body image", "False reality"] },
+  { "id": "news-media", "name": "Negative News Cycles", "icon": "📰", "shortDesc": "Constant fear and doom content that shapes anxiety.", "effects": ["Anxiety", "Hopelessness", "Cynicism"] },
+  { "id": "cult-media", "name": "Cults & Echo Chambers", "icon": "🌀", "shortDesc": "Extreme groups that use repetition to control thinking.", "effects": ["Isolation", "Extremism", "Loss of identity"] }
+]

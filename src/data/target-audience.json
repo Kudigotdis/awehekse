@@ -1,0 +1,288 @@
+{
+  "target_audiences": {
+    "categories": [
+      {
+        "name": "Students & Youth",
+        "subcategories": [
+          "Primary School Students (Ages 6–12)",
+          "Secondary School Students (Ages 13–18)",
+          "College & University Students (Ages 18–25)",
+          "Vocational & Trade School Students",
+          "Out-of-School Youth (Not in Education, Employment, or Training)",
+          "Youth in Detention or Correctional Facilities",
+          "Street-Connected Children & Youth",
+          "Youth in Sports Academies",
+          "Young Parents (Teenage Mothers & Fathers)",
+          "Youth in Rural Communities"
+        ]
+      },
+      {
+        "name": "Educators & School Staff",
+        "subcategories": [
+          "Primary School Teachers",
+          "Secondary School Teachers",
+          "University Lecturers & Professors",
+          "College Instructors",
+          "School Counselors & Guidance Officers",
+          "School Principals & Administrators",
+          "School Support Staff (Janitors, Secretaries, Matrons)",
+          "Vocational Training Instructors",
+          "Headmasters & Education Officers",
+          "Early Childhood Development (ECD) Practitioners"
+        ]
+      },
+      {
+        "name": "Parents & Families",
+        "subcategories": [
+          "Single Parents",
+          "Teenage Parents",
+          "Parents of Children with Substance Use Disorders",
+          "Parents of Children with Mental Health Conditions",
+          "Foster Parents & Guardians",
+          "Grandparents Raising Grandchildren",
+          "Extended Family Members (Aunts, Uncles, Cousins)",
+          "Families Affected by Addiction",
+          "Families in Low-Income Households",
+          "Families in Rural & Farming Communities"
+        ]
+      },
+      {
+        "name": "Healthcare Professionals",
+        "subcategories": [
+          "General Practitioners (GPs)",
+          "Psychiatrists",
+          "Psychologists & Clinical Psychologists",
+          "Addiction Specialists & Recovery Coaches",
+          "Nurses & Nurse Practitioners",
+          "Community Health Workers (CHWs)",
+          "Pharmacists",
+          "Counselors & Therapists (CBT, DBT, Trauma-Informed)",
+          "Social Workers",
+          "Rehabilitation Center Staff",
+          "Emergency Room & Trauma Teams",
+          "Occupational Therapists",
+          "Nutritionists & Dietitians",
+          "Public Health Officers"
+        ]
+      },
+      {
+        "name": "Mental Health & Wellness Providers",
+        "subcategories": [
+          "Mental Health Counselors",
+          "Psychotherapists",
+          "Trauma Specialists (EMDR, Somatic Experiencing)",
+          "Art & Music Therapists",
+          "Wellness Coaches & Life Coaches",
+          "Mindfulness & Meditation Instructors",
+          "Yoga & Movement Therapists",
+          "Support Group Facilitators (AA, NA, SMART Recovery)",
+          "Crisis Hotline Operators",
+          "Peer Support Specialists"
+        ]
+      },
+      {
+        "name": "Religious & Spiritual Leaders",
+        "subcategories": [
+          "Pastors & Ministers (Christian)",
+          "Imams (Muslim)",
+          "Traditional Healers & Sangomas",
+          "Apostolic Church Leaders",
+          "Religious Counselors & Chaplains",
+          "Monks & Spiritual Advisors",
+          "Church Youth Leaders",
+          "Mosque & Temple Administrators",
+          "Faith-Based Organization Directors"
+        ]
+      },
+      {
+        "name": "Community Leaders & Influencers",
+        "subcategories": [
+          "Village Heads & Chiefs",
+          "Community Development Officers",
+          "Neighborhood Watch Coordinators",
+          "Local NGO Directors & Staff",
+          "Community Elders",
+          "Women’s Group Leaders",
+          "Youth Club Leaders",
+          "Sports Coaches & Team Managers",
+          "Local Artists & Musicians",
+          "Social Media Influencers & Content Creators",
+          "Radio & TV Personalities",
+          "Community Radio Station Managers"
+        ]
+      },
+      {
+        "name": "Law Enforcement & Legal Professionals",
+        "subcategories": [
+          "Police Officers (ZRP)",
+          "Drug Enforcement Unit Officers",
+          "Court Magistrates & Judges",
+          "Prosecutors & Public Defenders",
+          "Probation & Parole Officers",
+          "Correctional Services Staff",
+          "Paralegals & Legal Aid Workers",
+          "Customs & Border Control Officers",
+          "Traffic Police Officers"
+        ]
+      },
+      {
+        "name": "Government & Policy Makers",
+        "subcategories": [
+          "Ministry of Health Officials",
+          "Ministry of Education Officials",
+          "Ministry of Social Welfare Staff",
+          "Ministry of Youth & Sport Officials",
+          "Local Government Councilors",
+          "Members of Parliament (MPs)",
+          "Drug & Substance Abuse Task Force Members",
+          "Health Policy Advisors",
+          "Education Policy Advisors",
+          "Zimbabwe Human Rights Commission Staff"
+        ]
+      },
+      {
+        "name": "Employers & Workplace Stakeholders",
+        "subcategories": [
+          "Business Owners & Entrepreneurs",
+          "Human Resources Managers",
+          "Occupational Health & Safety Officers",
+          "Corporate Wellness Program Coordinators",
+          "Trade Union Representatives",
+          "Factory Managers & Supervisors",
+          "Mine Managers & Site Foremen",
+          "Hospitality & Tourism Industry Managers",
+          "Informal Sector Employers (Market Traders, Artisans)"
+        ]
+      },
+      {
+        "name": "Media & Communications",
+        "subcategories": [
+          "Journalists (Print, Radio, TV)",
+          "Editors & News Directors",
+          "Social Media Managers",
+          "Public Relations Professionals",
+          "Documentary Filmmakers",
+          "Podcasters & Bloggers",
+          "Advertising & Marketing Executives",
+          "Graphic Designers & Content Creators"
+        ]
+      },
+      {
+        "name": "Non-Governmental Organizations (NGOs)",
+        "subcategories": [
+          "Addiction Recovery NGOs",
+          "Mental Health Advocacy Groups",
+          "Women’s Rights Organizations",
+          "Youth Empowerment NGOs",
+          "Child Protection Agencies",
+          "Faith-Based NGOs",
+          "Community Development NGOs",
+          "HIV/AIDS & Health-Focused NGOs",
+          "Human Rights & Justice NGOs",
+          "Research & Policy Think Tanks"
+        ]
+      },
+      {
+        "name": "Professional Associations & Unions",
+        "subcategories": [
+          "Medical & Dental Associations",
+          "Psychological & Counseling Associations",
+          "Teachers’ Unions",
+          "Nurses’ & Midwives’ Unions",
+          "Legal & Judicial Associations",
+          "Journalists’ Unions",
+          "Business & Chamber of Commerce Associations"
+        ]
+      },
+      {
+        "name": "Vulnerable & High-Risk Groups",
+        "subcategories": [
+          "Homeless Individuals",
+          "Street Children",
+          "Commercial Sex Workers",
+          "People Living with HIV/AIDS",
+          "People with Disabilities (Physical, Sensory, Intellectual)",
+          "Refugees & Asylum Seekers",
+          "Internally Displaced Persons (IDPs)",
+          "Migrant Workers & Cross-Border Traders",
+          "Ex-Combatants & Veterans",
+          "Inmates & Former Inmates",
+          "People in Rural & Remote Areas",
+          "Elderly Individuals (Aged 60+)",
+          "People with Chronic Pain or Terminal Illness"
+        ]
+      },
+      {
+        "name": "Cultural & Traditional Leaders",
+        "subcategories": [
+          "Traditional Chiefs",
+          "Spirit Mediums",
+          "Traditional Healers (N’anga)",
+          "Initiation School Instructors (Varemba)",
+          "Cultural Dance & Music Groups",
+          "Oral History & Storytelling Practitioners"
+        ]
+      },
+      {
+        "name": "Sports & Recreation",
+        "subcategories": [
+          "Professional Athletes",
+          "Amateur & Community Sports Teams",
+          "Sports Coaches & Trainers",
+          "Sports Administrators & Officials",
+          "Gym Owners & Fitness Instructors",
+          "Recreation & Leisure Facility Managers"
+        ]
+      },
+      {
+        "name": "Arts & Creative Industries",
+        "subcategories": [
+          "Visual Artists (Painters, Sculptors)",
+          "Musicians & Bands",
+          "Actors & Performers",
+          "Dance Troupes & Choreographers",
+          "Poets & Spoken Word Artists",
+          "Fashion Designers & Models",
+          "Filmmakers & Video Producers",
+          "Photographers"
+        ]
+      },
+      {
+        "name": "Agriculture & Rural Communities",
+        "subcategories": [
+          "Small-Scale Farmers",
+          "Commercial Farmers",
+          "Farm Workers & Laborers",
+          "Agribusiness Owners",
+          "Veterinary & Agricultural Extension Officers",
+          "Rural District Council Members"
+        ]
+      },
+      {
+        "name": "Informal Economy Workers",
+        "subcategories": [
+          "Market Vendors & Street Traders",
+          "Minerals & Gemstone Artisanal Miners",
+          "Taxi & Combie Drivers",
+          "Motorcycle (Mushikashika) Riders",
+          "Domestic Workers",
+          "Car Washers & Mechanics",
+          "Hairdressers & Barbers",
+          "Phone Repair & Tech Vendors"
+        ]
+      },
+      {
+        "name": "Recovery & Peer Support Communities",
+        "subcategories": [
+          "Recovering Addicts in Long-Term Sobriety",
+          "Peer Recovery Coaches & Mentors",
+          "Members of Recovery Support Groups (AA, NA, CA)",
+          "Family Members of Recovering Addicts",
+          "Aftercare Program Participants",
+          "Sober Living Home Residents",
+          "Alumni of Rehabilitation Programs"
+        ]
+      }
+    ]
+  }
+}

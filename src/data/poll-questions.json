@@ -1,0 +1,4414 @@
+[
+  {
+    "num": 1,
+    "title": "SUBSTANCE USE - ALCOHOL",
+    "questions": [
+      {
+        "num": 1,
+        "question": "How many days last month did you drink alcohol?",
+        "options": [
+          "0",
+          "1-3",
+          "4-10",
+          "11-20",
+          "21+"
+        ]
+      },
+      {
+        "num": 2,
+        "question": "What time of day do you usually have your first drink?",
+        "options": [
+          "Morning",
+          "Afternoon",
+          "Evening",
+          "Night",
+          "Never"
+        ]
+      },
+      {
+        "num": 3,
+        "question": "Do you drink alone or only socially?",
+        "options": [
+          "Always alone",
+          "Mostly alone",
+          "Only social",
+          "Both"
+        ]
+      },
+      {
+        "num": 4,
+        "question": "What’s your go-to drink?",
+        "options": [
+          "Wine",
+          "Beer",
+          "Whisky",
+          "Vodka",
+          "Gin",
+          "Cocktails",
+          "Other",
+          "None"
+        ]
+      },
+      {
+        "num": 5,
+        "question": "Do you drink to celebrate or to cope?",
+        "options": [
+          "Celebrate",
+          "Cope",
+          "Both",
+          "Neither"
+        ]
+      },
+      {
+        "num": 6,
+        "question": "Have you ever blacked out from drinking?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      },
+      {
+        "num": 7,
+        "question": "Do you keep alcohol visible in your home?",
+        "options": [
+          "Yes - bar",
+          "Yes - cabinet",
+          "Yes - fridge",
+          "No"
+        ]
+      },
+      {
+        "num": 8,
+        "question": "How much do you spend on alcohol monthly?",
+        "options": [
+          "$0",
+          "$1-$50",
+          "$51-$200",
+          "$201-$500",
+          "$500+"
+        ]
+      },
+      {
+        "num": 9,
+        "question": "Do you drink before noon on weekends?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 10,
+        "question": "Has anyone expressed concern about your drinking?",
+        "options": [
+          "Yes",
+          "No",
+          "I don’t know"
+        ]
+      },
+      {
+        "num": 11,
+        "question": "Do you drink more when you’re bored?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 12,
+        "question": "Do you drink more when you’re stressed?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 13,
+        "question": "Do you believe wine is \"healthy\"?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 14,
+        "question": "Do you drink at work events even if you don’t want to?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never",
+          "No events"
+        ]
+      },
+      {
+        "num": 15,
+        "question": "Have you tried to cut down in the last 6 months?",
+        "options": [
+          "Yes and succeeded",
+          "Yes and failed",
+          "No"
+        ]
+      },
+      {
+        "num": 16,
+        "question": "Do you use alcohol to fall asleep?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 17,
+        "question": "Do you feel anxious the day after drinking?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never",
+          "Don’t drink"
+        ]
+      },
+      {
+        "num": 18,
+        "question": "Do you drink faster when others are watching?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 19,
+        "question": "Have you ever driven after drinking?",
+        "options": [
+          "Yes",
+          "No",
+          "Only 1 drink"
+        ]
+      },
+      {
+        "num": 20,
+        "question": "Do you hide bottles or receipts?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 21,
+        "question": "Do you pre-game before going out?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 22,
+        "question": "Do you drink more on payday?",
+        "options": [
+          "Yes",
+          "No",
+          "I don’t get paid"
+        ]
+      },
+      {
+        "num": 23,
+        "question": "Is alcohol part of your family traditions?",
+        "options": [
+          "Yes - a lot",
+          "Yes - a little",
+          "No"
+        ]
+      },
+      {
+        "num": 24,
+        "question": "Do you feel you \"deserve\" a drink after work?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 25,
+        "question": "Have you ever been hungover at work?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 26,
+        "question": "Do you drink to deal with conflict?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 27,
+        "question": "Do you drink more when traveling?",
+        "options": [
+          "Yes",
+          "No",
+          "Same"
+        ]
+      },
+      {
+        "num": 28,
+        "question": "Do you drink during the day on vacation?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 29,
+        "question": "Do you think expensive alcohol is less harmful?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 30,
+        "question": "Do you drink while watching TV?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 31,
+        "question": "Do you drink while scrolling social media?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 32,
+        "question": "Have you ever skipped responsibilities to drink?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 33,
+        "question": "Do you drink when you feel lonely?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 34,
+        "question": "Do you drink to feel confident?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 35,
+        "question": "Do you drink to fit in?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 36,
+        "question": "Do you drink to stop thinking?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 37,
+        "question": "Have you ever quit drinking for 30+ days?",
+        "options": [
+          "Yes",
+          "No",
+          "Trying now"
+        ]
+      },
+      {
+        "num": 38,
+        "question": "Do you drink on weekdays?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 39,
+        "question": "Do you drink on an empty stomach?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 40,
+        "question": "Do you mix alcohol with energy drinks?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 41,
+        "question": "Do you drink at lunch meetings?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never",
+          "No meetings"
+        ]
+      },
+      {
+        "num": 42,
+        "question": "Do you feel guilty after drinking?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 43,
+        "question": "Do you plan your week around drinking?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 44,
+        "question": "Do you drink to reward yourself?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 45,
+        "question": "Do you drink when you feel numb?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 46,
+        "question": "Has drinking affected your sleep?",
+        "options": [
+          "Yes - badly",
+          "Yes - a little",
+          "No"
+        ]
+      },
+      {
+        "num": 47,
+        "question": "Has drinking affected your relationships?",
+        "options": [
+          "Yes - badly",
+          "Yes - a little",
+          "No"
+        ]
+      },
+      {
+        "num": 48,
+        "question": "Has drinking affected your work?",
+        "options": [
+          "Yes - badly",
+          "Yes - a little",
+          "No"
+        ]
+      },
+      {
+        "num": 49,
+        "question": "Do you think you could stop for 90 days if you tried?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 50,
+        "question": "Do you consider yourself a \"social drinker\" only?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "title": "SUBSTANCE USE - DRUGS + PILLS",
+    "questions": [
+      {
+        "num": 51,
+        "question": "Have you ever used cannabis?",
+        "options": [
+          "Yes - regularly",
+          "Yes - occasionally",
+          "No"
+        ]
+      },
+      {
+        "num": 52,
+        "question": "How often do you use cannabis?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "num": 53,
+        "question": "Do you use cannabis for sleep?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 54,
+        "question": "Do you use cannabis for creativity?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 55,
+        "question": "Do you use cannabis for anxiety?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 56,
+        "question": "Have you used prescription pills not prescribed to you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 57,
+        "question": "Do you use painkillers for reasons other than pain?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 58,
+        "question": "Do you use sleeping pills?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "num": 59,
+        "question": "Do you use anti-anxiety meds daily?",
+        "options": [
+          "Yes - prescribed",
+          "Yes - not prescribed",
+          "No"
+        ]
+      },
+      {
+        "num": 60,
+        "question": "Do you use ADHD meds without prescription?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 61,
+        "question": "Have you used cocaine?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 62,
+        "question": "Have you used ecstasy/MDMA?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 63,
+        "question": "Have you used ketamine?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 64,
+        "question": "Have you used mushrooms?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 65,
+        "question": "Have you used vapes with nicotine?",
+        "options": [
+          "Yes - daily",
+          "Yes - sometimes",
+          "No"
+        ]
+      },
+      {
+        "num": 66,
+        "question": "Do you vape daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 67,
+        "question": "Do you use cigarettes?",
+        "options": [
+          "Yes - pack+",
+          "day",
+          "Yes - <1 pack",
+          "No"
+        ]
+      },
+      {
+        "num": 68,
+        "question": "How many cigarettes per day?",
+        "options": [
+          "0",
+          "1-5",
+          "6-10",
+          "11-20",
+          "20+"
+        ]
+      },
+      {
+        "num": 69,
+        "question": "Have you tried to quit smoking?",
+        "options": [
+          "Yes - succeeded",
+          "Yes - failed",
+          "No"
+        ]
+      },
+      {
+        "num": 70,
+        "question": "Do you use snuff or chewing tobacco?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 71,
+        "question": "Do you use stimulants to study?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 72,
+        "question": "Do you use stimulants to work longer?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 73,
+        "question": "Have you used steroids?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 74,
+        "question": "Do you use weight loss pills?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 75,
+        "question": "Do you use herbal \"boosters\" for sex?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 76,
+        "question": "Have you ordered substances online?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 77,
+        "question": "Have you used delivery services for alcohol/drugs?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 78,
+        "question": "Do you know where to get drugs within 1 hour?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 79,
+        "question": "Have you ever overdosed or felt close?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 80,
+        "question": "Do you mix substances together?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 81,
+        "question": "Do you use substances before social events?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 82,
+        "question": "Do you use substances after social events?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 83,
+        "question": "Do you spend >$100/month on substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 84,
+        "question": "Have you borrowed money for substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 85,
+        "question": "Have you lied about substance use?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 86,
+        "question": "Do you think \"natural\" means safe?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 87,
+        "question": "Do you think \"prescribed\" means safe?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 88,
+        "question": "Have you ever been to rehab for substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 89,
+        "question": "Did rehab help long term?",
+        "options": [
+          "Yes",
+          "No",
+          "Wasn’t long enough",
+          "Never went"
+        ]
+      },
+      {
+        "num": 90,
+        "question": "Do you know someone who died from substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 91,
+        "question": "Do you use to escape reality?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 92,
+        "question": "Do you use to feel something?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 93,
+        "question": "Do you use out of habit?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 94,
+        "question": "Do you use on specific days of the week?",
+        "options": [
+          "Weekends",
+          "Weekdays",
+          "No pattern"
+        ]
+      },
+      {
+        "num": 95,
+        "question": "Do you use when you’re with certain people?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 96,
+        "question": "Do you hide your use from doctors?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 97,
+        "question": "Have you had withdrawal symptoms?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 98,
+        "question": "Do you need more now to get same effect?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      },
+      {
+        "num": 99,
+        "question": "Do you think you have control over your use?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 100,
+        "question": "Would you take a drug test today?",
+        "options": [
+          "Yes",
+          "No",
+          "Depends"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "title": "BEHAVIORAL ADDICTIONS",
+    "questions": [
+      {
+        "num": 101,
+        "question": "How many hours do you game per week?",
+        "options": [
+          "0",
+          "1-5",
+          "6-15",
+          "16-30",
+          "30+"
+        ]
+      },
+      {
+        "num": 102,
+        "question": "Do you game to avoid problems?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 103,
+        "question": "Do you spend money on in-game purchases?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 104,
+        "question": "How many hours do you watch porn per week?",
+        "options": [
+          "0",
+          "1-2",
+          "3-5",
+          "6+"
+        ]
+      },
+      {
+        "num": 105,
+        "question": "Do you watch porn daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 106,
+        "question": "Has porn affected your real relationships?",
+        "options": [
+          "Yes - badly",
+          "Yes - a little",
+          "No"
+        ]
+      },
+      {
+        "num": 107,
+        "question": "Do you use dating apps daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 108,
+        "question": "How many hours do you scroll social media?",
+        "options": [
+          "<1",
+          "1-3",
+          "4-6",
+          "7+"
+        ]
+      },
+      {
+        "num": 109,
+        "question": "Do you check social media first thing in morning?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 110,
+        "question": "Do you check social media last thing at night?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 111,
+        "question": "Do you feel anxious without your phone?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 112,
+        "question": "Do you shop online to feel better?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 113,
+        "question": "How much do you spend on impulse buys monthly?",
+        "options": [
+          "$0",
+          "$1-$100",
+          "$101-$500",
+          "$500+"
+        ]
+      },
+      {
+        "num": 114,
+        "question": "Do you gamble?",
+        "options": [
+          "Sports",
+          "Casino",
+          "Crypto",
+          "Cards",
+          "None"
+        ]
+      },
+      {
+        "num": 115,
+        "question": "How much do you gamble monthly?",
+        "options": [
+          "$0",
+          "$1-$100",
+          "$101-$1000",
+          "$1000+"
+        ]
+      },
+      {
+        "num": 116,
+        "question": "Have you chased gambling losses?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 117,
+        "question": "Do you bet to feel excitement?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 118,
+        "question": "Do you overeat to cope?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 119,
+        "question": "Do you diet to extremes?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 120,
+        "question": "Do you exercise to punish yourself?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 121,
+        "question": "Do you work >60hrs/week?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 122,
+        "question": "Do you check work email on weekends?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 123,
+        "question": "Do you feel guilty when not productive?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 124,
+        "question": "Do you doomscroll news daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 125,
+        "question": "Do you argue online for validation?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 126,
+        "question": "Do you collect things compulsively?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 127,
+        "question": "Do you hoard digital files, photos, data?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 128,
+        "question": "Do you binge watch shows to avoid life?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 129,
+        "question": "Do you seek constant novelty?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 130,
+        "question": "Do you need new experiences every weekend?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 131,
+        "question": "Do you fear missing out?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 132,
+        "question": "Do you compare yourself to others daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 133,
+        "question": "Do you seek likes/comments for self-worth?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 134,
+        "question": "Do you overshare online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 135,
+        "question": "Do you overspend to impress others?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 136,
+        "question": "Do you people-please to be liked?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 137,
+        "question": "Do you avoid silence?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 138,
+        "question": "Do you need background noise always?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 139,
+        "question": "Do you multitask constantly?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 140,
+        "question": "Do you start projects and never finish?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 141,
+        "question": "Do you procrastinate with your phone?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 142,
+        "question": "Do you lie to yourself about time spent?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 143,
+        "question": "Have you tried digital detox?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 144,
+        "question": "Did digital detox work?",
+        "options": [
+          "Yes",
+          "No",
+          "Never tried"
+        ]
+      },
+      {
+        "num": 145,
+        "question": "Do you feel empty without stimulation?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 146,
+        "question": "Do you need to be busy to feel worthy?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 147,
+        "question": "Do you avoid being alone with your thoughts?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 148,
+        "question": "Do you use busyness to avoid feelings?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 149,
+        "question": "Do you think you’re addicted to your phone?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 150,
+        "question": "Do you think you’re addicted to validation?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "title": "SOCIAL MEDIA CONDITIONING",
+    "questions": [
+      {
+        "num": 151,
+        "question": "Which platform do you use most?",
+        "options": [
+          "TikTok",
+          "Instagram",
+          "X",
+          "Facebook",
+          "YouTube",
+          "LinkedIn"
+        ]
+      },
+      {
+        "num": 152,
+        "question": "How many social apps do you have?",
+        "options": [
+          "1-2",
+          "3-4",
+          "5+"
+        ]
+      },
+      {
+        "num": 153,
+        "question": "Do you post daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 154,
+        "question": "Do you post to get validation?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 155,
+        "question": "Do you delete posts with low likes?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 156,
+        "question": "Do you edit photos before posting?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 157,
+        "question": "Do you feel bad after seeing influencers?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 158,
+        "question": "Do you follow people richer than you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 159,
+        "question": "Do you follow people more attractive than you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 160,
+        "question": "Do you feel \"behind\" online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 161,
+        "question": "Do you compare your relationship online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 162,
+        "question": "Do you compare your body online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 163,
+        "question": "Do you compare your career online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 164,
+        "question": "Do you buy things influencers promote?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 165,
+        "question": "Do you trust influencers more than ads?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 166,
+        "question": "Do you watch reels/shorts for >1hr straight?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 167,
+        "question": "Do you lose track of time scrolling?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 168,
+        "question": "Do you scroll when you’re supposed to work?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 169,
+        "question": "Do you scroll in the bathroom?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 170,
+        "question": "Do you scroll during meals?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 171,
+        "question": "Do you scroll during conversations?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 172,
+        "question": "Do you feel FOMO from social media?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 173,
+        "question": "Do you feel angry from social media?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 174,
+        "question": "Do you feel inspired from social media?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 175,
+        "question": "Do you feel depressed from social media?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 176,
+        "question": "Do you use social media to avoid feelings?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 177,
+        "question": "Do you use social media for news?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 178,
+        "question": "Do you believe everything you see online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 179,
+        "question": "Do you fact-check what you see?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 180,
+        "question": "Have you been in online fights?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 181,
+        "question": "Do you block people who disagree?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 182,
+        "question": "Do you join echo chambers?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      },
+      {
+        "num": 183,
+        "question": "Do you get targeted ads that feel \"too accurate\"?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 184,
+        "question": "Do you pay for ad-free social media?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 185,
+        "question": "Do you have notifications on?",
+        "options": [
+          "All",
+          "Some",
+          "None"
+        ]
+      },
+      {
+        "num": 186,
+        "question": "Do you feel phantom phone vibrations?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 187,
+        "question": "Do you sleep with phone under pillow?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 188,
+        "question": "Do you wake up to check phone?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 189,
+        "question": "Do you use social media to procrastinate?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 190,
+        "question": "Do you use social media to cope with boredom?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 191,
+        "question": "Do you use social media to feel connected?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 192,
+        "question": "Do you feel more alone after using?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 193,
+        "question": "Do you know how algorithms work?",
+        "options": [
+          "Yes",
+          "No",
+          "Somewhat"
+        ]
+      },
+      {
+        "num": 194,
+        "question": "Do you think social media is manipulating you?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 195,
+        "question": "Have you deleted social media before?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 196,
+        "question": "How long did you last without it?",
+        "options": [
+          "1 day",
+          "1 week",
+          "1 month",
+          "3+ months"
+        ]
+      },
+      {
+        "num": 197,
+        "question": "Do you think social media is addictive by design?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 198,
+        "question": "Do you want to use less?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 199,
+        "question": "What stops you from using less?",
+        "options": [
+          "Boredom",
+          "Work",
+          "Friends",
+          "Habit",
+          "Nothing"
+        ]
+      },
+      {
+        "num": 200,
+        "question": "Would you pay to quit social media?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "title": "TV, NEWS, MUSIC CONDITIONING",
+    "questions": [
+      {
+        "num": 201,
+        "question": "How many hours TV per day?",
+        "options": [
+          "0",
+          "1-2",
+          "3-4",
+          "5+"
+        ]
+      },
+      {
+        "num": 202,
+        "question": "Do you watch TV while eating?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 203,
+        "question": "Do you binge shows in one sitting?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 204,
+        "question": "Do shows influence how you dress?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 205,
+        "question": "Do shows influence what you drink?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 206,
+        "question": "Do shows normalize drug use?",
+        "options": [
+          "Yes - a lot",
+          "Sometimes",
+          "No"
+        ]
+      },
+      {
+        "num": 207,
+        "question": "Do you watch news daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 208,
+        "question": "Do you watch multiple news channels?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 209,
+        "question": "Does news make you anxious?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 210,
+        "question": "Does news make you angry?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 211,
+        "question": "Do you feel informed after news?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 212,
+        "question": "Do you feel helpless after news?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 213,
+        "question": "Do you watch news to feel in control?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 214,
+        "question": "How many hours music per day?",
+        "options": [
+          "0",
+          "1-2",
+          "3-5",
+          "6+"
+        ]
+      },
+      {
+        "num": 215,
+        "question": "Do you use music to change mood?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 216,
+        "question": "Do lyrics affect your beliefs?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 217,
+        "question": "Do you listen to music about money?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 218,
+        "question": "Do you listen to music about drugs?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 219,
+        "question": "Do you listen to music about relationships?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 220,
+        "question": "Do you use headphones >4hrs/day?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 221,
+        "question": "Do you need music to focus?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 222,
+        "question": "Do you need silence to think?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 223,
+        "question": "Do podcasts influence your opinions?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 224,
+        "question": "Do you listen to self-help podcasts?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 225,
+        "question": "Do you listen to true crime?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 226,
+        "question": "Does media make you fearful?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 227,
+        "question": "Does media make you feel unsafe?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 228,
+        "question": "Do you trust media completely?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 229,
+        "question": "Do you think media lies to you?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 230,
+        "question": "Do you watch ads on purpose?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 231,
+        "question": "Do ads make you want things?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 232,
+        "question": "Have you bought something from an ad?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 233,
+        "question": "Do you skip ads?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 234,
+        "question": "Do you pay to avoid ads?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 235,
+        "question": "Do you watch reality TV?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 236,
+        "question": "Do reality shows affect your expectations?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 237,
+        "question": "Do movies affect how you handle conflict?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 238,
+        "question": "Do you imitate characters you like?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 239,
+        "question": "Do you feel media reflects your life?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 240,
+        "question": "Do you feel media distorts your life?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 241,
+        "question": "Can you go 7 days without TV?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 242,
+        "question": "Can you go 7 days without music?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 243,
+        "question": "Can you go 7 days without news?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 244,
+        "question": "Do you use media to fall asleep?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 245,
+        "question": "Do you use media to wake up?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 246,
+        "question": "Do you think media shapes culture?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 247,
+        "question": "Do you think you choose what you watch?",
+        "options": [
+          "Yes",
+          "No",
+          "Algorithms choose"
+        ]
+      },
+      {
+        "num": 248,
+        "question": "Do you think algorithms choose for you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 249,
+        "question": "Do you want media literacy education?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 250,
+        "question": "Do you think kids should learn media literacy?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "title": "WORK, MONEY, STATUS TRIGGERS",
+    "questions": [
+      {
+        "num": 251,
+        "question": "What industry do you work in?",
+        "options": [
+          "Tech",
+          "Finance",
+          "Health",
+          "Law",
+          "Media",
+          "Other",
+          "Unemployed"
+        ]
+      },
+      {
+        "num": 252,
+        "question": "Do you work >50hrs/week?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 253,
+        "question": "Do you bring work home?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 254,
+        "question": "Do you check work email at night?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 255,
+        "question": "Does your job require drinking?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 256,
+        "question": "Does your job require entertaining clients?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 257,
+        "question": "Do you feel pressure to perform?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 258,
+        "question": "Do you use substances to perform?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 259,
+        "question": "Do you use caffeine to work?",
+        "options": [
+          "Daily",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 260,
+        "question": "Do you use pills to work?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 261,
+        "question": "Do you feel burned out?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 262,
+        "question": "Do you feel you deserve rewards?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 263,
+        "question": "Do you spend to reward yourself?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 264,
+        "question": "What’s your monthly income?",
+        "options": [
+          "<$1k",
+          "$1k-$5k",
+          "$5k-$15k",
+          "$15k+"
+        ]
+      },
+      {
+        "num": 265,
+        "question": "Do you feel rich compared to peers?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 266,
+        "question": "Do you feel poor compared to peers?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 267,
+        "question": "Do you compare salaries?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 268,
+        "question": "Do you compare houses?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 269,
+        "question": "Do you compare cars?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 270,
+        "question": "Do you feel status anxiety?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 271,
+        "question": "Do you travel for work?",
+        "options": [
+          "Monthly",
+          "Quarterly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "num": 272,
+        "question": "Do you travel for leisure?",
+        "options": [
+          "Monthly",
+          "Quarterly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "num": 273,
+        "question": "Do you drink more when traveling?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 274,
+        "question": "Do you spend more when traveling?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 275,
+        "question": "Do you have credit card debt?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 276,
+        "question": "Do you use BNPL services?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 277,
+        "question": "Do you invest to feel secure?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 278,
+        "question": "Do you trade to feel alive?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 279,
+        "question": "Do you check stocks daily?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 280,
+        "question": "Does money stress you?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 281,
+        "question": "Do you think more money = more happiness?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 282,
+        "question": "Do you think you need more to be happy?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 283,
+        "question": "Do you feel you’ll never have \"enough\"?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 284,
+        "question": "Do you hide financial problems?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 285,
+        "question": "Do you discuss money with friends?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 286,
+        "question": "Do your friends spend more than you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 287,
+        "question": "Do you feel pressure to keep up?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 288,
+        "question": "Do you overspend to impress?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 289,
+        "question": "Do you feel guilty about spending?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 290,
+        "question": "Do you use shopping as therapy?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 291,
+        "question": "Do you have financial goals?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 292,
+        "question": "Do you have a budget?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 293,
+        "question": "Do you track expenses?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 294,
+        "question": "Do you feel in control of money?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 295,
+        "question": "Do you think money causes addiction?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 296,
+        "question": "Do you think money hides addiction?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 297,
+        "question": "Would you take a pay cut for peace?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 298,
+        "question": "Do you work for money or purpose?",
+        "options": [
+          "Money",
+          "Purpose",
+          "Both"
+        ]
+      },
+      {
+        "num": 299,
+        "question": "What would you do if money wasn’t an issue?",
+        "options": [
+          "Travel",
+          "Create",
+          "Rest",
+          "Help others",
+          "Same job"
+        ]
+      },
+      {
+        "num": 300,
+        "question": "Do you think you’re addicted to work?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "title": "FAMILY, RELATIONSHIPS, IDENTITY",
+    "questions": [
+      {
+        "num": 301,
+        "question": "Are you married?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 302,
+        "question": "Do you have kids?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 303,
+        "question": "Do kids see you use substances?",
+        "options": [
+          "Yes",
+          "No",
+          "No kids"
+        ]
+      },
+      {
+        "num": 304,
+        "question": "Do kids see you on phone constantly?",
+        "options": [
+          "Yes",
+          "No",
+          "No kids"
+        ]
+      },
+      {
+        "num": 305,
+        "question": "Do you argue with partner about phone use?",
+        "options": [
+          "Yes",
+          "No",
+          "No partner"
+        ]
+      },
+      {
+        "num": 306,
+        "question": "Do you argue with partner about spending?",
+        "options": [
+          "Yes",
+          "No",
+          "No partner"
+        ]
+      },
+      {
+        "num": 307,
+        "question": "Do you feel lonely in your relationship?",
+        "options": [
+          "Yes",
+          "No",
+          "No partner"
+        ]
+      },
+      {
+        "num": 308,
+        "question": "Do you use substances with partner?",
+        "options": [
+          "Yes",
+          "No",
+          "No partner"
+        ]
+      },
+      {
+        "num": 309,
+        "question": "Do you drink with partner?",
+        "options": [
+          "Yes",
+          "No",
+          "No partner"
+        ]
+      },
+      {
+        "num": 310,
+        "question": "Do you feel disconnected from family?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 311,
+        "question": "Do you use to avoid family conflict?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 312,
+        "question": "Did your parents use substances?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      },
+      {
+        "num": 313,
+        "question": "Did your parents use their phone a lot?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      },
+      {
+        "num": 314,
+        "question": "Do you repeat your parents’ habits?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 315,
+        "question": "Do you want to break family patterns?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 316,
+        "question": "Do you feel pressure from family?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 317,
+        "question": "Do you feel judged by family?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 318,
+        "question": "Do you hide things from family?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 319,
+        "question": "Do you have close friends?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 320,
+        "question": "Do friends use substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 321,
+        "question": "Do friends pressure you to use?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 322,
+        "question": "Do you feel alone even with friends?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 323,
+        "question": "Do you use to fit in with friends?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 324,
+        "question": "Do you feel you can be yourself sober?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 325,
+        "question": "Who knows the real you?",
+        "options": [
+          "Partner",
+          "Friend",
+          "No one",
+          "Therapist"
+        ]
+      },
+      {
+        "num": 326,
+        "question": "Do you have someone to call in crisis?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 327,
+        "question": "Do you isolate when stressed?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 328,
+        "question": "Do you isolate when using?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 329,
+        "question": "Do you feel shame about your habits?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 330,
+        "question": "Do you feel guilt about your habits?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 331,
+        "question": "Do you feel proud of your habits?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 332,
+        "question": "Do you know who you are without substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 333,
+        "question": "Do you know who you are without your phone?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 334,
+        "question": "Do you know who you are without work?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 335,
+        "question": "Do you have hobbies?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 336,
+        "question": "Do you have creative outlets?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 337,
+        "question": "Do you feel purposeful?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 338,
+        "question": "Do you feel meaningful?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 339,
+        "question": "Do you feel empty?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 340,
+        "question": "Do you feel numb?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 341,
+        "question": "Do you feel anxious?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 342,
+        "question": "Do you feel depressed?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 343,
+        "question": "Do you feel hopeful?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 344,
+        "question": "Do you feel grateful?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 345,
+        "question": "Do you practice gratitude?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Never"
+        ]
+      },
+      {
+        "num": 346,
+        "question": "Do you pray or meditate?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Never"
+        ]
+      },
+      {
+        "num": 347,
+        "question": "Do you believe in something bigger?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 348,
+        "question": "Do you feel connected to community?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 349,
+        "question": "Do you feel part of something?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 350,
+        "question": "What defines you most?",
+        "options": [
+          "Job",
+          "Family",
+          "Money",
+          "Values",
+          "None"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "title": "HEALTH, MIND, BODY",
+    "questions": [
+      {
+        "num": 351,
+        "question": "How many hours do you sleep?",
+        "options": [
+          "<5",
+          "5-7",
+          "7-9",
+          "9+"
+        ]
+      },
+      {
+        "num": 352,
+        "question": "Do you wake up refreshed?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 353,
+        "question": "Do you use substances to sleep?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 354,
+        "question": "Do you have insomnia?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 355,
+        "question": "Do you exercise weekly?",
+        "options": [
+          "0",
+          "1-2",
+          "3-4",
+          "5+ times"
+        ]
+      },
+      {
+        "num": 356,
+        "question": "Do you exercise to cope?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 357,
+        "question": "Do you eat to cope?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 358,
+        "question": "Do you skip meals?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 359,
+        "question": "Do you binge eat?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 360,
+        "question": "Do you restrict food?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 361,
+        "question": "Do you have chronic pain?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 362,
+        "question": "Do you use pain meds?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "num": 363,
+        "question": "Do you have anxiety?",
+        "options": [
+          "Diagnosed",
+          "Undiagnosed",
+          "No"
+        ]
+      },
+      {
+        "num": 364,
+        "question": "Do you have panic attacks?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 365,
+        "question": "Do you have depression?",
+        "options": [
+          "Diagnosed",
+          "Undiagnosed",
+          "No"
+        ]
+      },
+      {
+        "num": 366,
+        "question": "Do you see a therapist?",
+        "options": [
+          "Weekly",
+          "Monthly",
+          "No"
+        ]
+      },
+      {
+        "num": 367,
+        "question": "Do you use therapy apps?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 368,
+        "question": "Do you meditate?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Never"
+        ]
+      },
+      {
+        "num": 369,
+        "question": "Do you journal?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Never"
+        ]
+      },
+      {
+        "num": 370,
+        "question": "Do you feel healthy?",
+        "options": [
+          "Yes",
+          "No",
+          "Somewhat"
+        ]
+      },
+      {
+        "num": 371,
+        "question": "Do you feel tired constantly?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 372,
+        "question": "Do you have headaches?",
+        "options": [
+          "Weekly",
+          "Monthly",
+          "Rarely"
+        ]
+      },
+      {
+        "num": 373,
+        "question": "Do you have stomach issues?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 374,
+        "question": "Do you get sick often?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 375,
+        "question": "Do you ignore health symptoms?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 376,
+        "question": "Do you Google symptoms?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 377,
+        "question": "Do you self-diagnose online?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 378,
+        "question": "Do you trust doctors?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "num": 379,
+        "question": "Do you avoid doctors?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 380,
+        "question": "Do you take supplements?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 381,
+        "question": "Do you take \"wellness\" products?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 382,
+        "question": "Do you believe in biohacking?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 383,
+        "question": "Do you track health data?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 384,
+        "question": "Do you obsess over health data?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 385,
+        "question": "Do you feel in control of your body?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 386,
+        "question": "Do you feel disconnected from your body?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 387,
+        "question": "Do you use substances for pain?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 388,
+        "question": "Do you use substances for energy?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 389,
+        "question": "Do you use substances for confidence?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 390,
+        "question": "Do you think substances help you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 391,
+        "question": "Do you think substances hurt you?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 392,
+        "question": "Have you had health scare from use?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 393,
+        "question": "Do you want to be healthier?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 394,
+        "question": "What stops you from being healthier?",
+        "options": [
+          "Time",
+          "Money",
+          "Motivation",
+          "Knowledge"
+        ]
+      },
+      {
+        "num": 395,
+        "question": "Do you think health = no substances?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 396,
+        "question": "Do you think health = balance?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 397,
+        "question": "Do you think you’re addicted to health?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 398,
+        "question": "Do you orthorexic?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ]
+      },
+      {
+        "num": 399,
+        "question": "Do you feel body shame?",
+        "options": [
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      {
+        "num": 400,
+        "question": "Do you love your body?",
+        "options": [
+          "Yes",
+          "No",
+          "Working on it"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "title": "EDUCATION + AWARENESS",
+    "questions": [
+      {
+        "num": 401,
+        "question": "Do you understand how addiction works?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ]
+      },
+      {
+        "num": 402,
+        "question": "Do you understand how dopamine works?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ]
+      },
+      {
+        "num": 403,
+        "question": "Do you understand how algorithms work?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ]
+      },
+      {
+        "num": 404,
+        "question": "Did school teach you about addiction?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 405,
+        "question": "Did school teach you about media literacy?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 406,
+        "question": "Do you think schools should teach this?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 407,
+        "question": "Have you been to rehab?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 408,
+        "question": "Did rehab teach you about conditioning?",
+        "options": [
+          "Yes",
+          "No",
+          "Never went"
+        ]
+      },
+      {
+        "num": 409,
+        "question": "Did rehab help you understand triggers?",
+        "options": [
+          "Yes",
+          "No",
+          "Never went"
+        ]
+      },
+      {
+        "num": 410,
+        "question": "Do you think rehab failed you?",
+        "options": [
+          "Yes",
+          "No",
+          "Never went"
+        ]
+      },
+      {
+        "num": 411,
+        "question": "Do you think you need education?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 412,
+        "question": "Do you prefer learning from books?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 413,
+        "question": "Do you prefer learning from videos?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 414,
+        "question": "Do you prefer learning from peers?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 415,
+        "question": "Do you prefer learning from experts?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 416,
+        "question": "Do you think information alone helps?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 417,
+        "question": "Do you think action is needed?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 418,
+        "question": "Do you know your triggers?",
+        "options": [
+          "Yes",
+          "No",
+          "Some"
+        ]
+      },
+      {
+        "num": 419,
+        "question": "Do you track your triggers?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 420,
+        "question": "Do you have a plan for cravings?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 421,
+        "question": "Do you know what HALTS means?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 422,
+        "question": "Do you practice urge surfing?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 423,
+        "question": "Do you know about neuroplasticity?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 424,
+        "question": "Do you believe you can change?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 425,
+        "question": "Do you believe habits can change?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 426,
+        "question": "Do you believe identity can change?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 427,
+        "question": "Do you think environment matters?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 428,
+        "question": "Do you think community matters?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 429,
+        "question": "Do you think accountability matters?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 430,
+        "question": "Do you have an accountability partner?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 431,
+        "question": "Do you attend support groups?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 432,
+        "question": "Do you think support groups help?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 433,
+        "question": "Do you think online groups help?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 434,
+        "question": "Do you think religion/spirituality helps?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 435,
+        "question": "Do you think therapy helps?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 436,
+        "question": "Do you think coaching helps?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 437,
+        "question": "Do you think medication helps?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 438,
+        "question": "Do you think willpower is enough?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 439,
+        "question": "Do you think education is missing?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 440,
+        "question": "What topic do you need most education on?",
+        "options": [
+          "Addiction",
+          "Media",
+          "Money",
+          "Mental health"
+        ]
+      },
+      {
+        "num": 441,
+        "question": "Do you want daily tips?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 442,
+        "question": "Do you want weekly lessons?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 443,
+        "question": "Do you want monthly check-ins?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 444,
+        "question": "Do you want an app to track progress?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 445,
+        "question": "Do you want to teach others?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 446,
+        "question": "Do you think your kids need this education?",
+        "options": [
+          "Yes",
+          "No",
+          "No kids"
+        ]
+      },
+      {
+        "num": 447,
+        "question": "Do you think your employees need this?",
+        "options": [
+          "Yes",
+          "No",
+          "Not an employer"
+        ]
+      },
+      {
+        "num": 448,
+        "question": "Do you think your country needs this?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 449,
+        "question": "Do you think the world needs this?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 450,
+        "question": "What’s the #1 thing you wish you knew earlier?",
+        "options": [
+          "How addiction works",
+          "How media works",
+          "How money works",
+          "Nothing"
+        ]
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "title": "FUTURE, GOALS, RECOVERY",
+    "questions": [
+      {
+        "num": 451,
+        "question": "Do you want to change your habits?",
+        "options": [
+          "Yes",
+          "No",
+          "Maybe"
+        ]
+      },
+      {
+        "num": 452,
+        "question": "Are you ready to change now?",
+        "options": [
+          "Yes",
+          "No",
+          "Need more time"
+        ]
+      },
+      {
+        "num": 453,
+        "question": "What’s stopping you from changing?",
+        "options": [
+          "Fear",
+          "Access",
+          "No support",
+          "Don’t know how"
+        ]
+      },
+      {
+        "num": 454,
+        "question": "Do you fear changing?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 455,
+        "question": "Do you fear who you’ll be without habits?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 456,
+        "question": "Do you have a 30-day goal?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 457,
+        "question": "Do you have a 90-day goal?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 458,
+        "question": "Do you have a 1-year goal?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 459,
+        "question": "Do you write goals down?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 460,
+        "question": "Do you review goals weekly?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 461,
+        "question": "Do you celebrate small wins?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 462,
+        "question": "Do you punish yourself for slip-ups?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 463,
+        "question": "Do you believe relapse is part of recovery?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 464,
+        "question": "Do you have a relapse plan?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 465,
+        "question": "Do you know warning signs?",
+        "options": [
+          "Yes",
+          "No",
+          "Some"
+        ]
+      },
+      {
+        "num": 466,
+        "question": "Do you ask for help?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 467,
+        "question": "Do you offer help to others?",
+        "options": [
+          "Always",
+          "Sometimes",
+          "Never"
+        ]
+      },
+      {
+        "num": 468,
+        "question": "Do you want to mentor someone?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 469,
+        "question": "Do you want to be mentored?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 470,
+        "question": "Do you want to build new habits?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 471,
+        "question": "Do you want to break old habits?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 472,
+        "question": "Do you want more peace?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 473,
+        "question": "Do you want more joy?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 474,
+        "question": "Do you want more connection?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 475,
+        "question": "Do you want more purpose?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 476,
+        "question": "Do you want less stress?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 477,
+        "question": "Do you want less anxiety?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 478,
+        "question": "Do you want less debt?",
+        "options": [
+          "Yes",
+          "No",
+          "No debt"
+        ]
+      },
+      {
+        "num": 479,
+        "question": "Do you want more freedom?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 480,
+        "question": "Do you want more time?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 481,
+        "question": "Do you want more presence?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 482,
+        "question": "Do you want to be a better parent?",
+        "options": [
+          "Yes",
+          "No",
+          "No kids"
+        ]
+      },
+      {
+        "num": 483,
+        "question": "Do you want to be a better partner?",
+        "options": [
+          "Yes",
+          "No",
+          "No partner"
+        ]
+      },
+      {
+        "num": 484,
+        "question": "Do you want to be a better friend?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 485,
+        "question": "Do you want to be a better leader?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 486,
+        "question": "Do you want to leave a legacy?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 487,
+        "question": "Do you think it’s too late to change?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 488,
+        "question": "Do you think it’s worth trying?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 489,
+        "question": "What would \"success\" look like in 1 year?",
+        "options": [
+          "Sober",
+          "Less screen time",
+          "More money",
+          "Better health",
+          "Better relationships"
+        ]
+      },
+      {
+        "num": 490,
+        "question": "What would \"failure\" look like in 1 year?",
+        "options": [
+          "Same habits",
+          "Worse health",
+          "Lost relationships",
+          "More debt"
+        ]
+      },
+      {
+        "num": 491,
+        "question": "Who benefits if you change?",
+        "options": [
+          "Me",
+          "Family",
+          "Friends",
+          "Work",
+          "Everyone"
+        ]
+      },
+      {
+        "num": 492,
+        "question": "Who suffers if you don’t change?",
+        "options": [
+          "Me",
+          "Family",
+          "Friends",
+          "Work",
+          "Everyone"
+        ]
+      },
+      {
+        "num": 493,
+        "question": "Are you willing to be uncomfortable?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 494,
+        "question": "Are you willing to be honest?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 495,
+        "question": "Are you willing to ask for help?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 496,
+        "question": "Are you willing to track data?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 497,
+        "question": "Are you willing to educate yourself?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 498,
+        "question": "Are you willing to teach others?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "num": 499,
+        "question": "On scale 1-10, how committed are you?",
+        "options": [
+          "1-3",
+          "4-6",
+          "7-8",
+          "9-10"
+        ]
+      },
+      {
+        "num": 500,
+        "question": "What’s one action you’ll take this week?",
+        "options": [
+          "Delete an app",
+          "Talk to someone",
+          "Track habits",
+          "No plan",
+          "Other"
+        ]
+      }
+    ]
+  }
+]

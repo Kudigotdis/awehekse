@@ -1,0 +1,110 @@
+{
+  "facilities": [
+    {
+      "name": "Sbrana Psychiatric Hospital",
+      "location": "Lobaste",
+      "type": "PUBLIC REFERRAL",
+      "services": "National tertiary referral hospital, specialized inpatient unit, acute psychiatric care, detox & SUD rehab.",
+      "contact": {
+        "tel": "+267 530 5500",
+        "address": "Plot 8199, Boswela Tlou, Lobaste"
+      }
+    },
+    {
+      "name": "BOSASNet Botswana Substance Abuse Support Network",
+      "location": "Gaborone",
+      "type": "NGO / NON-PROFIT",
+      "services": "Outpatient counselling, substance abuse screening, family support groups, prevention education.",
+      "contact": {
+        "tel": "+267 395 3120",
+        "email": "info.bosasnet@gmail.com",
+        "address": "Plot 1867, Ext 4, Gaborone"
+      }
+    },
+    {
+      "name": "Princess Marina Hospital Psychiatric Unit",
+      "location": "Gaborone",
+      "type": "PUBLIC TERTIARY",
+      "services": "Outpatient mental health assessments, crisis stabilization, substance detoxification.",
+      "contact": {
+        "tel": "+267 362 1400 / 362 2780",
+        "address": "P.O. Box 258, Hospital Way, Gaborone"
+      }
+    },
+    {
+      "name": "Nyangabgwe Referral Hospital Mental Health Ward",
+      "location": "Francistown",
+      "type": "PUBLIC REFERRAL",
+      "services": "Inpatient psychiatric care, outpatient addiction support for Northern Region.",
+      "contact": {
+        "tel": "+267 244 1100",
+        "address": "Plot 2523, Marang Road, Francistown"
+      }
+    },
+    {
+      "name": "Silence They Speak (STS) Rehabilitation Centre",
+      "location": "Molepolole",
+      "type": "COMMUNITY / PRIVATE",
+      "services": "Addiction counselling, youth rehabilitation programs, community reintegration.",
+      "contact": {
+        "hotline": "+267 71 888 880",
+        "address": "Kweneng District, Molepolole"
+      }
+    }
+  ],
+  "crisisLines": [
+    {
+      "service": "Botswana Police Emergency",
+      "number": "999",
+      "coverage": "National Police Dispatch"
+    },
+    {
+      "service": "Emergency Medical Services (Ambulance)",
+      "number": "997",
+      "coverage": "National Medical Emergency Response"
+    },
+    {
+      "service": "Medical Rescue Response",
+      "number": "992",
+      "coverage": "Emergency Trauma / Rescue Unit"
+    },
+    {
+      "service": "Lifeline Botswana Crisis Line",
+      "number": "+267 391 1270",
+      "coverage": "24/7 Suicide Prevention & Crisis Helpline"
+    },
+    {
+      "service": "Youth Helpline Botswana",
+      "number": "+267 391 2345",
+      "coverage": "Specialized Youth Mental Health & Support"
+    },
+    {
+      "service": "Childline Botswana",
+      "number": "116 / +267 390 0900",
+      "coverage": "Toll-Free Child Protection & Youth Counseling"
+    }
+  ],
+  "moduleUpdates": {
+    "legalAndScenarios": {
+      "title": "Legal & Scenarios Module (The Verdict & Library)",
+      "actions": [
+        "Legal References: Replace Zimbabwean Acts (e.g., Dangerous Drugs Act [Cap 15:02]) with Botswana's Drugs and Related Substances Act, Penal Code (Cap 08:01), and Liquor Act.",
+        "Quiz Content: Refactor scenarios in The Verdict game to reflect Botswana Police Service (BPS) procedures, magistrate court structures, and local sentencing frameworks."
+      ]
+    },
+    "vernacularGames": {
+      "title": "Vernacular, Language & Games",
+      "actions": [
+        "Title Adjustments: Replace Shona titles with Setswana equivalents (e.g., replace Chokwadi Kana Nhema with Nnete kapa Maaka for Truth or Lie).",
+        "Slang Encyclopedia: Update the Street Name Quiz and dictionary datasets with Botswana youth slang terms (e.g., nyaope/unyaope, mooko, dijo, maratagole, chibuku)."
+      ]
+    },
+    "educationalDatabases": {
+      "title": "Educational & Administrative Databases",
+      "actions": [
+        "School Directory: Replace the Zimbabwean database with Botswana's Ministry of Basic Education school registry categorized across Botswana's 10 administrative districts (e.g., South-East, Kweneng, Central, North-East).",
+        "Regional Mapping: Update GPS facility matching to default to Botswana regional centroids (Gaborone, Francistown, Lobatse, Maun, Kasane)."
+      ]
+    }
+  }
+}

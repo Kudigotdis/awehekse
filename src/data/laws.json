@@ -1,0 +1,241 @@
+{
+  "agency": {
+    "name": "National Enforcement Agency (NDSACEA)",
+    "desc": "Established under Bill H.B. 12, 2025 (Gazetted Oct 10, 2025) as Zimbabwe's central body to eradicate substance syndicates and manage rehabilitation.",
+    "divisions": [
+      {
+        "name": "Enforcement Div.",
+        "desc": "Supply reduction, border monitoring & prosecution with ZRP."
+      },
+      {
+        "name": "Social Services Div.",
+        "desc": "Demand reduction, public education & rehab integration."
+      }
+    ]
+  },
+  "statute": {
+    "title": "Criminal Law Code [Cap 9:23] Structure",
+    "items": [
+      {
+        "label": "Sec 156 Dealing (Aggravated):",
+        "text": "15 to 20 years imprisonment + Level 14 fine.",
+        "tone": "rose"
+      },
+      {
+        "label": "Sec 156 Dealing (Non-Aggravated):",
+        "text": "Up to Level 14 fine or up to 15 years imprisonment.",
+        "tone": "rose"
+      },
+      {
+        "label": "Sec 157 Possession/Use:",
+        "text": "Fine up to Level 10, up to 10 years imprisonment, or both.",
+        "tone": "orange"
+      },
+      {
+        "label": "Sec 158 Cultivation:",
+        "text": "Fine up to Level 10, up to 10 years imprisonment, or both.",
+        "tone": "orange"
+      }
+    ]
+  },
+  "zones": [
+    {
+      "tag": "Zone 1 • Stimulants",
+      "title": "Uppers (Crystal Meth, Cocaine, Khat)",
+      "category": "laws substance",
+      "icon": "cherry",
+      "keywords": "crystal meth mutoriro dombo guka tik cocaine crack khat mairungi energy drinks uppers",
+      "items": [
+        {
+          "heading": "Crystal Meth (Mutoriro / Dombo / Guka)",
+          "level": "h2",
+          "law": "Criminal Law Code [Cap 9:23] (Sec 156/157) & Dangerous Drugs Act [Cap 15:02]. Scheduled synthetic prohibited substance.",
+          "punishmentsTitle": "Statutory Punishments",
+          "punishments": [
+            {
+              "label": "Dealing / Supply / Manufacturing:",
+              "text": "15 to 20 years mandatory imprisonment without option of fine under aggravated circumstances."
+            },
+            {
+              "label": "Possession / Personal Use:",
+              "text": "Up to 10 years imprisonment."
+            }
+          ]
+        },
+        {
+          "heading": "Cocaine & Crack Cocaine",
+          "level": "h3",
+          "law": "Dangerous Drugs Act [Cap 15:02] Part II. Strictly illegal Class A narcotic.",
+          "punishments": [
+            {
+              "label": "Trafficking / Dealing:",
+              "text": "15 to 20 years mandatory imprisonment."
+            },
+            {
+              "label": "Possession:",
+              "text": "Up to 10 years imprisonment."
+            }
+          ]
+        },
+        {
+          "heading": "Khat / Mairungi",
+          "level": "h3",
+          "law": "Dangerous Drugs Act [Cap 15:02]. Scheduled plant containing cathinone.",
+          "punishments": [
+            {
+              "label": "Dealing / Possession:",
+              "text": "Level 10-14 fines to 10–15 years imprisonment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "Zone 2 • Depressants",
+      "title": "Downers (Heroin, Bronco, Alcohol, Benzos)",
+      "category": "laws substance",
+      "icon": "sky",
+      "keywords": "heroin nyaope broncleer bronco codeine benzos mandrax valium inhalants glue petrol alcohol musombodia kachasu downers",
+      "items": [
+        {
+          "heading": "Heroin & Street-Cut Opiates (Nyaope)",
+          "level": "h2",
+          "law": "Dangerous Drugs Act [Cap 15:02] Part I/II.",
+          "punishments": [
+            {
+              "label": "Dealing:",
+              "text": "15 to 20 years imprisonment."
+            },
+            {
+              "label": "Possession:",
+              "text": "Up to 10 years imprisonment."
+            }
+          ]
+        },
+        {
+          "heading": "Prescription Cough Syrups (Broncleer / Bronco / Codeine)",
+          "level": "h3",
+          "law": "Medicines & Allied Substances Control Act (MASCA) [Cap 15:03] & Customs Act.",
+          "punishments": [
+            {
+              "label": "Unlawful Import / Bootlegging:",
+              "text": "Prosecuted under MASCA Sec 38/100. Fines up to Level 12, product seizure, and 5 to 10 years imprisonment."
+            }
+          ]
+        },
+        {
+          "heading": "Dissociatives & Benzos (Mandrax / Valium / Mangemba)",
+          "level": "h3",
+          "law": "MASCA [Cap 15:03] & Dangerous Drugs Act (for Mandrax).",
+          "punishments": [
+            {
+              "label": "Mandrax Dealing:",
+              "text": "Up to 15 years imprisonment."
+            },
+            {
+              "label": "Illegal Prescription Dispensing:",
+              "text": "Up to 5 years under MASCA."
+            }
+          ]
+        },
+        {
+          "heading": "Illicit Brews (Musombodia / Kachasu / Tumbwa)",
+          "level": "h3",
+          "law": "Harmful Liquids Act [Cap 14:10] & Liquor Act [Cap 14:12].",
+          "punishments": [
+            {
+              "label": "Distilling / Selling Illicit Spirits:",
+              "text": "Fines up to Level 7, destruction of brewing equipment, and 1 to 2 years imprisonment."
+            },
+            {
+              "label": "Selling to Minors:",
+              "text": "License revocation & fines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "Zone 3 • Chemical & Ambient",
+      "title": "Cannabis, Vaping & Tobacco",
+      "category": "laws substance",
+      "icon": "lime",
+      "keywords": "cannabis mbanje dagga skunk vaping e-cigarettes tobacco shisha psychedelics",
+      "items": [
+        {
+          "heading": "Cannabis / Mbanje / Dagga",
+          "level": "h2",
+          "law": "Criminal Law Code (Sec 156, 157, 158) & SI 62 of 2018 (Medicinal Licensing).",
+          "note": "Industrial & medical cannabis legal ONLY under MoHCC licence. Recreational use remains illegal.",
+          "punishments": [
+            {
+              "label": "Unlawful Dealing:",
+              "text": "Fines up to Level 14 or imprisonment up to 15 years."
+            },
+            {
+              "label": "Cultivation:",
+              "text": "10 to 15 years imprisonment."
+            },
+            {
+              "label": "Personal Possession / Use:",
+              "text": "Fines or 3 to 10 years imprisonment (courts typically issue 6–36 months for small amounts)."
+            }
+          ]
+        },
+        {
+          "heading": "Vaping & E-Cigarettes",
+          "level": "h3",
+          "law": "Tobacco Control Regulations (SI 263/2002) & MASCA.",
+          "punishments": [
+            {
+              "label": "Violations:",
+              "text": "Fines for selling to under 18s or importing uncertified nicotine liquid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "Behavioral & Digital",
+      "title": "Gambling, Forex Schemes & Pornography",
+      "category": "laws conditioning",
+      "icon": "purple",
+      "keywords": "gambling sports betting aviator mabhetis forex crypto trading pornography explicit media",
+      "items": [
+        {
+          "heading": "Gambling & Unlicensed Betting (Aviator / Dens)",
+          "level": "h2",
+          "law": "Lotteries & Gaming Act [Cap 10:26]. Legal only via licensed operators.",
+          "punishments": [
+            {
+              "label": "Unlicensed Gaming Dens:",
+              "text": "Fines up to Level 10, forfeiture of gaming machines, and up to 2 years imprisonment."
+            }
+          ]
+        },
+        {
+          "heading": "Forex & Crypto Ponzi Schemes",
+          "level": "h3",
+          "law": "Exchange Control Act [Cap 22:05] & Criminal Law Code Sec 136 (Fraud).",
+          "punishments": [
+            {
+              "label": "Unlicensed Dealing / Fraud:",
+              "text": "Imprisonment up to 10 to 14 years & mandatory forfeiture of illicit funds."
+            }
+          ]
+        },
+        {
+          "heading": "Explicit / Pornographic Digital Content",
+          "level": "h3",
+          "law": "Censorship Act [Cap 10:04] & Cyber Data Protection Act [Cap 12:07].",
+          "punishments": [
+            {
+              "label": "Digital Distribution:",
+              "text": "Fines or 5 to 10 years imprisonment (escalating heavily for offenses involving minors)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

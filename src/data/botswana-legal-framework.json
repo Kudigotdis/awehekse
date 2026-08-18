@@ -1,0 +1,594 @@
+{
+  "metadata": {
+    "jurisdiction": "Botswana",
+    "subject": "Legal & Policy Framework — Drugs, Medicines, Mental Health, Behavioral Conditions",
+    "generated": "2026-08-17",
+    "version": "1.0"
+  },
+  "legislative_framework": {
+    "primary_acts": [
+      {
+        "id": "drsa_1992",
+        "title": "Drugs and Related Substances Act (1992)",
+        "status": "repealed",
+        "replaced_by": "Medicines and Related Substances Act (Act No. 8 of 2013)",
+        "sections": [
+          {
+            "type": "regulatory_framework",
+            "description": "Governs the registration, manufacturing, importation, exportation, distribution, and classification of pharmaceutical products and controlled substances in Botswana."
+          },
+          {
+            "type": "control_of_habit_forming_drugs",
+            "description": "Classifies habit-forming and controlled substances into specific schedules (e.g., Schedules 1A, 1B, 1C) based on abuse potential, setting strict rules for prescription requirements and storage under a registered pharmacist."
+          },
+          {
+            "type": "offenses_enforcement",
+            "description": "Prohibits the unauthorized possession, manufacture, sale, or distribution of unregistered or banned substances. Authorizes the Director of Health Services and law enforcement to conduct inspections, seize illegal substances, and revoke trade licenses for non-compliance."
+          }
+        ]
+      },
+      {
+        "id": "mrsa_2013",
+        "title": "Medicines and Related Substances Act (Act No. 8 of 2013)",
+        "cite": "Cap. 63:04",
+        "status": "current",
+        "sections": 69,
+        "parts": 13,
+        "overview": "Primary legislation governing the registration, manufacture, distribution, importation, exportation, dispensing, and post-market surveillance of medicines, medical devices, cosmetics, and controlled substances in Botswana.",
+        "key_components": [
+          {
+            "part": "I",
+            "sections": "1–2",
+            "title": "Preliminary",
+            "content": "Defines key terminology (e.g., analyst, counterfeit product, cosmetic, clinical trial) and scope."
+          },
+          {
+            "part": "II & III",
+            "sections": "3–18",
+            "title": "Governance Framework",
+            "content": "Details the structural establishment, composition, tenure, disqualifications, and duty of disclosure/confidentiality for both BoMRA and its Board of Directors."
+          },
+          {
+            "part": "IV & V",
+            "sections": "14–22",
+            "title": "Board Proceedings & Financial Provisions",
+            "content": "Sets rules on voting, indemnity of members, accounts, annual audits, and financial reporting."
+          },
+          {
+            "part": "VI",
+            "sections": "23–37",
+            "title": "Technical Operational Controls",
+            "content": "Application procedures, licensing of pharmaceutical operations, parallel import of generics, post-marketing surveillance, border procedures for medicines in transit, and mandatory safe disposal protocols."
+          },
+          {
+            "part": "VII",
+            "sections": "38–47",
+            "title": "Prescriptions & Storage Security",
+            "content": "Mandates exact requirements for prescription validity, product labeling, secure custody of restricted items, and powers of inspectors to enter and inspect premises."
+          },
+          {
+            "part": "VIII",
+            "sections": "48–50",
+            "title": "Veterinary Medicinal Products",
+            "content": "Regulates animal health products, veterinary premix preparations, feed mills, and maximum residue limits in livestock/food chains."
+          },
+          {
+            "part": "XI",
+            "sections": "58–63",
+            "title": "Cosmetics Regulation",
+            "content": "Bans unsanitary cosmetic manufacturing, prohibits false therapeutic claims, regulates chemical ingredients, and mandates labeling standards."
+          },
+          {
+            "part": "XII & XIII",
+            "sections": "64–69",
+            "title": "Governance & Appeals",
+            "content": "Establishes the National Medicines and Therapeutics Board and an independent Appeals Committee for aggrieved applicants/licensees."
+          }
+        ],
+        "subsidiary_legislation": {
+          "cite": "Medicines and Related Substances Regulations (S.I. 163 of 2019)",
+          "details": [
+            {
+              "type": "detailed_schedules",
+              "description": "Specifies exact prescription levels, maximum supply durations, and register retention periods (e.g., 3-year record retention for Schedule 1A)."
+            },
+            {
+              "type": "complementary_medicines",
+              "description": "Details registration pathways, exemption criteria, and safety checks for herbal, traditional, and complementary health products."
+            },
+            {
+              "type": "precursor_chemicals",
+              "description": "Outlines specific licensing, reporting, and misuse controls for precursor chemicals used in pharmaceutical manufacturing."
+            }
+          ]
+        }
+      },
+      {
+        "id": "penal_code",
+        "title": "Penal Code",
+        "cite": "Cap. 08:01",
+        "key_sections": [
+          {
+            "category": "Crimes Against Public Order & Persons",
+            "content": "Contains central statutory provisions criminalizing drug trafficking, unauthorized possession of illicit substances (cannabis, cocaine, methamphetamines), and public drunkenness."
+          },
+          {
+            "category": "Sentencing Framework",
+            "content": "Establishes penalties for drug-related criminal acts, ranging from fines and short-term imprisonment for minor possession to lengthy custodial sentences (5–25 years) for commercial trafficking and large-scale distribution."
+          },
+          {
+            "category": "Drunk & Impaired Driving Offenses",
+            "content": "Cross-references statutory offenses for driving or attempting to drive while unfit due to alcohol or drug consumption."
+          }
+        ]
+      },
+      {
+        "id": "liquor_act",
+        "title": "Liquor Act & Regulations",
+        "key_sections": [
+          {
+            "category": "Licensing Requirements",
+            "content": "Outlines legal requirements for manufacturing, wholesaling, distributing, and retailing alcoholic beverages."
+          },
+          {
+            "category": "Operating Hours & Directives",
+            "content": "Dictates precise trading hours across establishment categories (bottle stores, bars, nightclubs, depots, restaurants) and restricts liquor sales to bona-fide diners during specific hours on public holidays."
+          },
+          {
+            "category": "Underage Restrictions",
+            "content": "Strictly prohibits the sale, supply, or serving of intoxicating liquor to any person under 18 years, placing compliance duties on venue operators and managers."
+          }
+        ]
+      },
+      {
+        "id": "mental_health_act",
+        "title": "Mental Health Act",
+        "cite": "Chapter 15:12",
+        "scope": "Governs detention, treatment, rights of mentally disordered persons, reception orders, and Mental Health Review Tribunals."
+      },
+      {
+        "id": "criminal_law_code",
+        "title": "Criminal Law Code",
+        "cite": "Chapter 9:23",
+        "sections": "217–229",
+        "scope": "Governs criminal capacity, diminished responsibility defenses, and mandatory forensic psychiatric evaluation for dangerous behavior."
+      },
+      {
+        "id": "public_health_act",
+        "title": "Public Health Act",
+        "cite": "Chapter 15:17",
+        "scope": "Authorizes emergency medical/psychiatric interventions when bodily malnutrition or physical decay poses immediate threat to life."
+      },
+      {
+        "id": "disabled_persons_act",
+        "title": "Disabled Persons Act",
+        "cite": "Chapter 17:01",
+        "scope": "Guarantees anti-discrimination protections, educational accessibility adjustments, and state assistance frameworks."
+      },
+      {
+        "id": "labour_act",
+        "title": "Labour Act",
+        "cite": "Chapter 28:01",
+        "scope": "Regulates occupational health standards, rest periods, medical leave entitlements, and retrenchment protections."
+      },
+      {
+        "id": "social_welfare_assistance_act",
+        "title": "Social Welfare Assistance Act",
+        "cite": "Chapter 17:06",
+        "scope": "Provides legal framework for social welfare assistance funds and public unemployment mitigation programs."
+      },
+      {
+        "id": "education_act",
+        "title": "Education Act",
+        "cite": "Chapter 25:04",
+        "scope": "Protects students from institutional abuse, enforces safety regulations in schools, and regulates educational examination standards."
+      },
+      {
+        "id": "childrens_act",
+        "title": "Children's Act",
+        "cite": "Chapter 5:06",
+        "scope": "Protects minors from abuse, neglect, and exploitation; governs child welfare and guardianship."
+      },
+      {
+        "id": "traditional_medical_practitioners_act",
+        "title": "Traditional Medical Practitioners Act",
+        "cite": "Chapter 27:14",
+        "scope": "Formally recognizes and regulates traditional healers (ZINATHA). Differentiates bona-fide traditional/spiritual healing from harmful practices."
+      },
+      {
+        "id": "customary_law_local_courts_act",
+        "title": "Customary Law and Local Courts Act",
+        "cite": "Chapter 7:05",
+        "scope": "Resolves disputes involving customary beliefs within local courts."
+      },
+      {
+        "id": "dangerous_drugs_act",
+        "title": "Dangerous Drugs Act",
+        "cite": "Chapter 15:02",
+        "scope": "Mandates clinical treatment protocols alongside penal restrictions for illicit substance consumption."
+      }
+    ]
+  },
+  "regulatory_authority": {
+    "name": "Botswana Medicines Regulatory Authority (BoMRA)",
+    "established_by": "Medicines and Related Substances Act (Act No. 8 of 2013)",
+    "reporting_to": "Ministry of Health",
+    "type": "Independent Statutory Body",
+    "mandate": [
+      "Product evaluations and marketing authorisations",
+      "Facility inspections for compliance with GMP, GDP, GPP",
+      "Pharmacovigilance for human and veterinary medicinal products",
+      "Authorization for clinical trials",
+      "Registration of medicines and health products",
+      "Enforcement of labeling and advertising standards",
+      "Border control and seizure of counterfeit/illegal products"
+    ],
+    "key_boards": [
+      {
+        "name": "Board of Directors",
+        "function": "Governance and oversight of BoMRA operations"
+      },
+      {
+        "name": "National Medicines and Therapeutics Board",
+        "function": "Technical evaluation and recommendations on medicines policy"
+      },
+      {
+        "name": "Appeals Committee",
+        "function": "Independent review of BoMRA decisions; addresses grievances from applicants/licensees"
+      }
+    ]
+  },
+  "prescription_schedules": [
+    {
+      "schedule": "Schedule 1A",
+      "classification": "Controlled Drugs & Narcotics",
+      "abuse_potential": "High (physical & psychological dependence, illicit diversion)",
+      "dispensing_requirements": [
+        "Strict written prescription required",
+        "Prescriptions retained for at least 3 years",
+        "Stored under double-lock safe custody",
+        "Mandatory register-keeping"
+      ],
+      "typical_examples": [
+        "Morphine",
+        "Pethidine",
+        "Fentanyl",
+        "Oxycodone"
+      ]
+    },
+    {
+      "schedule": "Schedule 1B",
+      "classification": "Psychotropic Substances & Controlled Sedatives",
+      "abuse_potential": "Significant (slightly lower risk than 1A)",
+      "dispensing_requirements": [
+        "Valid written prescription required",
+        "Subject to quantitative limits per fill",
+        "Strict record-keeping requirements"
+      ],
+      "typical_examples": [
+        "Benzodiazepines (Diazepam, Lorazepam)",
+        "Barbiturates",
+        "Methylphenidate"
+      ]
+    },
+    {
+      "schedule": "Schedule 1C",
+      "classification": "Targeted Therapeutics with Abuse Potential",
+      "abuse_potential": "Minor misuse/dependence risk despite therapeutic value",
+      "dispensing_requirements": [
+        "Valid medical prescription required",
+        "Repeat dispensing only if explicitly indicated by prescriber"
+      ],
+      "typical_examples": [
+        "Codeine-containing combination drugs",
+        "Tramadol",
+        "Pseudoephedrine formulations"
+      ]
+    },
+    {
+      "schedule": "Schedule 1D",
+      "classification": "Unlikely to Produce Dependence",
+      "abuse_potential": "Low (minimal addiction or physical harm risk)",
+      "dispensing_requirements": [
+        "May be dispensed without written prescription under specific pharmacy protocols"
+      ],
+      "typical_examples": [
+        "Select low-dose combinations",
+        "Specialized non-habit-forming oral formulations"
+      ]
+    },
+    {
+      "schedule": "Schedule 2",
+      "classification": "Prescription-Only Medicines (POM)",
+      "abuse_potential": "Low-to-moderate (therapeutic use under supervision)",
+      "dispensing_requirements": [
+        "Dispensed only upon prescription by authorized practitioner (Doctor, Dentist, Veterinarian)",
+        "Dispensed via registered pharmacies or licensed dispensaries"
+      ],
+      "typical_examples": [
+        "Antibiotics",
+        "Antihypertensives",
+        "Anti-diabetics",
+        "Corticosteroids"
+      ]
+    },
+    {
+      "schedule": "Schedule 3",
+      "classification": "Pharmacy-Initiated / Behind-the-Counter Medicines",
+      "abuse_potential": "Very low (over-the-counter availability under supervision)",
+      "dispensing_requirements": [
+        "Available directly at licensed pharmacy",
+        "Requires direct pharmacist advice or patient counseling by registered pharmacist"
+      ],
+      "typical_examples": [
+        "High-dose analgesics",
+        "Antihistamines",
+        "Topical steroid creams",
+        "Oral contraceptives"
+      ]
+    }
+  ],
+  "judicial_precedents": [
+    {
+      "case_name": "S v. Masie & Philips v. S",
+      "jurisdiction": "Botswana High Court",
+      "topic": "Driving Under the Influence",
+      "holding": "Operating a vehicle with a blood-alcohol concentration exceeding the prescribed limit constitutes a substantive offense, establishing an absolute statutory standard for unfitness to drive.",
+      "significance": "Landmark interpretation of statutory provisions relating to DUI."
+    },
+    {
+      "case_type": "Trafficking vs. Personal Possession Precedents",
+      "jurisdiction": "Botswana Courts",
+      "topic": "Drug Possession Distinction",
+      "holding": "Judicial rulings routinely differentiate between simple possession and possession with intent to supply based on quantity, packaging, and monetary value, applying mandatory minimum custodial sentences for commercial-scale drug convictions.",
+      "significance": "Establishes sentencing framework differentials based on evidence of commercial intent."
+    }
+  ],
+  "mental_health_and_behavioral_conditions": {
+    "overview": "Botswana's legislative framework recognizes and regulates 75 distinct behavioral, mental health, and substance-use conditions across statutory acts. Each condition has specific statutes, jurisdictional mandates, and legal provisions governing treatment, rights, and enforcement.",
+    "condition_categories": [
+      {
+        "category": "Substance Use Disorders",
+        "items": "1–20",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Dangerous Drugs Act",
+            "cite": "Chapter 15:02"
+          },
+          {
+            "act": "Penal Code",
+            "cite": "Cap. 08:01"
+          }
+        ],
+        "provisions": "Mandates clinical treatment protocols, harm reduction frameworks, mandatory drug testing in criminal proceedings, and rehabilitation facility access. Differentiates between criminal penalties and medical interventions."
+      },
+      {
+        "category": "Mood & Depressive Disorders",
+        "items": "21–29",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Labour Act",
+            "cite": "Chapter 28:01"
+          }
+        ],
+        "provisions": "Ensures access to psychiatric care, protects employment rights during treatment, and regulates medical leave provisions for severe depression and bipolar affective disorder."
+      },
+      {
+        "category": "Anxiety & Stress-Related Disorders",
+        "items": "30–37",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Public Health Act",
+            "cite": "Chapter 15:17"
+          }
+        ],
+        "provisions": "Regulates voluntary psychiatric care access, psychological therapy authorization, and workplace stress accommodation requirements."
+      },
+      {
+        "category": "Self-Harm & Suicidal Behavior",
+        "items": "38–43",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Criminal Law Code",
+            "cite": "Chapter 9:23"
+          }
+        ],
+        "provisions": "Decriminalizes suicide attempts under modern healthcare directives—classifying acute suicidal crises as psychiatric emergencies requiring involuntary temporary detention or medical stabilization under reception orders."
+      },
+      {
+        "category": "Eating Disorders",
+        "items": "44–48",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Public Health Act",
+            "cite": "Chapter 15:17"
+          }
+        ],
+        "provisions": "Authorizes emergency medical/psychiatric interventions when bodily malnutrition or physical decay poses an immediate threat to life."
+      },
+      {
+        "category": "Focus & Neurodevelopmental Conditions",
+        "items": "49–52",
+        "statutes": [
+          {
+            "act": "Disabled Persons Act",
+            "cite": "Chapter 17:01"
+          },
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          }
+        ],
+        "provisions": "Guarantees anti-discrimination protections, educational accessibility adjustments, appointment of legal guardians/curators (curator bonis/ad litem), and state assistance frameworks."
+      },
+      {
+        "category": "OCD & Related Disorders",
+        "items": "53–57",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Public Health Act",
+            "cite": "Chapter 15:17"
+          }
+        ],
+        "provisions": "Regulates voluntary outpatient psychiatric care, psychological therapy access, and public safety interventions in severe hoarding situations."
+      },
+      {
+        "category": "Personality Disorders",
+        "items": "58–61",
+        "statutes": [
+          {
+            "act": "Criminal Law Code",
+            "cite": "Chapter 9:23 (Sections 217–229)"
+          },
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          }
+        ],
+        "provisions": "Governs criminal capacity, diminished responsibility defenses, and mandatory forensic psychiatric evaluation for dangerous behavior linked to personality pathology."
+      },
+      {
+        "category": "Psychotic Disorders",
+        "items": "62–65",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12 — Part III (Mentally Disordered Persons in Custody)"
+          }
+        ],
+        "provisions": "Establishes reception orders, detention in special institutions (Ingutsheni/Chikurubi Special Institutions), and Mental Health Review Tribunals to assess reality impairment and fitness to stand trial."
+      },
+      {
+        "category": "Somatic & Dissociative Disorders",
+        "items": "66–68",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          }
+        ],
+        "provisions": "Outlines rights for clinical diagnosis, patient protection, and civil capacity assessments."
+      },
+      {
+        "category": "Sleep Disorders",
+        "items": "69–71",
+        "statutes": [
+          {
+            "act": "Public Health Act",
+            "cite": "Chapter 15:17"
+          },
+          {
+            "act": "Labour Act",
+            "cite": "Chapter 28:01"
+          }
+        ],
+        "provisions": "Regulates occupational health standards, rest periods, and medical leave entitlements."
+      },
+      {
+        "category": "Academic Stress Disorder",
+        "items": "72",
+        "statutes": [
+          {
+            "act": "Education Act",
+            "cite": "Chapter 25:04"
+          },
+          {
+            "act": "Children's Act",
+            "cite": "Chapter 5:06"
+          }
+        ],
+        "provisions": "Protects students from institutional abuse, enforces safety regulations in schools, and regulates educational examination standards."
+      },
+      {
+        "category": "Unemployment Depression",
+        "items": "73",
+        "statutes": [
+          {
+            "act": "Labour Act",
+            "cite": "Chapter 28:01"
+          },
+          {
+            "act": "Social Welfare Assistance Act",
+            "cite": "Chapter 17:06"
+          }
+        ],
+        "provisions": "Provides legal framework for retrenchment protections, social welfare assistance funds, and public unemployment mitigation programs."
+      },
+      {
+        "category": "Substance-Induced Mood Disorder",
+        "items": "74",
+        "statutes": [
+          {
+            "act": "Mental Health Act",
+            "cite": "Chapter 15:12"
+          },
+          {
+            "act": "Dangerous Drugs Act",
+            "cite": "Chapter 15:02"
+          }
+        ],
+        "provisions": "Mandates clinical treatment protocols alongside penal restrictions for underlying illicit substance consumption."
+      },
+      {
+        "category": "Cultural & Spiritual Distress",
+        "items": "75",
+        "statutes": [
+          {
+            "act": "Traditional Medical Practitioners Act",
+            "cite": "Chapter 27:14"
+          },
+          {
+            "act": "Customary Law and Local Courts Act",
+            "cite": "Chapter 7:05"
+          }
+        ],
+        "provisions": "Formally recognizes and regulates traditional healers (ZINATHA). Differentiates bona-fide traditional/spiritual healing practices from harmful practices, resolving disputes involving customary beliefs within local courts."
+      }
+    ]
+  },
+  "key_operational_requirements": {
+    "prescription_record_retention": "Minimum 3 years (Schedule 1A/1B)",
+    "pharmaceutical_licensing": [
+      "Manufacturing",
+      "Importing",
+      "Exporting",
+      "Wholesaling",
+      "Retailing"
+    ],
+    "compliance_standards": [
+      "Good Manufacturing Practices (GMP)",
+      "Good Distribution Practices (GDP)",
+      "Good Pharmacy Practices (GPP)"
+    ],
+    "clinical_trials": "Requires official Clinical Trial Certificate from BoMRA",
+    "product_registration": "Mandatory registration and authorization by BoMRA before distribution/sale",
+    "import_personal_use": "Special authorization via BoMRA required for unregistered/life-saving medicines; requires valid local medical prescription and medical justification report",
+    "advertising": "Strict prohibitions on direct-to-consumer advertising of prescription-only medicines without BoMRA authorization",
+    "border_procedures": "Specified entry/exit ports with mandatory declaration of medicines in transit",
+    "counterfeiting": "Powers of border control, customs designation, product recalls, and seizure/disposal of counterfeit products"
+  }
+}

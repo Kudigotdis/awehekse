@@ -1,0 +1,758 @@
+[
+  {
+    "slang": "Mutoriro",
+    "region": "ZW",
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "A potent synthetic stimulant causing euphoria, severe dental decay, and addiction."
+  },
+  {
+    "slang": "Guka",
+    "region": "ZW",
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Another Zim street name for crystal meth, associated with rapid addiction and psychosis."
+  },
+  {
+    "slang": "Tik",
+    "region": "ZA",
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "South African slang for meth, causing \"meth mouth\", paranoia, and brain damage."
+  },
+  {
+    "slang": "Nyaope",
+    "region": "ZA",
+    "clinical": "Heroin & Street Opiates",
+    "explanation": "A dangerous street mixture of heroin and adulterants, highly addictive and often fatal."
+  },
+  {
+    "slang": "Whoonga",
+    "region": "ZA",
+    "clinical": "Heroin & Street Opiates",
+    "explanation": "Heroin-based street drug causing rapid dependency and severe withdrawal."
+  },
+  {
+    "slang": "Bronco",
+    "region": "ZW",
+    "clinical": "Codeine / Prescription Cough Syrups",
+    "explanation": "Zimbabwean slang for codeine syrup, misused as a cheap intoxicant."
+  },
+  {
+    "slang": "Lean",
+    "region": "GLOBAL",
+    "clinical": "Codeine / Prescription Cough Syrups",
+    "explanation": "Global term for codeine syrup mixed with soda, causing sedation and respiratory risk."
+  },
+  {
+    "slang": "Aviator",
+    "region": "ZW",
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "Popular Zimbabwean betting game, leading to debt, family breakdown, and depression."
+  },
+  {
+    "slang": "Fafi",
+    "region": "ZA",
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "South African street betting game, hijacking reward pathways and causing financial ruin."
+  },
+  {
+    "slang": "Musombodia",
+    "region": "ZW",
+    "clinical": "Alcohol & Spirits",
+    "explanation": "High-proof illicit alcohol in Zimbabwe, causing rapid intoxication and liver damage."
+  },
+  {
+    "slang": "Kachasu",
+    "region": "ZW",
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Traditional Zimbabwean brew, chronic use leads to cirrhosis and dependency."
+  },
+  {
+    "slang": "Mbanje",
+    "region": "ZW",
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Zimbabwean term for cannabis, high-THC strains impair memory and trigger anxiety."
+  },
+  {
+    "slang": "Dagga",
+    "region": "ZA",
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "South African slang for cannabis, affects motivation and exacerbates mental health."
+  },
+  {
+    "slang": "Zol",
+    "region": "ZA",
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "South African term for cannabis, chronic use linked to respiratory issues."
+  },
+  {
+    "slang": "Spice",
+    "region": "GLOBAL",
+    "clinical": "Synthetic Cannabinoids",
+    "explanation": "Synthetic cannabinoid spray, causes unpredictable severe toxicity and psychosis."
+  },
+  {
+    "slang": "K2",
+    "region": "GLOBAL",
+    "clinical": "Synthetic Cannabinoids",
+    "explanation": "Another name for synthetic cannabinoids, causing extreme agitation and paranoia."
+  },
+  {
+    "slang": "Coke",
+    "region": "GLOBAL",
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Powder cocaine, a powerful stimulant causing euphoria, paranoia, and cardiovascular risk."
+  },
+  {
+    "slang": "Yayo",
+    "region": "GLOBAL",
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Global slang for cocaine, highly addictive and causes nasal damage."
+  },
+  {
+    "slang": "Mandrax",
+    "region": "ZA",
+    "clinical": "Dissociative Anesthetics & Sedatives",
+    "explanation": "South African term for methaqualone, a powerful sedative with fatal overdose risk."
+  },
+  {
+    "slang": "Buttons",
+    "region": "ZA",
+    "clinical": "Dissociative Anesthetics & Sedatives",
+    "explanation": "Street name for Mandrax tablets, leading to severe sedation and dependency."
+  },
+  {
+    "slang": "Genkem",
+    "region": "ZA",
+    "clinical": "Inhalants & Industrial Solvents",
+    "explanation": "South African glue-sniffing term, causing brain damage and fatal arrhythmia."
+  },
+  {
+    "slang": "Petrol",
+    "region": "ZW",
+    "clinical": "Inhalants & Industrial Solvents",
+    "explanation": "Gasoline inhalation, causing neurological damage, seizures, and organ failure."
+  },
+  {
+    "slang": "Mairungi",
+    "region": "ZW",
+    "clinical": "Khat / Mairungi",
+    "explanation": "Zimbabwean term for khat, a traditional stimulant causing hypertension and mouth ulcers."
+  },
+  {
+    "slang": "Kat",
+    "region": "ZA",
+    "clinical": "Khat / Mairungi",
+    "explanation": "South African term for khat, chewed for energy, leads to sleep disruption and hypertension."
+  },
+  {
+    "slang": "Snow",
+    "region": "GLOBAL",
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Global street name for cocaine, short-lived euphoria followed by intense crash."
+  },
+  {
+    "slang": "Blow",
+    "region": "GLOBAL",
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Another global term for cocaine, highly addictive and causes nasal perforation."
+  },
+  {
+    "slang": "Kush",
+    "region": "GLOBAL",
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Global term for high-potency cannabis, increasing risk of anxiety and psychosis."
+  },
+  {
+    "slang": "The Gram",
+    "region": "GLOBAL",
+    "clinical": "Social Media Conditioning",
+    "explanation": "Instagram, algorithmic feeds create FOMO, social comparison, and validation dependence."
+  },
+  {
+    "slang": "Doom-scroll",
+    "region": "GLOBAL",
+    "clinical": "Social Media Conditioning",
+    "explanation": "Compulsive consumption of negative news, raising cortisol and reinforcing hopelessness."
+  },
+  {
+    "slang": "Loot-boxes",
+    "region": "GLOBAL",
+    "clinical": "Online Gaming Conditioning",
+    "explanation": "Predatory game mechanics triggering dopamine through random rewards, leading to compulsive spending."
+  },
+  {
+    "slang": "Rage-farming",
+    "region": "GLOBAL",
+    "clinical": "Algorithmic Rage-Bait",
+    "explanation": "Content engineered to provoke outrage, trapping users in dopamine-stress loops."
+  },
+  {
+    "slang": "Tinder-swiping",
+    "region": "GLOBAL",
+    "clinical": "Dating & Hookup Apps",
+    "explanation": "Swipe-based dating apps creating validation dependence and rejection sensitivity."
+  },
+  {
+    "slang": "Hollywoodbets",
+    "region": "ZA",
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "Major South African betting platform, causing debt, depression, and family breakdown."
+  },
+  {
+    "slang": "Spina Zonke",
+    "region": "ZA",
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "South African gambling term meaning \"win everything\", hijacking reward pathways."
+  },
+  {
+    "slang": "Kurova nepfungwa",
+    "region": "ZW",
+    "clinical": "Major Depressive Disorder",
+    "explanation": "Shona term for \"depression\" or \"overthinking\", causing persistent sadness and suicidal thoughts."
+  },
+  {
+    "slang": "Kusurukirwa",
+    "region": "ZW",
+    "clinical": "Major Depressive Disorder",
+    "explanation": "Zimbabwean term for feeling low, chronic sadness and disruption of daily functioning."
+  },
+  {
+    "slang": "Mapangachini",
+    "region": "ZW",
+    "clinical": "Generalized Anxiety Disorder",
+    "explanation": "Zimbabwean slang for anxiety, persistent worry, muscle tension, and fatigue."
+  },
+  {
+    "slang": "Kubhaiza",
+    "region": "ZW",
+    "clinical": "Social Anxiety Disorder",
+    "explanation": "Shona term for freezing under social stress, intense fear of scrutiny and avoidance."
+  },
+  {
+    "slang": "Kupenga",
+    "region": "ZW",
+    "clinical": "Schizophrenia",
+    "explanation": "Shona term for psychosis or schizophrenia, hallucinations and disorganized thinking."
+  },
+  {
+    "slang": "Kutsva musoro",
+    "region": "ZW",
+    "clinical": "Schizophrenia",
+    "explanation": "Zimbabwean expression meaning \"burnt head\", referring to severe psychosis."
+  },
+  {
+    "slang": "Unalive-thoughts",
+    "region": "GLOBAL",
+    "clinical": "Suicidal Ideation",
+    "explanation": "Internet term for suicidal thoughts, requiring immediate crisis intervention."
+  },
+  {
+    "slang": "Sterkfontein-bound",
+    "region": "ZA",
+    "clinical": "Schizophrenia",
+    "explanation": "South African reference to Sterkfontein hospital, slang for severe psychosis requiring care."
+  },
+  {
+    "slang": "Ingutsheni-bound",
+    "region": "ZW",
+    "clinical": "Schizophrenia",
+    "explanation": "Zimbabwean reference to Ingutsheni hospital, indicating severe psychotic breakdown."
+  },
+  {
+    "slang": "Mathawa",
+    "region": "BW",
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Setswana street name for crystal meth, causing rapid addiction, psychosis, and severe dental decay."
+  },
+  {
+    "slang": "Dombo",
+    "region": "BW",
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Botswana slang for crystal meth (meaning 'stone'), highly addictive stimulant."
+  },
+  {
+    "slang": "Glass",
+    "region": "BW",
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Botswana street term for crystal meth, referring to its transparent crystal form."
+  },
+  {
+    "slang": "Charlie",
+    "region": "BW",
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Botswana slang for cocaine, a powerful stimulant causing euphoria and cardiovascular risk."
+  },
+  {
+    "slang": "Mabwe",
+    "region": "BW",
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Setswana term meaning 'stones', referring to crack cocaine rocks."
+  },
+  {
+    "slang": "Motokwane",
+    "region": "BW",
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Setswana term for cannabis, widely used in Botswana, affecting motivation and mental health."
+  },
+  {
+    "slang": "Ntolo",
+    "region": "BW",
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Botswana street name for cannabis, chronic use linked to respiratory issues and psychosis."
+  },
+  {
+    "slang": "Kachasu",
+    "region": "BW",
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Traditional home-brewed spirit in Botswana, causing rapid intoxication and liver damage."
+  },
+  {
+    "slang": "Khadi",
+    "region": "BW",
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Traditional Botswana brew, chronic use leads to cirrhosis and dependency."
+  },
+  {
+    "slang": "Metsi a molelo",
+    "region": "BW",
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Setswana for 'fire water', referring to high-proof illicit alcohol causing organ failure."
+  },
+  {
+    "slang": "Chibuku",
+    "region": "BW",
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Commercial sorghum beer popular in Botswana, contributing to alcohol dependency."
+  },
+  {
+    "slang": "Sekhomo",
+    "region": "BW",
+    "clinical": "Inhalants & Industrial Solvents",
+    "explanation": "Setswana term for glue-sniffing, causing brain damage and fatal arrhythmia."
+  },
+  {
+    "slang": "Metsi a sekorokoro",
+    "region": "BW",
+    "clinical": "Inhalants & Industrial Solvents",
+    "explanation": "Botswana term for industrial solvent abuse, causing neurological damage and seizures."
+  },
+  {
+    "slang": "Majozi",
+    "region": "BW",
+    "clinical": "Dissociative Anesthetics & Sedatives",
+    "explanation": "Botswana slang for sedative tablets, leading to severe sedation and fatal overdose risk."
+  },
+  {
+    "slang": "Siropo",
+    "region": "BW",
+    "clinical": "Codeine / Prescription Cough Syrups",
+    "explanation": "Setswana term for prescription cough syrup, misused as a cheap intoxicant."
+  },
+  {
+    "slang": "Metsi a mahibidu",
+    "region": "BW",
+    "clinical": "Codeine / Prescription Cough Syrups",
+    "explanation": "Setswana for 'red water', referring to codeine syrup mixed with other substances."
+  },
+  {
+    "slang": "Mabowa",
+    "region": "BW",
+    "clinical": "Psychedelics",
+    "explanation": "Setswana term for psychedelic mushrooms, causing hallucinations and unpredictable reactions."
+  },
+  {
+    "slang": "Motsoko",
+    "region": "BW",
+    "clinical": "Tobacco & Snuff",
+    "explanation": "Setswana term for tobacco, chronic use causing respiratory disease and cancer."
+  },
+  {
+    "slang": "Bute",
+    "region": "BW",
+    "clinical": "Tobacco & Snuff",
+    "explanation": "Setswana term for snuff, a smoked or sniffed tobacco product causing nicotine dependency."
+  },
+  {
+    "slang": "Paepe",
+    "region": "BW",
+    "clinical": "Tobacco & Snuff",
+    "explanation": "Setswana term for pipe smoking, associated with traditional tobacco use."
+  },
+  {
+    "slang": "Mabhetis",
+    "region": "BW",
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "Setswana slang for betting, leading to debt, family breakdown, and depression."
+  },
+  {
+    "slang": "Botheki",
+    "region": "BW",
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "Setswana term for betting, hijacking reward pathways and causing financial ruin."
+  },
+  {
+    "slang": "Setseno",
+    "region": "BW",
+    "clinical": "Schizophrenia",
+    "explanation": "Setswana term for madness or psychosis, involving hallucinations and disorganized thinking."
+  },
+  {
+    "slang": "Kutlobotlhoko",
+    "region": "BW",
+    "clinical": "Major Depressive Disorder",
+    "explanation": "Setswana term for depression or deep sadness, causing persistent sadness and suicidal thoughts."
+  },
+  {
+    "slang": "Mapangachini",
+    "region": "BW",
+    "clinical": "Generalized Anxiety Disorder",
+    "explanation": "Setswana term for anxiety, persistent worry, muscle tension, and fatigue."
+  },
+  {
+    "slang": "Go ikgobatsa",
+    "region": "BW",
+    "clinical": "Non-Suicidal Self-Injury",
+    "explanation": "Setswana term for self-harm, involving deliberate self-injury without suicidal intent."
+  },
+  {
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Setswana street name for crystal meth, causing rapid addiction and psychosis.",
+    "slang": "Tik",
+    "region": "BW"
+  },
+  {
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Botswana term for crystal meth, referring to its clear crystal appearance.",
+    "slang": "Ice",
+    "region": "BW"
+  },
+  {
+    "clinical": "Crystal Methamphetamine",
+    "explanation": "Botswana slang for crystal meth use, associated with severe health decline.",
+    "slang": "Guka",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Botswana slang for cocaine powder, a powerful stimulant with high addiction potential.",
+    "slang": "Snow",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Botswana street term for cocaine, causing euphoria followed by severe crash.",
+    "slang": "Blow",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cocaine & Crack Cocaine",
+    "explanation": "Botswana term for crack cocaine rocks, highly addictive and dangerous.",
+    "slang": "Rock",
+    "region": "BW"
+  },
+  {
+    "clinical": "Khat / Mairungi",
+    "explanation": "Setswana term for khat, a stimulant plant causing dependence and health risks.",
+    "slang": "Miraa",
+    "region": "BW"
+  },
+  {
+    "clinical": "Energy Drinks & High-Caffeine Products",
+    "explanation": "Botswana slang for energy drinks, causing heart palpitations and anxiety.",
+    "slang": "Boost",
+    "region": "BW"
+  },
+  {
+    "clinical": "Heroin & Street-Cut Opiates",
+    "explanation": "Botswana slang for heroin, highly addictive and potentially fatal.",
+    "slang": "Pinch",
+    "region": "BW"
+  },
+  {
+    "clinical": "Heroin & Street-Cut Opiates",
+    "explanation": "Botswana street name for heroin, causing severe physical dependence.",
+    "slang": "Smack",
+    "region": "BW"
+  },
+  {
+    "clinical": "Codeine / Prescription Cough Syrups",
+    "explanation": "Botswana term for codeine syrup mixed with soda, causing sedation.",
+    "slang": "Lean",
+    "region": "BW"
+  },
+  {
+    "clinical": "Sedatives & Dissociatives",
+    "explanation": "Botswana slang for mandrax, a dangerous sedative causing respiratory depression.",
+    "slang": "White Pipe",
+    "region": "BW"
+  },
+  {
+    "clinical": "Sedatives & Dissociatives",
+    "explanation": "Botswana term for sedative tablets, leading to overdose risk.",
+    "slang": "Buttons",
+    "region": "BW"
+  },
+  {
+    "clinical": "Sedatives & Dissociatives",
+    "explanation": "Setswana slang for sedative pills, commonly abused in Botswana.",
+    "slang": "Di-Pills",
+    "region": "BW"
+  },
+  {
+    "clinical": "Inhalants & Industrial Solvents",
+    "explanation": "Botswana term for glue-sniffing, causing brain damage and organ failure.",
+    "slang": "Genkem",
+    "region": "BW"
+  },
+  {
+    "clinical": "Inhalants & Industrial Solvents",
+    "explanation": "Botswana slang for petrol sniffing, causing neurological damage.",
+    "slang": "Petrol",
+    "region": "BW"
+  },
+  {
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Setswana word for alcohol, used generally for alcoholic drinks.",
+    "slang": "Bjalwa",
+    "region": "BW"
+  },
+  {
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Botswana slang for home-brewed alcohol, causing rapid intoxication.",
+    "slang": "Mojo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Alcohol & Spirits",
+    "explanation": "Botswana slang for drinking alcohol, casual term for social drinking.",
+    "slang": "Sip",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Southern African term for cannabis, widely used in Botswana.",
+    "slang": "Dagga",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Botswana slang for cannabis, chronic use linked to mental health issues.",
+    "slang": "Ganja",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Common Botswana term for cannabis, affecting motivation and cognition.",
+    "slang": "Weed",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Botswana street name for potent cannabis, causing intense intoxication.",
+    "slang": "Jet",
+    "region": "BW"
+  },
+  {
+    "clinical": "Cannabis / Mbanje / Skunk",
+    "explanation": "Botswana slang for a cannabis joint, associated with respiratory risks.",
+    "slang": "Zol",
+    "region": "BW"
+  },
+  {
+    "clinical": "Combustible Tobacco, Shisha & Snuff",
+    "explanation": "Botswana term for hookah smoking, causing nicotine addiction.",
+    "slang": "Shisha",
+    "region": "BW"
+  },
+  {
+    "clinical": "Combustible Tobacco, Shisha & Snuff",
+    "explanation": "Botswana slang for waterpipe smoking, causing lung damage.",
+    "slang": "Hookah",
+    "region": "BW"
+  },
+  {
+    "clinical": "Psychedelics",
+    "explanation": "Botswana slang for LSD, causing hallucinations and unpredictable reactions.",
+    "slang": "Acid",
+    "region": "BW"
+  },
+  {
+    "clinical": "Psychedelics",
+    "explanation": "Botswana term for psychedelic experiences, causing disorientation and risk.",
+    "slang": "Trips",
+    "region": "BW"
+  },
+  {
+    "clinical": "Ultra-Processed Foods & High-Sugar",
+    "explanation": "Setswana term for fat cakes, high in calories and linked to obesity.",
+    "slang": "Magwinya",
+    "region": "BW"
+  },
+  {
+    "clinical": "Ultra-Processed Foods & High-Sugar",
+    "explanation": "Setswana for chocolates/sweets, contributing to sugar addiction.",
+    "slang": "Ditshokolete",
+    "region": "BW"
+  },
+  {
+    "clinical": "OTCs & Lifestyle Supplements",
+    "explanation": "Setswana for counter pills, OTC medications commonly abused.",
+    "slang": "Dipilisi tsa lebenkele",
+    "region": "BW"
+  },
+  {
+    "clinical": "Forex & Crypto Trading Schemes",
+    "explanation": "Botswana slang for forex trading, often linked to financial scams.",
+    "slang": "Forex",
+    "region": "BW"
+  },
+  {
+    "clinical": "Forex & Crypto Trading Schemes",
+    "explanation": "Botswana term for cryptocurrency trading, causing financial ruin.",
+    "slang": "Crypto",
+    "region": "BW"
+  },
+  {
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "Popular betting game in Botswana, leading to debt and addiction.",
+    "slang": "Aviator",
+    "region": "BW"
+  },
+  {
+    "clinical": "Gambling & Sports Betting",
+    "explanation": "Botswana gambling venues, contributing to gambling addiction.",
+    "slang": "Casino",
+    "region": "BW"
+  },
+  {
+    "clinical": "Algorithmic Rage-Bait",
+    "explanation": "Botswana slang for online drama, fueling outrage addiction.",
+    "slang": "Drama",
+    "region": "BW"
+  },
+  {
+    "clinical": "Algorithmic Rage-Bait",
+    "explanation": "Botswana term for online fame-seeking, driving toxic behavior.",
+    "slang": "Clout",
+    "region": "BW"
+  },
+  {
+    "clinical": "Television & Scripted Reality",
+    "explanation": "Botswana term for excessive TV watching, affecting sleep and productivity.",
+    "slang": "Binge-watching",
+    "region": "BW"
+  },
+  {
+    "clinical": "Music as Behavioral Conditioning",
+    "explanation": "Botswana slang for drill music, associated with violent content.",
+    "slang": "Drill",
+    "region": "BW"
+  },
+  {
+    "clinical": "Music as Behavioral Conditioning",
+    "explanation": "Botswana term for trap music, glamorizing substance use.",
+    "slang": "Trap",
+    "region": "BW"
+  },
+  {
+    "clinical": "Major Depressive Disorder",
+    "explanation": "Setswana for 'pain of the soul', describing deep depression.",
+    "slang": "Botlhoko jwa mo mading",
+    "region": "BW"
+  },
+  {
+    "clinical": "Major Depressive Disorder",
+    "explanation": "Setswana for excessive thinking, a symptom of depression.",
+    "slang": "Fungisisa",
+    "region": "BW"
+  },
+  {
+    "clinical": "Generalized Anxiety Disorder",
+    "explanation": "Setswana for 'continuous fear', describing persistent anxiety.",
+    "slang": "Tshogo e e sa feleng",
+    "region": "BW"
+  },
+  {
+    "clinical": "Generalized Anxiety Disorder",
+    "explanation": "Setswana for 'racing heart', a physical symptom of anxiety.",
+    "slang": "Pelo e e itayang ko godimo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Panic Disorder & Panic Attacks",
+    "explanation": "Setswana for 'being overwhelmed by fear', describing panic attacks.",
+    "slang": "Go tlelwa ke tshogo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Post-Traumatic Stress Disorder",
+    "explanation": "Setswana for 'mind scars', describing PTSD symptoms.",
+    "slang": "Mabadi a monagano",
+    "region": "BW"
+  },
+  {
+    "clinical": "Adjustment Disorder",
+    "explanation": "Setswana for 'difficulty adjusting to change', describing adjustment issues.",
+    "slang": "Thata ya go twaela phetogo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Grief and Bereavement",
+    "explanation": "Setswana for 'mourning', describing the grief process.",
+    "slang": "Khutsafalo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Non-Suicidal Self-Injury",
+    "explanation": "Setswana for self-harm, involving deliberate self-injury.",
+    "slang": "Go ikgasa",
+    "region": "BW"
+  },
+  {
+    "clinical": "Suicidal Ideation",
+    "explanation": "Setswana for 'thoughts of killing oneself', describing suicidal ideation.",
+    "slang": "Dikakanyo tsa go ipolaya",
+    "region": "BW"
+  },
+  {
+    "clinical": "Obsessive-Compulsive Disorder",
+    "explanation": "Setswana for 'repetitive habit', describing OCD compulsions.",
+    "slang": "Mokgwa o o boelelang",
+    "region": "BW"
+  },
+  {
+    "clinical": "Body Dysmorphic Disorder",
+    "explanation": "Setswana for 'distress over body appearance', describing BDD.",
+    "slang": "Kutlobotlhoko ka tebego ya mmele",
+    "region": "BW"
+  },
+  {
+    "clinical": "Hoarding Disorder",
+    "explanation": "Setswana for 'collecting items', describing hoarding behavior.",
+    "slang": "Go kgobokanya dilo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Trichotillomania",
+    "explanation": "Setswana for 'hair-pulling', describing trichotillomania.",
+    "slang": "Go somola moriri",
+    "region": "BW"
+  },
+  {
+    "clinical": "Excoriation Disorder",
+    "explanation": "Setswana for 'skin-picking', describing excoriation disorder.",
+    "slang": "Go kgoa letlalo",
+    "region": "BW"
+  },
+  {
+    "clinical": "Borderline Personality Disorder",
+    "explanation": "Setswana for 'unstable emotions', describing BPD mood instability.",
+    "slang": "Maikutlo a a sa megamegeng",
+    "region": "BW"
+  },
+  {
+    "clinical": "Narcissistic Personality Disorder",
+    "explanation": "Setswana for 'excessive pride', describing narcissistic traits.",
+    "slang": "Ikgogomoso",
+    "region": "BW"
+  }
+]

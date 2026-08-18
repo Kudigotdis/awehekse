@@ -1,0 +1,173 @@
+[
+  {
+    "id": "fac-1",
+    "name": "National Psychiatric Hospital",
+    "type": "Psychiatric Hospital",
+    "province": "Harare",
+    "address": "Harare",
+    "phone": "+263 242 701 234",
+    "services": [
+      "Inpatient treatment",
+      "Outpatient services",
+      "Counselling",
+      "Rehabilitation"
+    ],
+    "lat": -17.8252,
+    "lng": 31.0335,
+    "free": true,
+    "country": "ZW"
+  },
+  {
+    "id": "fac-2",
+    "name": "Harare Central Hospital",
+    "type": "General Hospital",
+    "province": "Harare",
+    "address": "Harare",
+    "phone": "+263 242 701 555",
+    "services": [
+      "Mental health unit",
+      "Emergency services",
+      "Counselling"
+    ],
+    "lat": -17.8125,
+    "lng": 31.0431,
+    "free": true,
+    "country": "ZW"
+  },
+  {
+    "id": "fac-3",
+    "name": "Parirenyatwa Hospital",
+    "type": "General Hospital",
+    "province": "Harare",
+    "address": "Harare",
+    "phone": "+263 242 701 666",
+    "services": [
+      "Substance abuse unit",
+      "Mental health",
+      "Counselling"
+    ],
+    "lat": -17.8301,
+    "lng": 31.0288,
+    "free": true,
+    "country": "ZW"
+  },
+  {
+    "id": "fac-4",
+    "name": "United Bulawayo Hospitals",
+    "type": "General Hospital",
+    "province": "Bulawayo",
+    "address": "Bulawayo",
+    "phone": "+263 292 234 567",
+    "services": [
+      "Mental health unit",
+      "Substance abuse counselling"
+    ],
+    "lat": -20.1325,
+    "lng": 28.5806,
+    "free": true,
+    "country": "ZW"
+  },
+  {
+    "id": "fac-5",
+    "name": "Mutare Provincial Hospital",
+    "type": "Provincial Hospital",
+    "province": "Manicaland",
+    "address": "Mutare",
+    "phone": "+263 202 456 789",
+    "services": [
+      "Mental health",
+      "Substance abuse support"
+    ],
+    "lat": -18.9689,
+    "lng": 32.6417,
+    "free": true,
+    "country": "ZW"
+  },
+  {
+    "id": "fac-6",
+    "name": "Chitungwiza Central Hospital",
+    "type": "General Hospital",
+    "province": "Harare",
+    "address": "Chitungwiza",
+    "phone": "+263 242 334 567",
+    "services": [
+      "Mental health unit",
+      "Counselling"
+    ],
+    "lat": -18.0133,
+    "lng": 31.0783,
+    "free": true,
+    "country": "ZW"
+  },
+  {
+    "id": "fac-bw-1",
+    "name": "Princess Marina Hospital",
+    "type": "Major Referral Hospital",
+    "province": "South East",
+    "address": "Gaborone",
+    "phone": "+267 363 1000",
+    "services": [
+      "Emergency psychiatric stabilization",
+      "Acute detoxification",
+      "Psychiatric assessments"
+    ],
+    "lat": -24.6282,
+    "lng": 25.9084,
+    "free": true,
+    "country": "BW"
+  },
+  {
+    "id": "fac-bw-2",
+    "name": "Sbrana Psychiatric Hospital",
+    "type": "Psychiatric Hospital",
+    "province": "Southern",
+    "address": "Lobatse",
+    "phone": "+267 533 0000",
+    "services": [
+      "Acute psychiatric unit",
+      "Forensic unit",
+      "Psychiatric rehabilitation",
+      "Substance-induced psychosis management",
+      "Dual diagnosis treatment"
+    ],
+    "lat": -25.1286,
+    "lng": 25.6692,
+    "free": true,
+    "country": "BW"
+  },
+  {
+    "id": "fac-bw-3",
+    "name": "Sekgoma Memorial Hospital",
+    "type": "Rehabilitation Centre",
+    "province": "Central",
+    "address": "Serowe",
+    "phone": "+267 463 0000",
+    "services": [
+      "Inpatient detoxification",
+      "Psychological therapy",
+      "Outpatient follow-ups",
+      "Psychosocial rehabilitation"
+    ],
+    "lat": -22.7875,
+    "lng": 26.6878,
+    "free": true,
+    "country": "BW"
+  },
+  {
+    "id": "fac-bw-4",
+    "name": "Nyangabgwe Referral Hospital",
+    "type": "Major Referral Hospital",
+    "province": "North East",
+    "address": "Francistown",
+    "phone": "+267 241 0000",
+    "services": [
+      "Emergency psychiatric stabilization",
+      "Regional referrals",
+      "Psychiatric assessments"
+    ],
+    "lat": -21.1661,
+    "lng": 27.5144,
+    "free": true,
+    "country": "BW"
+  }
+]

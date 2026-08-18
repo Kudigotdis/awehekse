@@ -1,0 +1,640 @@
+{
+  "issues": {
+    "categories": [
+      {
+        "id": "addictive_substances",
+        "name": "Addictive Substances",
+        "icon": "🧪",
+        "zones": [
+          {
+            "id": "zone_1_uppers",
+            "name": "Zone 1 — Uppers",
+            "issues": [
+              {
+                "id": 1,
+                "slug": "crystal_methamphetamine",
+                "name": "Crystal Methamphetamine",
+                "slang": "Mutoriro / Tik / Dombo / Guka",
+                "description": "A highly addictive stimulant that causes rapid dopamine release, leading to severe physical and psychological dependence, dental decay, skin lesions, and paranoid psychosis."
+              },
+              {
+                "id": 2,
+                "slug": "cocaine_crack",
+                "name": "Cocaine & Crack Cocaine",
+                "slang": "Coke / Crack / Snow",
+                "description": "A powerful stimulant that produces intense euphoria, increased energy, and heightened alertness. Regular use leads to cardiovascular damage, nasal perforation, and severe psychological dependence."
+              },
+              {
+                "id": 3,
+                "slug": "khat_mairungi",
+                "name": "Khat / Mairungi",
+                "slang": "Mairungi / Miraa / Qat",
+                "description": "A stimulant plant chewed for its euphoric and energizing effects. Long-term use causes dental decay, insomnia, digestive issues, and financial strain."
+              },
+              {
+                "id": 4,
+                "slug": "energy_drinks_caffeine",
+                "name": "Energy Drinks & High-Caffeine Products",
+                "slang": "Red Bull / Monster / Sting",
+                "description": "High-caffeine beverages consumed for energy and alertness. Overuse leads to anxiety, heart palpitations, sleep disruption, and caffeine dependence."
+              }
+            ]
+          },
+          {
+            "id": "zone_2_downers",
+            "name": "Zone 2 — Downers",
+            "issues": [
+              {
+                "id": 5,
+                "slug": "heroin_nyaope",
+                "name": "Heroin & Street-Cut Opiates",
+                "slang": "Nyaope / Whoonga / Unga / H",
+                "description": "A highly addictive opioid that produces intense euphoria and pain relief. Street versions often contain toxic cutting agents. Withdrawal is severe and requires medical supervision."
+              },
+              {
+                "id": 6,
+                "slug": "prescription_cough_syrups",
+                "name": "Prescription Cough Syrups",
+                "slang": "Bronco / Broncleer / Codeine / Lean / Dirty Sprite",
+                "description": "Codeine-based cough syrups consumed recreationally. Physical dependence develops quickly. Withdrawal causes restless legs, stomach cramps, and extreme anxiety."
+              },
+              {
+                "id": 7,
+                "slug": "sedatives_dissociatives",
+                "name": "Sedatives & Dissociatives",
+                "slang": "Benzos / Mandrax / Valium / Mangemba",
+                "description": "Central nervous system depressants used for anxiety or recreation. Abrupt cessation can cause life-threatening seizures. Requires medical tapering."
+              },
+              {
+                "id": 8,
+                "slug": "inhalants_solvents",
+                "name": "Inhalants & Industrial Solvents",
+                "slang": "Glue / Petrol / Thinners / Genkem",
+                "description": "Volatile substances inhaled for intoxication. Causes severe neurological damage, organ failure, and sudden death. Particularly prevalent among street-connected youth."
+              },
+              {
+                "id": 9,
+                "slug": "alcohol_illicit_spirits",
+                "name": "Alcohol & Illicit Spirits",
+                "slang": "Musombodia / Kachasu / Tumbwa / Soldiers",
+                "description": "A widely available depressant. Chronic use causes liver disease, neurological damage, and severe withdrawal. Illicit brews carry additional methanol poisoning risks."
+              }
+            ]
+          },
+          {
+            "id": "zone_3_4_other",
+            "name": "Zone 3 & 4 — Other Chemical & Ambient",
+            "issues": [
+              {
+                "id": 10,
+                "slug": "cannabis_mbanje",
+                "name": "Cannabis / Mbanje / Skunk",
+                "slang": "Mbanje / Dagga / Weed / Skunk",
+                "description": "A psychoactive plant used for relaxation and euphoria. High-potency strains increase risk of anxiety, paranoia, and motivation loss. Legal status in Zimbabwe is decriminalized for personal use."
+              },
+              {
+                "id": 11,
+                "slug": "vaping_ecigarettes",
+                "name": "Vaping & E-Cigarettes",
+                "slang": "Vape / E-cig / Puff Bar",
+                "description": "Electronic nicotine delivery systems. Often perceived as safer than tobacco but carries respiratory risks and high nicotine dependence potential."
+              },
+              {
+                "id": 12,
+                "slug": "tobacco_shisha",
+                "name": "Combustible Tobacco, Shisha & Snuff",
+                "slang": "Cigarettes / Shisha / Snuff / Bute",
+                "description": "Traditional tobacco products. Leading cause of preventable death globally. Shisha use carries additional risks of infectious disease transmission."
+              },
+              {
+                "id": 13,
+                "slug": "psychedelics",
+                "name": "Psychedelics",
+                "slang": "Mushrooms / Acid / LSD / Shrooms",
+                "description": "Hallucinogenic substances that alter perception and cognition. Risk of persistent perceptual changes (HPPD) and triggering latent mental health conditions."
+              },
+              {
+                "id": 14,
+                "slug": "ultra_processed_foods_sugar",
+                "name": "Ultra-Processed Foods & High-Sugar",
+                "slang": "Junk Food / Sugar Addiction",
+                "description": "Highly palatable foods engineered to trigger dopamine release. Associated with obesity, metabolic disorders, and addictive eating patterns affecting all age groups."
+              },
+              {
+                "id": 15,
+                "slug": "otc_supplements",
+                "name": "OTCs & Lifestyle Supplements",
+                "slang": "Painkillers / Wellness Pills / Steroids",
+                "description": "Over-the-counter medications and supplements used outside therapeutic guidelines. Includes codeine-based painkillers, stimulant pills, and anabolic steroids."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conditioning_contents",
+        "name": "Conditioning Contents",
+        "icon": "📱",
+        "zones": [
+          {
+            "id": "digital_behavioral_loops",
+            "name": "Digital Behavioral Loops",
+            "issues": [
+              {
+                "id": 16,
+                "slug": "social_media_algorithms",
+                "name": "Social Media Algorithms",
+                "slang": "TikTok / Instagram / Twitter / Facebook",
+                "description": "Platforms engineered to maximize user engagement through variable reward schedules. Drives compulsive scrolling, social comparison, and attention fragmentation."
+              },
+              {
+                "id": 17,
+                "slug": "algorithmic_rage_bait",
+                "name": "Algorithmic Rage-Bait & Outrage Farming",
+                "slang": "Outrage Content / Clickbait",
+                "description": "Content designed to provoke strong emotional responses, increasing engagement at the cost of mental well-being and social cohesion."
+              },
+              {
+                "id": 18,
+                "slug": "online_gaming_microtransactions",
+                "name": "Online Gaming & Microtransactions",
+                "slang": "Loot Boxes / Skin Gambling / Pay-to-Play",
+                "description": "Digital games designed with psychological hooks to maximize time and money spent. Includes gambling-like mechanics in games accessible to minors."
+              },
+              {
+                "id": 19,
+                "slug": "pornography_sexualized_media",
+                "name": "Pornography & Hyper-Sexualized Media",
+                "slang": "Porn / Adult Content",
+                "description": "Explicit media that can alter sexual expectations, intimacy patterns, and self-image. May escalate to compulsive use patterns with significant relational impact."
+              },
+              {
+                "id": 20,
+                "slug": "dating_connection_apps",
+                "name": "Dating & Hookup Apps",
+                "slang": "Tinder / Bumble / Hinge",
+                "description": "Platforms gamifying romantic connections, often leading to validation-seeking, shallow interactions, and reduced capacity for real-world intimacy."
+              },
+              {
+                "id": 21,
+                "slug": "impulse_ecommerce",
+                "name": "Impulse E-Commerce & Haul Culture",
+                "slang": "Temu / Shein / Dopamine Shopping",
+                "description": "Online shopping platforms designed for frictionless purchasing. Drives compulsive buying, financial strain, and environmental waste."
+              },
+              {
+                "id": 22,
+                "slug": "gambling_sports_betting",
+                "name": "Gambling & Sports Betting",
+                "slang": "Aviator / Mabhetis / Sports Betting",
+                "description": "Digital betting platforms with variable reward schedules. Can rapidly lead to severe financial losses, debt, and family breakdown. Often targets low-income communities."
+              },
+              {
+                "id": 23,
+                "slug": "forex_crypto_trading",
+                "name": "Forex & Crypto Trading Schemes",
+                "slang": "Forex Trading / Crypto / Ponzi",
+                "description": "High-risk speculative trading often marketed as wealth-building. Many schemes are fraudulent, leading to significant financial loss and psychological distress."
+              }
+            ]
+          },
+          {
+            "id": "traditional_media",
+            "name": "Traditional Media",
+            "issues": [
+              {
+                "id": 24,
+                "slug": "television_bingeing",
+                "name": "Television & Scripted Reality Bingeing",
+                "slang": "Reality TV / Drama Bingeing",
+                "description": "Passive consumption of television content, often reality or scripted drama. Contributes to sedentary lifestyle, social isolation, and distorted perception of relationships."
+              },
+              {
+                "id": 25,
+                "slug": "radio_advertising_loops",
+                "name": "Radio & Commercial Advertising Loops",
+                "slang": "Radio Ads / Jingles",
+                "description": "Repetitive advertising that conditions consumer behavior, often promoting alcohol, gambling, and unhealthy products."
+              },
+              {
+                "id": 26,
+                "slug": "music_conditioning",
+                "name": "Music as Behavioral Conditioning",
+                "slang": "Drill Music / Subliminal Lyrics",
+                "description": "Music content that normalizes substance use, violence, and materialism, particularly influential among youth and young adults."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mental_health",
+        "name": "Mental Health & Behavioral Distress",
+        "icon": "🧠",
+        "zones": [
+          {
+            "id": "mood_anxiety",
+            "name": "Mood & Anxiety",
+            "issues": [
+              {
+                "id": 27,
+                "slug": "major_depressive_disorder",
+                "name": "Major Depressive Disorder",
+                "slang": "Kurova nepfungwa / Depression",
+                "description": "A mood disorder characterized by persistent sadness, loss of interest, fatigue, and changes in sleep and appetite. Often co-occurs with substance use."
+              },
+              {
+                "id": 28,
+                "slug": "bipolar_disorder",
+                "name": "Bipolar Disorder (Type I & II)",
+                "slang": "Manic Depression",
+                "description": "A mood disorder with alternating episodes of depression and mania/hypomania. Requires ongoing management with medication and lifestyle stability."
+              },
+              {
+                "id": 29,
+                "slug": "dysthymia",
+                "name": "Persistent Depressive Disorder (Dysthymia)",
+                "slang": "Chronic Low Mood",
+                "description": "A chronic, low-grade depression lasting at least two years. Often overlooked but significantly impairs quality of life."
+              },
+              {
+                "id": 30,
+                "slug": "seasonal_affective_disorder",
+                "name": "Seasonal Affective Disorder (SAD)",
+                "slang": "Winter Blues / Seasonal Depression",
+                "description": "Depression that occurs seasonally, typically in winter months. Linked to reduced sunlight exposure and circadian disruption."
+              },
+              {
+                "id": 31,
+                "slug": "generalized_anxiety_disorder",
+                "name": "Generalized Anxiety Disorder",
+                "slang": "Mapangachini / Constant Worry",
+                "description": "Excessive, uncontrollable worry about everyday life events. Associated with physical symptoms like palpitations, tension, and sleep disturbance."
+              },
+              {
+                "id": 32,
+                "slug": "social_anxiety_disorder",
+                "name": "Social Anxiety Disorder",
+                "slang": "Fear of Judgment / Social Phobia",
+                "description": "Intense fear of social situations and negative evaluation. Leads to avoidance that impacts education, employment, and relationships."
+              },
+              {
+                "id": 33,
+                "slug": "panic_disorder",
+                "name": "Panic Disorder & Panic Attacks",
+                "slang": "Panic Attacks / Anxiety Attacks",
+                "description": "Recurrent, unexpected panic attacks accompanied by fear of future attacks. Physical symptoms include heart palpitations, shortness of breath, and dizziness."
+              },
+              {
+                "id": 34,
+                "slug": "specific_phobias",
+                "name": "Specific Phobias",
+                "slang": "Irrational Fears",
+                "description": "Intense, irrational fear of specific objects or situations (e.g., heights, animals, blood). Causes significant avoidance behavior."
+              },
+              {
+                "id": 35,
+                "slug": "agoraphobia",
+                "name": "Agoraphobia",
+                "slang": "Fear of Open Spaces",
+                "description": "Fear of situations where escape might be difficult or help unavailable. Often leads to severe restriction of activities and social isolation."
+              }
+            ]
+          },
+          {
+            "id": "trauma_stress",
+            "name": "Trauma & Stress-Related",
+            "issues": [
+              {
+                "id": 36,
+                "slug": "ptsd",
+                "name": "Post-Traumatic Stress Disorder (PTSD)",
+                "slang": "PTSD / Trauma Response",
+                "description": "A disorder triggered by exposure to traumatic events. Symptoms include flashbacks, hypervigilance, avoidance, and emotional numbing."
+              },
+              {
+                "id": 37,
+                "slug": "cptsd",
+                "name": "Complex PTSD (C-PTSD)",
+                "slang": "C-PTSD / Long-term Trauma",
+                "description": "A related condition resulting from prolonged, repeated trauma, often in childhood. Involves affect dysregulation, negative self-concept, and interpersonal difficulties."
+              },
+              {
+                "id": 38,
+                "slug": "acute_stress_disorder",
+                "name": "Acute Stress Disorder",
+                "slang": "Recent Trauma",
+                "description": "An intense stress response occurring within one month of a traumatic event. May develop into PTSD if unresolved."
+              },
+              {
+                "id": 39,
+                "slug": "adjustment_disorder",
+                "name": "Adjustment Disorder",
+                "slang": "Life Change Stress",
+                "description": "A stress response to a specific life change or event (e.g., divorce, job loss). Symptoms include anxiety, depression, and behavioral changes."
+              },
+              {
+                "id": 40,
+                "slug": "grief_bereavement",
+                "name": "Grief and Bereavement",
+                "slang": "Loss / Mourning",
+                "description": "The psychological response to loss. May become complicated when grief is prolonged or interferes with daily functioning."
+              }
+            ]
+          },
+          {
+            "id": "self_harm_crisis",
+            "name": "Self-Harm & Suicidal Crisis",
+            "issues": [
+              {
+                "id": 41,
+                "slug": "nonsuicidal_self_injury",
+                "name": "Non-Suicidal Self-Injury (NSSI)",
+                "slang": "Cutting / Self-Harm",
+                "description": "Self-inflicted harm without suicidal intent, often as an emotional regulation strategy. Requires compassionate intervention and distress tolerance skills.",
+                "crisis": true
+              },
+              {
+                "id": 42,
+                "slug": "suicidal_ideation",
+                "name": "Suicidal Ideation",
+                "slang": "Suicidal Thoughts",
+                "description": "Thoughts of ending one's life. Requires immediate, non-judgmental assessment and professional intervention.",
+                "crisis": true
+              },
+              {
+                "id": 43,
+                "slug": "suicide_attempt_recovery",
+                "name": "Suicide Attempt Recovery",
+                "slang": "Post-Attempt Care",
+                "description": "Ongoing support following a suicide attempt. Requires comprehensive mental health care, safety planning, and family involvement.",
+                "crisis": true
+              }
+            ]
+          },
+          {
+            "id": "eating_disorders",
+            "name": "Eating Disorders",
+            "issues": [
+              {
+                "id": 44,
+                "slug": "anorexia_nervosa",
+                "name": "Anorexia Nervosa",
+                "slang": "Restrictive Eating",
+                "description": "Characterized by severe restriction of food intake, intense fear of weight gain, and distorted body image. Can be life-threatening."
+              },
+              {
+                "id": 45,
+                "slug": "bulimia_nervosa",
+                "name": "Bulimia Nervosa",
+                "slang": "Binge-Purge",
+                "description": "Episodes of binge eating followed by purging behaviors. Associated with medical complications including electrolyte imbalances."
+              },
+              {
+                "id": 46,
+                "slug": "binge_eating_disorder",
+                "name": "Binge Eating Disorder",
+                "slang": "Compulsive Overeating",
+                "description": "Recurrent episodes of eating large quantities of food with loss of control, without purging. Associated with distress and obesity."
+              },
+              {
+                "id": 47,
+                "slug": "arfid",
+                "name": "ARFID (Avoidant/Restrictive Food Intake Disorder)",
+                "slang": "Avoidant Eating",
+                "description": "Eating disorder characterized by limited food intake based on sensory sensitivity or fear of consequences, without body image disturbance."
+              },
+              {
+                "id": 48,
+                "slug": "orthorexia_nervosa",
+                "name": "Orthorexia Nervosa",
+                "slang": "Obsessive Healthy Eating",
+                "description": "An obsession with healthy eating that becomes restrictive and interferes with daily life. Often overlooked in wellness culture."
+              }
+            ]
+          },
+          {
+            "id": "neurodevelopmental",
+            "name": "Focus & Neurodevelopmental",
+            "issues": [
+              {
+                "id": 49,
+                "slug": "adhd",
+                "name": "ADHD (Attention Deficit Hyperactivity Disorder)",
+                "slang": "ADHD / Attention Deficit",
+                "description": "A neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity. Often undiagnosed in adults."
+              },
+              {
+                "id": 50,
+                "slug": "autism_spectrum",
+                "name": "Autism Spectrum Disorder (ASD)",
+                "slang": "ASD / Autism",
+                "description": "A lifelong neurodevelopmental condition affecting social communication, behavior, and sensory processing. Often requires tailored support."
+              },
+              {
+                "id": 51,
+                "slug": "learning_disorders",
+                "name": "Learning Disorders (Dyslexia, Dyscalculia)",
+                "slang": "Dyslexia / Dyscalculia",
+                "description": "Specific learning difficulties affecting reading (dyslexia) or math (dyscalculia). Often lead to academic frustration and low self-esteem."
+              },
+              {
+                "id": 52,
+                "slug": "intellectual_disability",
+                "name": "Intellectual Disability",
+                "slang": "Learning Difficulty",
+                "description": "A condition with limitations in intellectual functioning and adaptive behavior. Requires tailored support across life domains."
+              }
+            ]
+          },
+          {
+            "id": "ocd_related",
+            "name": "OCD & Related Disorders",
+            "issues": [
+              {
+                "id": 53,
+                "slug": "ocd",
+                "name": "Obsessive-Compulsive Disorder (OCD)",
+                "slang": "OCD / Compulsive Disorder",
+                "description": "Characterized by intrusive thoughts (obsessions) and repetitive behaviors (compulsions). Causes significant distress and impairment."
+              },
+              {
+                "id": 54,
+                "slug": "body_dysmorphic_disorder",
+                "name": "Body Dysmorphic Disorder (BDD)",
+                "slang": "Body Dysmorphia",
+                "description": "Preoccupation with perceived flaws in physical appearance. Often leads to excessive mirror-checking, cosmetic procedures, and social avoidance."
+              },
+              {
+                "id": 55,
+                "slug": "hoarding_disorder",
+                "name": "Hoarding Disorder",
+                "slang": "Compulsive Hoarding",
+                "description": "Persistent difficulty discarding possessions, leading to accumulation that compromises living spaces and daily functioning."
+              },
+              {
+                "id": 56,
+                "slug": "trichotillomania",
+                "name": "Trichotillomania (Hair Pulling)",
+                "slang": "Hair Pulling",
+                "description": "A body-focused repetitive behavior involving recurrent hair pulling. Often used as a stress-reduction mechanism."
+              },
+              {
+                "id": 57,
+                "slug": "excoriation_disorder",
+                "name": "Excoriation Disorder (Skin Picking)",
+                "slang": "Skin Picking",
+                "description": "Recurrent skin picking resulting in lesions. Associated with significant distress and social embarrassment."
+              }
+            ]
+          },
+          {
+            "id": "personality_disorders",
+            "name": "Personality Disorders",
+            "issues": [
+              {
+                "id": 58,
+                "slug": "borderline_personality_disorder",
+                "name": "Borderline Personality Disorder (BPD)",
+                "slang": "BPD / Emotional Dysregulation",
+                "description": "A condition with unstable moods, relationships, and self-image. Intense fear of abandonment and difficulty regulating emotions."
+              },
+              {
+                "id": 59,
+                "slug": "narcissistic_personality_disorder",
+                "name": "Narcissistic Personality Disorder (NPD)",
+                "slang": "NPD / Grandiosity",
+                "description": "A pattern of grandiosity, need for admiration, and lack of empathy. Often coexists with substance use or other mental health conditions."
+              },
+              {
+                "id": 60,
+                "slug": "antisocial_personality_disorder",
+                "name": "Antisocial Personality Disorder",
+                "slang": "ASPD / Sociopathy",
+                "description": "A disregard for others' rights, lack of remorse, and manipulative behavior. Often intersects with criminal justice system involvement."
+              },
+              {
+                "id": 61,
+                "slug": "avoidant_personality_disorder",
+                "name": "Avoidant Personality Disorder",
+                "slang": "AvPD / Social Withdrawal",
+                "description": "A pattern of social inhibition, feelings of inadequacy, and hypersensitivity to criticism. Results in significant social isolation."
+              }
+            ]
+          },
+          {
+            "id": "psychotic_disorders",
+            "name": "Psychotic Disorders",
+            "issues": [
+              {
+                "id": 62,
+                "slug": "schizophrenia",
+                "name": "Schizophrenia",
+                "slang": "Schizophrenia / Psychosis",
+                "description": "A severe mental disorder with symptoms including hallucinations, delusions, disorganized thinking, and impaired daily functioning."
+              },
+              {
+                "id": 63,
+                "slug": "schizoaffective_disorder",
+                "name": "Schizoaffective Disorder",
+                "slang": "Schizoaffective",
+                "description": "A condition with features of both schizophrenia and a mood disorder (depression or bipolar). Requires both psychiatric and mood management."
+              },
+              {
+                "id": 64,
+                "slug": "brief_psychotic_disorder",
+                "name": "Brief Psychotic Disorder",
+                "slang": "Short-term Psychosis",
+                "description": "Sudden, short-lived psychotic episodes often triggered by extreme stress. Usually resolves within one month."
+              },
+              {
+                "id": 65,
+                "slug": "substance_induced_psychosis",
+                "name": "Substance-Induced Psychosis",
+                "slang": "Drug-Induced Psychosis",
+                "description": "Psychotic symptoms directly caused by substance use or withdrawal. Often resolves with cessation but may persist in vulnerable individuals."
+              }
+            ]
+          },
+          {
+            "id": "somatic_sleep_sociocultural",
+            "name": "Somatic, Dissociative, Sleep & Socio-Cultural Issues",
+            "issues": [
+              {
+                "id": 66,
+                "slug": "somatic_symptom_disorder",
+                "name": "Somatic Symptom Disorder",
+                "slang": "Physical Symptoms",
+                "description": "Distress about physical symptoms that are disproportionate to any underlying medical condition. Significant healthcare seeking and functional impairment."
+              },
+              {
+                "id": 67,
+                "slug": "dissociative_identity_disorder",
+                "name": "Dissociative Identity Disorder (DID)",
+                "slang": "DID / Multiple Personality",
+                "description": "Disruption of identity with two or more distinct personality states. Often develops in response to severe trauma in childhood."
+              },
+              {
+                "id": 68,
+                "slug": "depersonalization_derealization",
+                "name": "Depersonalization / Derealization Disorder",
+                "slang": "Detachment / Dissociation",
+                "description": "Persistent feelings of unreality, detachment from self (depersonalization) or surroundings (derealization). Can be chronic and distressing."
+              },
+              {
+                "id": 69,
+                "slug": "insomnia_disorder",
+                "name": "Insomnia Disorder",
+                "slang": "Sleep Difficulty",
+                "description": "Difficulty falling asleep, staying asleep, or early morning waking. Affects mood, cognition, and physical health."
+              },
+              {
+                "id": 70,
+                "slug": "hypersomnia",
+                "name": "Hypersomnia",
+                "slang": "Excessive Sleep",
+                "description": "Excessive daytime sleepiness or prolonged nighttime sleep. Can be primary or secondary to depression, substance use, or medical conditions."
+              },
+              {
+                "id": 71,
+                "slug": "delayed_sleep_phase",
+                "name": "Delayed Sleep Phase Disorder",
+                "slang": "Circadian Shift",
+                "description": "A sleep disorder where the circadian rhythm is delayed, leading to difficulty sleeping at conventional times. Often affects adolescents and young adults."
+              },
+              {
+                "id": 72,
+                "slug": "academic_stress_disorder",
+                "name": "Academic Stress Disorder",
+                "slang": "Study Pressure",
+                "description": "Severe stress related to academic performance, including exam anxiety, perfectionism, and pressure to succeed. Can lead to dropout and mental health crises."
+              },
+              {
+                "id": 73,
+                "slug": "unemployment_depression",
+                "name": "Unemployment Depression (Ma1)",
+                "slang": "Ma1 / Job Loss Depression",
+                "description": "Depression resulting from unemployment and economic hardship. Associated with loss of identity, social status, and purpose. Widespread in high-unemployment contexts."
+              },
+              {
+                "id": 74,
+                "slug": "substance_induced_mood_disorder",
+                "name": "Substance-Induced Mood Disorder",
+                "slang": "Chemical Mood Shift",
+                "description": "Mood disturbances directly caused by substance use or withdrawal. Can mimic depression, anxiety, or bipolar disorder."
+              },
+              {
+                "id": 75,
+                "slug": "cultural_spiritual_distress",
+                "name": "Cultural & Spiritual Distress",
+                "slang": "Spiritual Crisis / Cultural Conflict",
+                "description": "Distress arising from cultural value conflicts, spiritual crises, or disconnection from traditional practices. Often manifests as somatic or emotional symptoms."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "total_issues": 75
+  }
+}

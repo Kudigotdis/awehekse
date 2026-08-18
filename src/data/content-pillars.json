@@ -1,0 +1,138 @@
+[
+  {
+    "id": "alcohol",
+    "name": "Alcohol",
+    "category": "Substances",
+    "pillar": "Knowledge",
+    "icon": "🍺",
+    "shortDesc": "A depressant that affects the central nervous system.",
+    "effects": ["Impaired judgment", "Liver damage", "Addiction risk", "Mental health impact"],
+    "myths": [
+      { "myth": "Alcohol is not a drug because it's legal.", "fact": "Alcohol is a psychoactive drug. Legal status doesn't determine whether something is a drug." },
+      { "myth": "Coffee can sober you up.", "fact": "Coffee only makes you more alert while still intoxicated. It doesn't reduce blood alcohol level." }
+    ],
+    "region": "ZW",
+    "regionalContext": "Traditional beer (doro) is deeply embedded in Shona and Ndebele culture. Understanding the line between cultural practice and harmful use is essential."
+  },
+  {
+    "id": "tobacco",
+    "name": "Tobacco",
+    "category": "Substances",
+    "pillar": "Knowledge",
+    "icon": "🚬",
+    "shortDesc": "A highly addictive plant product containing nicotine.",
+    "effects": ["Lung cancer", "Heart disease", "Respiratory issues", "Nicotine dependence"],
+    "myths": [
+      { "myth": "Light cigarettes are safer.", "fact": "Light cigarettes still cause cancer and heart disease. There is no safe cigarette." },
+      { "myth": "Hookah is safer than cigarettes.", "fact": "Hookah smoking carries many of the same health risks as cigarette smoking." }
+    ],
+    "region": "ZW",
+    "regionalContext": "Tobacco is Zimbabwe's largest export crop, but local consumption rates are rising, especially among youth."
+  },
+  {
+    "id": "cannabis",
+    "name": "Cannabis (Marijuana)",
+    "category": "Substances",
+    "pillar": "Knowledge",
+    "icon": "🌿",
+    "shortDesc": "A psychoactive plant that affects memory, mood, and coordination.",
+    "effects": ["Memory impairment", "Anxiety", "Lung irritation", "Dependency risk"],
+    "myths": [
+      { "myth": "Cannabis is not addictive.", "fact": "About 9% of users develop dependence. This rises to 17% for those who start in adolescence." },
+      { "myth": "Cannabis is completely harmless.", "fact": "Regular use can affect brain development in teens and lead to respiratory issues." }
+    ],
+    "region": "ZW",
+    "regionalContext": "Known locally as 'mbanje', cannabis use is widespread but carries legal penalties. Medicinal use is being explored globally."
+  },
+  {
+    "id": "meth",
+    "name": "Methamphetamine",
+    "category": "Substances",
+    "pillar": "Knowledge",
+    "icon": "💊",
+    "shortDesc": "A highly addictive synthetic stimulant that damages the brain.",
+    "effects": ["Brain damage", "Psychosis", "Severe weight loss", "Dental destruction"],
+    "myths": [
+      { "myth": "You can control your use.", "fact": "Methamphetamine is one of the most addictive substances known. Most users cannot control their use." },
+      { "myth": "Crystal meth is different from meth.", "fact": "Crystal meth is simply a crystalline form of methamphetamine. Same drug, same dangers." }
+    ],
+    "region": "ZW",
+    "regionalContext": "Known as 'mutoriro' or 'guka', meth use has surged in Zimbabwe's urban areas, particularly among young people."
+  },
+  {
+    "id": "prescription_drugs",
+    "name": "Prescription Drug Misuse",
+    "category": "Substances",
+    "pillar": "Knowledge",
+    "icon": "💉",
+    "shortDesc": "Using prescription medications in ways other than directed.",
+    "effects": ["Organ damage", "Overdose risk", "Dependence", "Interaction dangers"],
+    "myths": [
+      { "myth": "Prescription drugs are safe because a doctor prescribed them.", "fact": "When misused, prescription drugs can be just as dangerous as illegal substances." },
+      { "myth": "Taking more than prescribed works faster.", "fact": "Overdosing on prescription drugs can cause organ failure and death." }
+    ],
+    "region": "ZW",
+    "regionalContext": "Access to prescription medications without proper oversight is common. Codeine-based cough syrups are frequently misused."
+  },
+  {
+    "id": "peer_pressure",
+    "name": "Peer Pressure",
+    "category": "Life Skills",
+    "pillar": "Life Skills",
+    "icon": "👥",
+    "shortDesc": "Social pressure to conform to group behaviour.",
+    "content": "Peer pressure is one of the strongest factors in teen substance initiation. Learning to recognise and resist it is a critical life skill.",
+    "strategies": ["Practice saying NO", "Choose friends wisely", "Have an exit plan", "Find supportive peers"],
+    "region": "ZW",
+    "regionalContext": "In Zimbabwe, peer pressure often intersects with 'ubuntu' values of community. Finding culturally appropriate ways to assert individual choice is key."
+  },
+  {
+    "id": "refusal_skills",
+    "name": "Refusal Skills",
+    "category": "Life Skills",
+    "pillar": "Life Skills",
+    "icon": "🛑",
+    "shortDesc": "Techniques for saying no effectively.",
+    "techniques": ["The Direct No", "The Alternative Suggestion", "The Delayed Decision", "The Group Exit"],
+    "content": "Being able to say no confidently is one of the most protective skills against substance abuse. Practice makes it easier.",
+    "region": "ZW",
+    "regionalContext": "Role-playing scenarios that reflect local situations (e.g., graduation parties, sports events) makes practice more relevant."
+  },
+  {
+    "id": "mental_health",
+    "name": "Mental Health",
+    "category": "Wellbeing",
+    "pillar": "Wellbeing",
+    "icon": "🧠",
+    "shortDesc": "Understanding mental health and when to seek help.",
+    "content": "Mental health conditions often co-occur with substance use. Addressing both is essential for recovery.",
+    "signs": ["Persistent sadness", "Withdrawal from friends", "Changes in sleep or appetite", "Difficulty concentrating", "Loss of interest"],
+    "resources": ["Friendship Bench Zimbabwe", "Zimbabwe Psychological Association", "National Psychiatric Hospital"],
+    "region": "ZW",
+    "regionalContext": "Mental health stigma is significant in Zimbabwe. The Friendship Bench project offers a culturally appropriate model for community-based mental health support."
+  },
+  {
+    "id": "healthy_coping",
+    "name": "Healthy Coping Strategies",
+    "category": "Wellbeing",
+    "pillar": "Wellbeing",
+    "icon": "💪",
+    "shortDesc": "Positive ways to manage stress and emotions.",
+    "strategies": ["Physical exercise", "Deep breathing", "Journaling", "Talking to someone", "Creative expression", "Spending time in nature"],
+    "content": "When stress feels overwhelming, healthy coping strategies provide alternatives to substance use. Find what works for you.",
+    "region": "ZW",
+    "regionalContext": "Traditional practices like community gathering, storytelling (ngano), and music can be powerful coping tools."
+  },
+  {
+    "id": "addiction_science",
+    "name": "The Science of Addiction",
+    "category": "Knowledge",
+    "pillar": "Knowledge",
+    "icon": "🔬",
+    "shortDesc": "How substances hijack the brain's reward system.",
+    "content": "Addiction is a brain disease, not a moral failing. Substances flood the brain with dopamine, creating artificial highs that the brain becomes dependent on.",
+    "keyConcepts": ["Dopamine and reward pathways", "Tolerance and dependence", "Withdrawal symptoms", "Neuroplasticity and recovery"],
+    "region": "ZW",
+    "regionalContext": "Understanding addiction as a medical condition helps reduce stigma in communities where substance use is often seen as 'lack of willpower'."
+  }
+]
