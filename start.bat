@@ -1,5 +1,9 @@
 @echo off
 title Aweh Ekse!
 echo Starting Aweh Ekse!...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :8080 ^| findstr LISTENING') do taskkill /PID %%a /F >nul 2>&1
+echo Building...
+call npm run build
+echo Starting server...
 start http://localhost:8080
 npx serve dist -l 8080 --no-clipboard
