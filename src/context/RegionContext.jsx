@@ -7,7 +7,12 @@ export const FALLBACK_REGION = 'BW'
 
 export function RegionProvider({ children }) {
   const [region, setRegion] = useState(() => {
-    return localStorage.getItem(STORAGE_KEY) || 'BW'
+    const stored = localStorage.getItem(STORAGE_KEY)
+    if (stored && stored !== 'BW' && stored !== 'ZW') {
+      localStorage.removeItem(STORAGE_KEY)
+      return 'BW'
+    }
+    return stored || 'BW'
   })
 
   const setCurrentRegion = useCallback((code) => {

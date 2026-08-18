@@ -1,7 +1,6 @@
 import { useState, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useRegion } from '../context/RegionContext'
-import { useActiveProfile } from '../context/ProfileContext'
 import Modal from '../components/ui/Modal'
 
 const AVAILABLE = ['BW', 'ZW']
@@ -9,7 +8,6 @@ const AVAILABLE = ['BW', 'ZW']
 export default function RegionSelect() {
   const navigate = useNavigate()
   const { regions, region, setCurrentRegion } = useRegion()
-  const { activeProfile } = useActiveProfile()
   const [showUnavailable, setShowUnavailable] = useState(false)
   const [unavailableName, setUnavailableName] = useState('')
 
@@ -32,22 +30,12 @@ export default function RegionSelect() {
   return (
     <div data-page="Region_Select_Page" aria-label="Region Select Page" className="space-y-4">
       <div className="flex items-center justify-between">
-        <button onClick={() => navigate(-1)} className="text-sm text-tov-green hover:underline">&larr; Back</button>
+        <button onClick={() => navigate('/')} className="text-sm text-tov-green hover:underline">&larr; Back</button>
       </div>
       <div>
         <h1 className="text-2xl font-bold text-stone-800">Select Region</h1>
         <p className="mt-1 text-sm text-stone-500">SADC countries. Your region adjusts the content that loads into the app.</p>
       </div>
-      {!activeProfile && (
-        <div className="rounded-2xl border border-tov-orange/30 bg-tov-orange/5 p-4">
-          <p className="text-sm font-medium text-tov-orange">Create a profile to select a region</p>
-          <p className="mt-1 text-xs text-stone-600">A profile is required to save your region selection.</p>
-          <button onClick={() => navigate('/profile')}
-            className="mt-3 rounded-xl bg-tov-orange px-4 py-2 text-sm font-semibold text-white">
-            Login / Create Profile
-          </button>
-        </div>
-      )}
       <div className="space-y-2">
         {sortedRegions.map(r => {
           const isAvailable = AVAILABLE.includes(r.code)
